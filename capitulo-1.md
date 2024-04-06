@@ -43,34 +43,34 @@ Tecny es una innovadora startup creada por estudiantes de la UPC de la carrera d
 
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
-| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//upc.png" alt="UPC"> | Mi nombre es Henry Centurión, tengo 21 años y soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Soy alguien feliz, tranquilo y a quien le gusta trabajar en equipo para llegar a las metas acordadas. Siempre he estado interesado en la tecnología y cómo es que funcionan desde su código base. Además de ello, mis pasatiempos son hacer deporte en general y programar en C++, el cual es mi principal lenguaje de programación. Mi meta es convertirme en un gran profesional y aportar mi conocimiento a la sociedad.|
+| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//henry.png" alt="UPC"> | Mi nombre es Henry Centurión, tengo 21 años y soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Soy alguien feliz, tranquilo y a quien le gusta trabajar en equipo para llegar a las metas acordadas. Siempre he estado interesado en la tecnología y cómo es que funcionan desde su código base. Además de ello, mis pasatiempos son hacer deporte en general y programar en C++, el cual es mi principal lenguaje de programación. Mi meta es convertirme en un gran profesional y aportar mi conocimiento a la sociedad.|
 <br>
 
 #### John Atencio
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
-| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//upc.png" alt="UPC"> | Mi nombre es John Atencio, actualmente tengo 21 años y estoy estudiando la carrera de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Dentro de mis aspectos personales, siempre me he considerado alguien bastante relajado y sobre todo curioso. Por ello, desde niño he tenido la curiosidad de conocer los procesos y funciones detrás de las computadoras para que estas operen como un minicerebro. Esto último, fue fundamental para la elección de mi carrera.|
+| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//john.png" alt="UPC"> | Mi nombre es John Atencio, actualmente tengo 21 años y estoy estudiando la carrera de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Dentro de mis aspectos personales, siempre me he considerado alguien bastante relajado y sobre todo curioso. Por ello, desde niño he tenido la curiosidad de conocer los procesos y funciones detrás de las computadoras para que estas operen como un minicerebro. Esto último, fue fundamental para la elección de mi carrera.|
 
 <br>
 
 #### Sebastian Frisancho
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
-| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//upc.png" alt="UPC"> | Mi nombre es Sebastian Frisancho, tengo 21 años y soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me gustan los deportes como ir al gimnasio, practicar fútbol, básquet e incluso natación. Desde pequeño me encontré rodeado de tecnología por lo que me gustaría poder tener softwares propios que me generen ingresos sin tener que trabajar en una ciudad fija. Me gustaría estudiar de manera autodidacta HTML, CSS y SQL para poder tener más conocimientos que me sirvan en mi futuro.|
+| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//free.png" alt="UPC"> | Mi nombre es Sebastian Frisancho, tengo 21 años y soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me gustan los deportes como ir al gimnasio, practicar fútbol, básquet e incluso natación. Desde pequeño me encontré rodeado de tecnología por lo que me gustaría poder tener softwares propios que me generen ingresos sin tener que trabajar en una ciudad fija. Me gustaría estudiar de manera autodidacta HTML, CSS y SQL para poder tener más conocimientos que me sirvan en mi futuro.|
 
 <br>
 
 #### Sebastian Mendez
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
-| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//upc.png" alt="UPC"> | Mi nombre es Sebastian Mendez, tengo 19 años y actualmente estoy cursando el tercer ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Puedo decir que soy una persona muy perseverante, con metas claras y con objetivos propuestos a futuro. Además, soy una persona que considera que tiene mucha curiosidad con respecto al tema de la tecnología y sobre qué hay detrás de todo el tema de la programación. Mis pasatiempos son, jugar al básquet, los videojuegos, ir al gimnasio y programar ocasionalmente.|
+| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//sebastian.png" alt="UPC"> | Mi nombre es Sebastian Mendez, tengo 19 años y actualmente estoy cursando el tercer ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Puedo decir que soy una persona muy perseverante, con metas claras y con objetivos propuestos a futuro. Además, soy una persona que considera que tiene mucha curiosidad con respecto al tema de la tecnología y sobre qué hay detrás de todo el tema de la programación. Mis pasatiempos son, jugar al básquet, los videojuegos, ir al gimnasio y programar ocasionalmente.|
 
 <br>
 
 #### Francis Mamani
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
-| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//upc.png" alt="UPC"> | Mi nombre es Francis Daniel Mamani Silva, un estudiante de 19 años de origen peruano con una pasión desenfrenada por los videojuegos. Actualmente estoy inmerso en mi carrera de Ingeniería de Software, donde combino mi amor por la tecnología con mi fascinación por los juegos. Destacándome en mis estudios universitarios, aspiro a fusionar estos dos mundos para contribuir al desarrollo de experiencias interactivas innovadoras. Mi energía optimista, junto con mi creatividad y determinación, me posicionan como un futuro líder en la industria del desarrollo de software. |
+| <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//francis.png" alt="UPC"> | Mi nombre es Francis Daniel Mamani Silva, un estudiante de 19 años de origen peruano con una pasión desenfrenada por los videojuegos. Actualmente estoy inmerso en mi carrera de Ingeniería de Software, donde combino mi amor por la tecnología con mi fascinación por los juegos. Destacándome en mis estudios universitarios, aspiro a fusionar estos dos mundos para contribuir al desarrollo de experiencias interactivas innovadoras. Mi energía optimista, junto con mi creatividad y determinación, me posicionan como un futuro líder en la industria del desarrollo de software. |
 
 <br>
 
@@ -104,7 +104,17 @@ El amor por el fútbol es una pasión arraigada en la cultura peruana, especialm
 
 - **How (Cómo):** Los clientes utilizan TuPasto en condiciones de comodidad y conveniencia, accediendo a la aplicación desde sus dispositivos móviles cuando necesitan buscar y reservar canchas de fútbol. La aplicación les brinda una solución práctica y directa para su necesidad de organizar partidos de fútbol. Los clientes pueden conocer la aplicación a través de recomendaciones de amigos, publicidad en línea o búsquedas en tiendas de aplicaciones móviles.
 
-- **How much (Cuánto):** Las estadísticas muestran que una gran cantidad de aficionados al fútbol en Lima Metropolitana experimentan dificultades para encontrar y reservar canchas de fútbol de manera eficiente. Según encuestas recientes, aproximadamente el 70% de los usuarios han experimentado problemas al intentar reservar canchas de fútbol en la ciudad, lo que indica una necesidad clara de una solución más efectiva y conveniente.
+- **How much (Cuánto):** Según Muro (2020), se presentan las siguientes estadísticas en la problemática:
+
+  - Cerca del 71.8% de los participantes en la encuesta se involucran en el fútbol al menos una vez cada semana. Esto sugiere que existe una potencial demanda considerable para nuestro servicio.
+
+  - En lo que respecta a los lugares donde suelen practicar fútbol, el 38.6% de los encuestados optan por centros deportivos con césped artificial, mientras que el 27.2% prefieren polideportivos. Esto implica que el 65.8% de las personas encuestadas requieren realizar una reserva para poder jugar fútbol.
+
+  - Se indagó específicamente a quienes juegan fútbol en instalaciones deportivas con césped sintético para determinar la modalidad más común de reserva, y se descubrió que el 89.7% de ellos realiza sus reservas de canchas sintéticas llamando por teléfono a los centros deportivos.
+
+  - Uno de los problemas principales que enfrenta nuestra muestra al intentar jugar fútbol es la falta de disponibilidad de canchas sintéticas, así como la ausencia de sus amigos para participar.
+
+  - El 89.6% de los encuestados afirmaron que estarían dispuestos a utilizar una plataforma digital para agilizar la reserva de canchas sintéticas. Esto confirma la presencia de una demanda sin satisfacer en el mercado.
 
 
 ### 1.2.2. Lean UX process
