@@ -105,3 +105,68 @@ El amor por el fútbol es una pasión arraigada en la cultura peruana, especialm
 - **How (Cómo):** Los clientes utilizan TuPasto en condiciones de comodidad y conveniencia, accediendo a la aplicación desde sus dispositivos móviles cuando necesitan buscar y reservar canchas de fútbol. La aplicación les brinda una solución práctica y directa para su necesidad de organizar partidos de fútbol. Los clientes pueden conocer la aplicación a través de recomendaciones de amigos, publicidad en línea o búsquedas en tiendas de aplicaciones móviles.
 
 - **How much (Cuánto):** Las estadísticas muestran que una gran cantidad de aficionados al fútbol en Lima Metropolitana experimentan dificultades para encontrar y reservar canchas de fútbol de manera eficiente. Según encuestas recientes, aproximadamente el 70% de los usuarios han experimentado problemas al intentar reservar canchas de fútbol en la ciudad, lo que indica una necesidad clara de una solución más efectiva y conveniente.
+
+
+### 1.2.2. Lean UX process
+
+#### 1.2.2.1. Lean UX Problem Statements
+  #### Problem Statement 1
+  Nuestra startup se enfrenta al desafío de crear una plataforma integral que simplifique y mejore el proceso de reserva de canchas de fútbol en Lima Metropolitana. Nos encontramos ante la necesidad de desarrollar un sistema que permita a los usuarios encontrar fácilmente instalaciones disponibles, verificar su ubicación, conocer las características de cada cancha (dimensiones, tipo de césped, servicios adicionales), y realizar reservas de manera rápida y sencilla, todo ello mientras se asegura la seguridad de las transacciones y se garantiza una experiencia fluida y satisfactoria para los usuarios.
+
+  ¿Cómo podemos diseñar una plataforma digital que satisfaga las necesidades de los aficionados al fútbol en Lima Metropolitana, ofreciendo una experiencia de reserva de canchas que sea transparente, conveniente y segura?
+
+  #### Problem Statement 2
+
+  Nuestra startup se enfrenta al desafío de mejorar la experiencia de reserva de canchas de fútbol en Lima Metropolitana al superar los obstáculos actuales que enfrentan los usuarios. Esto incluye la necesidad de proporcionar información detallada y precisa sobre las instalaciones disponibles, así como de establecer procesos de reserva simples y consistentes que inspiren confianza en los usuarios. Además, debemos ofrecer opciones de reserva personalizadas que se adapten a las preferencias individuales de los usuarios, con el objetivo de mejorar su participación en actividades deportivas y promover un estilo de vida saludable.
+
+  ¿Cómo podemos diseñar una plataforma que supere los obstáculos actuales en la experiencia de reserva de canchas de fútbol en Lima Metropolitana, proporcionando información detallada, procesos de reserva consistentes y opciones personalizadas que satisfagan las necesidades y expectativas de los usuarios?
+
+#### 1.2.2.2. Lean UX Assumptions
+  #### Business Outcomes
+
+1. Aumento significativo en el número de reservas mensuales, reflejando una mayor participación de los usuarios en actividades deportivas.
+2. Mejora en la satisfacción del cliente, medida a través de encuestas de retroalimentación y reseñas positivas en la plataforma.
+3. Incremento en la tasa de retención de usuarios, demostrando la fidelización de los clientes a largo plazo.
+4. Mayor visibilidad y reconocimiento de marca en la comunidad futbolística de Lima Metropolitana.
+5. Reducción de la tasa de cancelación de reservas gracias a procesos de reserva más transparentes y flexibles.
+6. Incremento en la utilización de las instalaciones deportivas asociadas, lo que resulta en una mejor eficiencia y rentabilidad para los proveedores de canchas.
+7. Expansión de la base de usuarios a través de campañas de marketing efectivas y estrategias de adquisición de clientes.
+8. Establecimiento de asociaciones estratégicas con proveedores de servicios deportivos y organizaciones locales para aumentar la disponibilidad de opciones de reserva.
+9. Implementación de medidas de seguridad y protección de datos efectivas para garantizar la confianza de los usuarios en la plataforma.
+10. Generación de ingresos consistentes a través de comisiones por reservas y opciones de monetización adicionales, como publicidad y patrocinios.
+11. Contribución positiva al bienestar general de la comunidad al fomentar un estilo de vida activo y saludable entre los residentes de Lima Metropolitana.
+
+  #### User Outcomes
+
+1. ¿Quién será nuestro usuario principal al reservar canchas de fútbol en Lima Metropolitana? 
+   - Nuestro usuario principal puede ser un equipo amateur, grupos de amigos o jugadores individuales que buscan reservar canchas de fútbol para partidos recreativos.
+
+2. ¿Dónde encajará nuestro producto en la vida diaria de nuestros usuarios?
+   - Nuestro producto encajará en la vida diaria de nuestros usuarios durante sus momentos de ocio, la planificación de eventos deportivos o de manera espontánea cuando deseen jugar fútbol.
+
+3. ¿Cuáles son los principales problemas que enfrentan nuestros usuarios al utilizar nuestro producto para reservar canchas de fútbol? ¿Cómo podemos abordar estos problemas para mejorar la experiencia del usuario?
+   - Los problemas pueden incluir falta de disponibilidad de canchas, dificultad para encontrar instalaciones adecuadas y procesos de reserva complicados. Podemos mejorar la experiencia del usuario asegurando la disponibilidad en tiempo real, simplificando el proceso de reserva y proporcionando información detallada sobre las instalaciones.
+
+4. ¿Cómo y con qué frecuencia nuestros usuarios están utilizando actualmente nuestro producto para reservar canchas de fútbol?
+   - Nuestros usuarios pueden utilizar el producto principalmente durante los fines de semana o de manera ocasional para organizar partidos de fútbol con amigos o equipos.
+
+5. ¿Qué características son consideradas imprescindibles por nuestros usuarios al reservar canchas de fútbol?
+   - Características como la disponibilidad en tiempo real, facilidad de reserva, opciones de pago seguras y una variedad de instalaciones son aspectos prioritarios para nuestros usuarios.
+
+6. ¿Cómo debería visualmente nuestro producto para que sea atractivo y fácil de usar para nuestros usuarios?
+   - Nuestro producto debe tener un diseño intuitivo, limpio y atractivo visualmente, con una interfaz fácil de navegar y características claramente identificables.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. Si simplificamos el proceso de reserva a través de una interfaz de usuario intuitiva y fácil de usar, entonces aumentaremos la tasa de conversión de visitantes a reservas.
+2. Si proporcionamos información detallada y actualizada sobre la disponibilidad de canchas de fútbol, entonces reduciremos la frustración del usuario y aumentaremos la satisfacción.
+3. Si implementamos un sistema de notificaciones automáticas sobre la disponibilidad de canchas, entonces aumentaremos la probabilidad de que los usuarios completen una reserva.
+4. Si ofrecemos opciones de reserva flexibles, como horarios personalizados y servicios adicionales, entonces aumentaremos la retención de usuarios y fomentaremos la fidelidad.
+5. Si establecemos asociaciones con proveedores de servicios deportivos de alta calidad, entonces mejoraremos la reputación y confianza de nuestra plataforma entre los usuarios.
+6. Si optimizamos la experiencia de reserva para dispositivos móviles, entonces aumentaremos la conveniencia y accesibilidad para los usuarios que buscan reservar canchas mientras están en movimiento.
+7. Si permitimos que los usuarios califiquen y comenten sobre las instalaciones deportivas, entonces proporcionaremos información valiosa para otros usuarios y mejoraremos la transparencia en la plataforma.
+8. Si implementamos un sistema de recompensas o descuentos por reservas frecuentes, entonces incentivaremos la repetición de uso y la participación activa de los usuarios.
+9. Si realizamos pruebas A/B en diferentes aspectos de la plataforma, como la disposición de la información o el diseño de los botones de reserva, entonces identificaremos las mejores prácticas para mejorar la experiencia del usuario.
+10. Si integramos un sistema de pago seguro y confiable, entonces aumentaremos la confianza de los usuarios y reduciremos la tasa de abandono durante el proceso de reserva.
+11. Si proporcionamos opciones de filtrado avanzadas, como búsqueda por ubicación, tipo de superficie de juego y servicios adicionales, entonces mejoraremos la relevancia de los resultados para los usuarios.
+12. Si optimizamos el proceso de reserva para que sea lo más rápido posible, con un mínimo de pasos necesarios, entonces reduciremos la fricción y aumentaremos la tasa de conversión de visitantes a reservas completadas.
