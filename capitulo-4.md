@@ -23,7 +23,7 @@
 - 4.7. [Software Object-Oriented Design](#43-software-object-oriented-design)<br>
   - 4.7.1. [Class Diagrams](#431-class-diagrams)<br>
   - 4.7.2. [Class Dictionary](#432-class-dictionary)<br>
-  - 4.8. [Database Design](#43-database-design)<br>
+- 4.8. [Database Design](#43-database-design)<br>
   - 4.8.1. [Database Diagram](#431-database-diagram)<br>
 
 </div>
