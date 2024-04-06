@@ -188,7 +188,7 @@ El amor por el fútbol es una pasión arraigada en la cultura peruana, especialm
 
 ### 1.3. Segmentos objetivo
 
-#### Segmento objetivo: Jóvenes ocupados
+#### Segmento objetivo: Personas que juegan futbol
 ####	Aspectos demográficos:
 
 
