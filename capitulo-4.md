@@ -1,15 +1,15 @@
 - 4.1. [Product Design](#41-product-design) <br>
   - 4.1.1. [Style Guidelines](#411-style-guidelines) <br>
-  - 4.1.2. [Estrategias y tácticas frente a competidores](#412-estrategias-y-tacticas-frente-a-competidores)<br>
-- 4.2. [Entrevistas](#42-entrevistas)<br>
-  - 4.2.1. [Diseño de entrevistas](#421-diseño-de-entrevistas)<br>
-  - 4.2.2. [Registro de entrevistas](#422-registro-de-entrevistas)<br>
-  - 4.2.3. [Análisis de entrevistas](#423-analisis-de-entrevistas)<br>
-  - 4.2.4. [Análisis de entrevistas](#424-analisis-de-entrevistas)<br>
-  - 4.2.5. [Análisis de entrevistas](#425-analisis-de-entrevistas)<br>
-- 4.3. [Needfinding](#43-needfinding)<br>
-  - 4.3.1. [User Personas](#431-user-personas)<br>
-  - 4.3.2. [User Task Matrix](#432-user-task-matrix)<br>
+  - 4.1.2. [General Style Guidelines](#412-general-style-guidelines)<br>
+- 4.2. [Information Architecture](#42-information-architecture)<br>
+  - 4.2.1. [Organization Systems](#421-organization-systems)<br>
+  - 4.2.2. [Labeling Systems](#422-labeling-systems)<br>
+  - 4.2.3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)<br>
+  - 4.2.4. [Searching Systems](#424-searching-systems)<br>
+  - 4.2.5. [Navigation Systems](#425-navigation-systems)<br>
+- 4.3. [Landing Page UI Desing](#43-landing-page-ui-desing)<br>
+  - 4.3.1. [Landing Page Wireframe](#431-landing-age-wireframe)<br>
+  - 4.3.2. [Landing Page Mock-up](#432-landing-page-mock-up)<br>
   - 2.3.3. [User Journey Mapping](#233-user-journey-mapping)<br>
   - 2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
   - 2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
