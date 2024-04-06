@@ -180,3 +180,30 @@ El amor por el fútbol es una pasión arraigada en la cultura peruana, especialm
 10. Si integramos un sistema de pago seguro y confiable, entonces aumentaremos la confianza de los usuarios y reduciremos la tasa de abandono durante el proceso de reserva.
 11. Si proporcionamos opciones de filtrado avanzadas, como búsqueda por ubicación, tipo de superficie de juego y servicios adicionales, entonces mejoraremos la relevancia de los resultados para los usuarios.
 12. Si optimizamos el proceso de reserva para que sea lo más rápido posible, con un mínimo de pasos necesarios, entonces reduciremos la fricción y aumentaremos la tasa de conversión de visitantes a reservas completadas.
+
+#### 1.2.2.4. Lean UX Canvas
+<div style="text-align: justify;">
+  <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//canvas.png" alt="UPC">
+</div>
+
+### 1.3. Segmentos objetivo
+
+#### Segmento objetivo: Jóvenes ocupados
+####	Aspectos demográficos:
+
+
+  -	Sexo: Hombres.
+  - Edades: De 15 a 45 años.
+  - Nivel Socioeconómico: Medio y medio-alto.
+
+####	Aspectos geográficos:
+
+  - Nacionalidad: Residentes en Lima, Perú.
+  - Zona Geográfica: Área Metropolitana de Lima.
+  - Departamento: Lima Metropolitana.
+
+#### Aspectos psicográficos:
+
+  - Intereses: Aficionados al fútbol, tanto jugadores como espectadores.
+  - Estilo de Vida: Activo y deportivo.
+  - Comportamiento de Consumo: Interés en actividades recreativas y deportivas, con preferencia por la conveniencia y la calidad en la experiencia de reserva de canchas de fútbol.
