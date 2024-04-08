@@ -125,7 +125,18 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 <div style="text-align: justify;">
 
-aaa
+#### Hallazgos entre los entrevistados
+
+1. Estudiantes universitarios de la Universidad Peruana de Ciencias Aplicadas.
+2. Tienen una agenda ocupada debido a compromisos académicos, actividades deportivas y ejercicios en el gimnasio.
+3. Enfrentan dificultades al reservar canchas de fútbol debido a la ineficiencia de las aplicaciones disponibles.
+4. Intentan reservar una o dos veces por semana para organizar partidos ocasionales.
+5. Reconocen la importancia de sus teléfonos móviles en su vida diaria.
+6. Ven la necesidad de una solución que simplifique y agilice el proceso de reserva de canchas de fútbol para optimizar su tiempo.
+
+#### Conclusiones:
+
+En resumen, los estudiantes universitarios entrevistados de la Universidad Peruana de Ciencias Aplicadas tienen agendas ocupadas que incluyen compromisos académicos, ejercicio en el gimnasio y práctica de deportes como el fútbol. Sin embargo, se enfrentan a dificultades al tratar de reservar canchas de fútbol debido a la falta de eficiencia de las aplicaciones disponibles. Aunque intentan reservar una o dos veces por semana, estas complicaciones limitan su capacidad para organizar partidos de manera regular. Reconocen la importancia de sus teléfonos móviles en su vida diaria y creen firmemente que una solución digital específica para la reserva de canchas de fútbol sería invaluable para optimizar su tiempo y hacer que la organización de estos encuentros sea más accesible y eficiente.
 
 </div>
 
