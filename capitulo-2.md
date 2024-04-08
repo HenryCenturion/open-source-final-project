@@ -79,40 +79,50 @@ aaa
 #### *Link de las entrevistas*
 https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
-#### - Entrevista N°1: Patrizio Mere
+#### - Entrevista N°1:
 
+- ##### Entrevistador: Sebastian Mendez
+- #### Entrevistado: Patrizio Mere
 - ##### Sexo: Masculino
 - ##### Edad: 19 años
 - ##### Departamento: Lima
 - ##### Duracion de la entrevista: 5:59 minutos
 - ##### Resumen: Patrizio es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas que le gusta estudiar, hacer gimnasio y hacer deporte. Debido a eso, es que no suele tener tiempo para otras actividades ya que su horario demanda las horas que necesia. Él comenta que ocasionalmente trata de reservar 1 o 2 veces por semana una cancha de futbol para realizar un partido de futbol. Opina que el tiempo que se pierde en esperar para reservar por medio de otras aplicaciones lo imposibilitan para hacer una reserva. Finalmente, él usa su celular todos los días y le parece que la realizacion de una pagina web que sea util y ayude en simplificar los procesos y ahorrar tiempo es una buena idea.
 
-#### - Entrevista N°2: Sebastian Tenorio
+#### - Entrevista N°2:
 
+- ##### Entrevistador: Sebastian Mendez
+- #### Entrevistado: Sebastian Tenorio
 - ##### Sexo: Masculino
 - ##### Edad: 19 años
 - ##### Departamento: Lima
 - ##### Duracion de la entrevista: 4:19 minutos
 - ##### Resumen: Sebastián, un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas, tiene una agenda ocupada entre sus estudios, su rutina en el gimnasio y la práctica de deportes. Dedicado a sus actividades, encuentra que reservar una cancha de fútbol para organizar partidos ocasionales se convierte en un desafío debido al tiempo que suele perder al utilizar otras aplicaciones para hacer la reserva. Aunque intenta reservar una o dos veces por semana, las dificultades en el proceso de reserva limitan su capacidad para organizar estos encuentros de manera regular. Considerando la importancia de su celular en su vida cotidiana, Sebastián reconoce la conveniencia de una solución que simplifique y agilice el proceso de reserva de canchas de fútbol. Cree firmemente que una página web diseñada específicamente para este propósito sería una herramienta valiosa, permitiéndole reservar fácilmente sin perder tiempo en esperas innecesarias. En su opinión, esta plataforma podría optimizar su tiempo y hacer que la organización de partidos de fútbol sea mucho más accesible y eficiente.
 
-#### - Entrevista N°3: Adriano Berrospi
+#### - Entrevista N°3:
 
+- ##### Entrevistador: Sebastian Mendez
+- #### Entrevistado: Adriano Berrospi
 - ##### Sexo: Masculino
 - ##### Edad: 19 años
 - ##### Departamento: Lima
 - ##### Duracion de la entrevista: 8:23 minutos
 - ##### Resumen: Adriano, un estudiante de la Universidad Peruana de Ciencias Aplicadas, se encuentra con una agenda repleta entre sus compromisos académicos, su rutina de ejercicios en el gimnasio y sus actividades deportivas. A pesar de su dedicación, enfrenta dificultades al reservar una cancha de fútbol para sus partidos ocasionales debido a los contratiempos que enfrenta al utilizar otras aplicaciones. Aunque intenta reservar una o dos veces por semana, las complicaciones en el proceso de reserva limitan su capacidad para organizar estos encuentros de forma regular. Dada la importancia de su teléfono móvil en su día a día, Adriano reconoce la utilidad de una solución que simplifique y agilice el proceso de reserva de canchas de fútbol. Está convencido de que una página web diseñada específicamente para este propósito sería una herramienta valiosa, facilitándole la reserva sin pérdidas de tiempo innecesarias. En su opinión, esta plataforma podría optimizar su tiempo y hacer que la organización de partidos de fútbol sea mucho más accesible y eficiente.
 
-#### - Entrevista N°4: GianPaul Quintana
+#### - Entrevista N°4:
 
+- ##### Entrevistador: Sebastian Mendez
+- #### Entrevistado: GianPaul Quintana
 - ##### Sexo: Masculino
 - ##### Edad: 20 años
 - ##### Departamento: Lima
 - ##### Duracion de la entrevista: 9:21 minutos
 - ##### Resumen: GianPaul, un estudiante de la Universidad Peruana de Ciencias Aplicadas, se enfrenta a una agenda repleta entre sus compromisos académicos, su rutina de ejercicios en el gimnasio y la práctica de deportes. A pesar de su dedicación, enfrenta desafíos al reservar una cancha de fútbol para organizar partidos ocasionales debido al tiempo perdido en aplicaciones poco eficientes para la reserva. Aunque intenta reservar una o dos veces por semana, las complicaciones en el proceso limitan su capacidad para organizar estos encuentros de manera regular. Reconociendo la importancia de su teléfono móvil en su día a día, GianPaul ve la necesidad de una solución que simplifique y acelere el proceso de reserva de canchas de fútbol. Está convencido de que una página web diseñada específicamente para este propósito sería una herramienta valiosa, permitiéndole reservar de manera sencilla y sin perder tiempo en esperas innecesarias. En su opinión, esta plataforma podría optimizar su tiempo y hacer que la organización de partidos de fútbol sea mucho más accesible y eficiente.
 
-#### - Entrevista N°5: Luis Carreño
+#### - Entrevista N°5:
 
+- ##### Entrevistador: Sebastian Mendez
+- #### Entrevistado: Luis Carreño
 - ##### Sexo: Masculino
 - ##### Edad: 18 años
 - ##### Departamento: Lima
