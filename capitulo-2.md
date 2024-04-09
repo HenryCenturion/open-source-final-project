@@ -165,7 +165,7 @@ Las entrevistas realizadas a personas aficionadas al fútbol nos revelan una ser
 
 Las entrevistas realizadas a personas aficionadas al billar nos revelan una serie de desafíos comunes en la reserva de mesas en los salones billar. Las entrevistas con GianPaul, Luis y Jorge, quienes comparten un interés en el billar, suelen jugar seguido este deporte y nos comparten sus experiencias con las reservas. Todos coinciden en las dificultades para encontrar salones cercanos con horarios disponibles, lo que genera frustración. Nuestros entrevistas sugieren el uso de una aplicación web para simplificar el proceso de reserva y valoran la calidad del equipamiento y la infraestructura de los salones. Además, se resalta la importancia de fomentar una comunidad en el billar permitiendo que otros jugadores se unan a las mesas. Estos hallazgos subrayan la oportunidad de desarrollar una solución tecnológica que mejore la experiencia de reserva y promueva la interacción social en torno al billar.
 
-### Conclusiones:
+#### Conclusiones:
 
 Basándonos en las entrevistas realizadas a personas aficionadas tanto al fútbol como al billar, queda claro que existe una demanda significativa de mejorar el proceso de reserva mediante soluciones tecnológicas. Tanto los jugadores de fútbol como los aficionados al billar expresan frustración por la dificultad para encontrar disponibilidad de horarios y la informalidad en el proceso de reserva, que a menudo implica comunicación directa con los propietarios a través de aplicaciones de mensajería.
 
@@ -181,7 +181,13 @@ En resumen, las entrevistas sugieren que desarrollar una aplicación web de rese
 
 <div style="text-align: justify;">
 
-aaa
+Las necesidades principales que hemos encontrado en nuestros segmentos objetivos son las siguientes:
+
+- Diseñar un sistema óptimo de reservas que permita ver la disponibilidades de horarios en tiempo real a los usuarios.
+- Mostrar información acerca de los establecimientos, esto permite dar a conocer los detalles de donde jugarán a los usuarios.
+- Solo afiliarnos a establecimientos que tengan buena calidad para garantizar el bienestar de los usuarios.
+- Agregar filtros para la rápida busca de locales según preferencias del usuario.
+- Desarrollar la posibilidad de crear una comunidad para que otras personas puedan ingresar a jugar si se presentan inconvenientes. 
 
 </div>
 
