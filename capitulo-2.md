@@ -81,53 +81,75 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 #### - Entrevista N°1:
 
+<img src="url">
+
 - ##### Entrevistador: Sebastian Mendez
 - #### Entrevistado: Patrizio Mere
 - ##### Sexo: Masculino
 - ##### Edad: 19 años
-- ##### Departamento: Lima
+- ##### Distrito: San Miguel
 - ##### Duracion de la entrevista: 5:59 minutos
-- ##### Resumen: Patrizio es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas que le gusta estudiar, hacer gimnasio y hacer deporte. Debido a eso, es que no suele tener tiempo para otras actividades ya que su horario demanda las horas que necesia. Él comenta que ocasionalmente trata de reservar 1 o 2 veces por semana una cancha de futbol para realizar un partido de futbol. Opina que el tiempo que se pierde en esperar para reservar por medio de otras aplicaciones lo imposibilitan para hacer una reserva. Finalmente, él usa su celular todos los días y le parece que la realizacion de una pagina web que sea util y ayude en simplificar los procesos y ahorrar tiempo es una buena idea.
+- ##### Resumen: Patrizio es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas que le gusta estudiar, es por ello que su día a día es agitado. Él comenta que es complicado poder reservar las canchas debido a que primero tiene que ponerse de acuerdo con sus compañeros y luego tener que escribir por WhatsApp al dueño de la cancha, pero al querer seleccionar un horario este se encuentra ocupado o el horario no concuerda con la disponibilidad de todos los participantes. Siente que se puede mejorar la organización para reservar debido a que la forma actual es muy informal.Finalmente, nos comentó que el proceso de reserva genera molestia tanto para los jugadores como al dueño de la cancha por si surge una posible cancelación por motivos externos.
 
 #### - Entrevista N°2:
+
+<img src="url">
 
 - ##### Entrevistador: Sebastian Mendez
 - #### Entrevistado: Sebastian Tenorio
 - ##### Sexo: Masculino
 - ##### Edad: 19 años
-- ##### Departamento: Lima
+- ##### Distrito: Lima
 - ##### Duracion de la entrevista: 4:19 minutos
-- ##### Resumen: Sebastián, un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas, tiene una agenda ocupada entre sus estudios, su rutina en el gimnasio y la práctica de deportes. Dedicado a sus actividades, encuentra que reservar una cancha de fútbol para organizar partidos ocasionales se convierte en un desafío debido al tiempo que suele perder al utilizar otras aplicaciones para hacer la reserva. Aunque intenta reservar una o dos veces por semana, las dificultades en el proceso de reserva limitan su capacidad para organizar estos encuentros de manera regular. Considerando la importancia de su celular en su vida cotidiana, Sebastián reconoce la conveniencia de una solución que simplifique y agilice el proceso de reserva de canchas de fútbol. Cree firmemente que una página web diseñada específicamente para este propósito sería una herramienta valiosa, permitiéndole reservar fácilmente sin perder tiempo en esperas innecesarias. En su opinión, esta plataforma podría optimizar su tiempo y hacer que la organización de partidos de fútbol sea mucho más accesible y eficiente.
+- ##### Resumen: Sebastián es un estudiante universitario, tiene un horario apretado debido a la cantidad de clases que tiene. Suele buscar canchas de futbol cada 1 o 2 veces a la semana para jugar con sus amigos. El método por el cual reserva es contactos, o sea otro de sus amigos se contacta con el dueño para poder realizar la reserva. Él comenta que la dificultad en reservar radica en los pocos horarios que existen y conocer otra canchas, debido a que esto, las pocas veces que ha ido a reservar presencialmente se ha encontrado que estan ocupadas. Sebastián explica que el precio es fundamental al momento de alquilar una cancha, ya que actualmente hay precios exorbitantes. Finalmente, él considera que una aplicación movil que agilice las reservas ayudaría mucho la satisfacción del usuario.
 
 #### - Entrevista N°3:
 
-- ##### Entrevistador: Sebastian Mendez
+<img src="url">
+
+- ##### Entrevistador: Henry Centurion
 - #### Entrevistado: Adriano Berrospi
 - ##### Sexo: Masculino
 - ##### Edad: 19 años
-- ##### Departamento: Lima
+- ##### Distrito: Chaclacayo
 - ##### Duracion de la entrevista: 8:23 minutos
-- ##### Resumen: Adriano, un estudiante de la Universidad Peruana de Ciencias Aplicadas, se encuentra con una agenda repleta entre sus compromisos académicos, su rutina de ejercicios en el gimnasio y sus actividades deportivas. A pesar de su dedicación, enfrenta dificultades al reservar una cancha de fútbol para sus partidos ocasionales debido a los contratiempos que enfrenta al utilizar otras aplicaciones. Aunque intenta reservar una o dos veces por semana, las complicaciones en el proceso de reserva limitan su capacidad para organizar estos encuentros de forma regular. Dada la importancia de su teléfono móvil en su día a día, Adriano reconoce la utilidad de una solución que simplifique y agilice el proceso de reserva de canchas de fútbol. Está convencido de que una página web diseñada específicamente para este propósito sería una herramienta valiosa, facilitándole la reserva sin pérdidas de tiempo innecesarias. En su opinión, esta plataforma podría optimizar su tiempo y hacer que la organización de partidos de fútbol sea mucho más accesible y eficiente.
+- ##### Resumen: Adriano es un estudiante universitario en la carrera de Odontología en la universidad San Martin de Porres. Suele tener un horario lleno debido al estudio concurrente que tiene, pero cuando se desocupa en las noches suele escuchar música y realizar otras actividades recreativas. Es alguien que ama el fútbol y si bien no tiene una frecuencia con la que juega, cada vez que hay oportunidad lo realiza. El realiza reservas por medio de WhatsApp preguntadole al dueño, por lo que corre el riesgo de no saber si el horario deseado está ocupado. Le molesta tener que esperar que haya horario para jugar con sus amigos debido a que todo lo hacen con anticipación. Le gustaría encontrar canchas económicas, en buen estado y sobre todo una buena ubicación. Él comenta que sería interesante que existe una pagina web o una aplicación que permita la visualización de los horarios al momento de reservar para así poder elegir uno. 
 
 #### - Entrevista N°4:
 
-- ##### Entrevistador: Sebastian Mendez
+<img src="url">
+
+- ##### Entrevistador: Henry Centurion
 - #### Entrevistado: GianPaul Quintana
 - ##### Sexo: Masculino
 - ##### Edad: 20 años
-- ##### Departamento: Lima
+- ##### Distrito: Lurigancho-Chosica
 - ##### Duracion de la entrevista: 9:21 minutos
-- ##### Resumen: GianPaul, un estudiante de la Universidad Peruana de Ciencias Aplicadas, se enfrenta a una agenda repleta entre sus compromisos académicos, su rutina de ejercicios en el gimnasio y la práctica de deportes. A pesar de su dedicación, enfrenta desafíos al reservar una cancha de fútbol para organizar partidos ocasionales debido al tiempo perdido en aplicaciones poco eficientes para la reserva. Aunque intenta reservar una o dos veces por semana, las complicaciones en el proceso limitan su capacidad para organizar estos encuentros de manera regular. Reconociendo la importancia de su teléfono móvil en su día a día, GianPaul ve la necesidad de una solución que simplifique y acelere el proceso de reserva de canchas de fútbol. Está convencido de que una página web diseñada específicamente para este propósito sería una herramienta valiosa, permitiéndole reservar de manera sencilla y sin perder tiempo en esperas innecesarias. En su opinión, esta plataforma podría optimizar su tiempo y hacer que la organización de partidos de fútbol sea mucho más accesible y eficiente.
+- ##### Resumen: GianPaul es un estudiante de la carrera de Ingeniería de Software en la Universidad Tecnologica del Perú. Su día suele combinado debido al estudio y las actividades que realiza, el cual son el deporte, gimnasio y videojuegos. Empezó jugando billar hace 2 años debido a que comparte la emocion y adicción como lo es el casino, actualmente lo juega seguido con sus amigos. Él encuentra salones de billar cerca de la plaza central y realiza una reserva mediante WhatsApp con el dueño. Le molesta el proceso de reserva debido que al realizarlo se encuentra que el horario que desea está ocupado o que el dueño no haya abierto su local. Comenta que una aplicación web sería ideal para agilizar el proceso de reservas de mesas en los salones de billar, además que sugiere que existan filtros para para encontrar un salón de billar adecuado para el juego, con buen material, tienda de golosinas y buena infraestructura. Finalmente, la parece interesante el gesto de que otras personas puedan unirse a una mesa por si falta alguien más y así crear una buena comunidad en el billar.
 
 #### - Entrevista N°5:
 
-- ##### Entrevistador: Sebastian Mendez
+<img src="url">
+
+- ##### Entrevistador: Henry Centurion
 - #### Entrevistado: Luis Carreño
 - ##### Sexo: Masculino
 - ##### Edad: 18 años
-- ##### Departamento: Lima
+- ##### Distrito: Lurigancho-Chosica
 - ##### Duracion de la entrevista: 7:46 minutos
-- ##### Resumen: Luis, un estudiante de la Universidad Peruana de Ciencias Aplicadas, se encuentra con una agenda cargada entre sus responsabilidades académicas, su rutina de ejercicio en el gimnasio y su participación en actividades deportivas. A pesar de su dedicación, se enfrenta a dificultades al tratar de reservar una cancha de fútbol para organizar partidos esporádicos, ya que las aplicaciones disponibles para ello resultan poco eficientes y consumen mucho tiempo. Aunque intenta hacer reservas una o dos veces por semana, las complicaciones en el proceso obstaculizan su capacidad para organizar estos encuentros con regularidad. Al reconocer la importancia de su teléfono móvil en su vida diaria, Luis comprende la necesidad de contar con una solución que simplifique y agilice el proceso de reserva de canchas de fútbol. Está convencido de que una página web diseñada específicamente para este propósito sería de gran utilidad, permitiéndole realizar reservas de manera rápida y sencilla, sin perder tiempo en esperas innecesarias. En su opinión, esta plataforma podría optimizar su tiempo y hacer que la organización de partidos de fútbol sea mucho más accesible y eficiente.
+- ##### Resumen: Luis es un estudiante de la Universidad San Ignacio de Loyola. Su día a su día suelen ser de puras tareas aunque tambien sus ratos para el billar, el cual suele jugarlo 3 veces a la semana, por lo que se considera un jugador regular. El suele reservar una mesa por las redes sociales del dueño. Entre los problemas que tiene es la poca disponibilidad de salones de billar cerca de su zona y horarios congestionados, generandole un sentimiento de molestia. Le importa demasiado los detalles de los salones, que tengam buen equipamiento y buena infraestructura, considera que impacta en la estadía del jugador. Finalmente, una aplicación web sería lo indicado para gestionar las reservas de todos los jugadores de billar que desean asistir.
+
+#### - Entrevista N°6:
+
+<img src="url">
+
+- ##### Entrevistador:
+- #### Entrevistado:
+- ##### Sexo: 
+- ##### Edad: 
+- ##### Distrito: 
+- ##### Duracion de la entrevista: 
+- ##### Resumen: 
 
 </div>
 
@@ -135,18 +157,23 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 <div style="text-align: justify;">
 
-#### Hallazgos entre los entrevistados
+#### Segmento 1:
 
-1. Estudiantes universitarios de la Universidad Peruana de Ciencias Aplicadas.
-2. Tienen una agenda ocupada debido a compromisos académicos, actividades deportivas y ejercicios en el gimnasio.
-3. Enfrentan dificultades al reservar canchas de fútbol debido a la ineficiencia de las aplicaciones disponibles.
-4. Intentan reservar una o dos veces por semana para organizar partidos ocasionales.
-5. Reconocen la importancia de sus teléfonos móviles en su vida diaria.
-6. Ven la necesidad de una solución que simplifique y agilice el proceso de reserva de canchas de fútbol para optimizar su tiempo.
+Las entrevistas realizadas a personas aficionadas al fútbol nos revelan una serie de desafíos comunes en la reserva de canchas. Nuestros entrevistados, Patrizio, Sebastián y Adriano, coinciden en la dificultad para coordinar horarios con amigos y la informalidad del proceso de reserva, a menudo realizado a través de WhatsApp. Todos expresan interés en soluciones tecnológicas que simplifiquen este proceso, como aplicaciones móviles o páginas web que permitan ver la disponibilidad de horarios y reservar de manera eficiente. La calidad y el precio de las canchas también son aspectos importantes para ellos. En resumen, hay una clara necesidad de mejorar la organización y accesibilidad en la reserva de canchas, lo que presenta una oportunidad para desarrollar una solución tecnológica que satisfaga estas demandas y mejore la experiencia de los jugadores.
 
-#### Conclusiones:
+#### Segmento 2:
 
-En resumen, los estudiantes universitarios entrevistados de la Universidad Peruana de Ciencias Aplicadas tienen agendas ocupadas que incluyen compromisos académicos, ejercicio en el gimnasio y práctica de deportes como el fútbol. Sin embargo, se enfrentan a dificultades al tratar de reservar canchas de fútbol debido a la falta de eficiencia de las aplicaciones disponibles. Aunque intentan reservar una o dos veces por semana, estas complicaciones limitan su capacidad para organizar partidos de manera regular. Reconocen la importancia de sus teléfonos móviles en su vida diaria y creen firmemente que una solución digital específica para la reserva de canchas de fútbol sería invaluable para optimizar su tiempo y hacer que la organización de estos encuentros sea más accesible y eficiente.
+Las entrevistas realizadas a personas aficionadas al billar nos revelan una serie de desafíos comunes en la reserva de mesas en los salones billar. Las entrevistas con GianPaul, Luis y Jorge, quienes comparten un interés en el billar, suelen jugar seguido este deporte y nos comparten sus experiencias con las reservas. Todos coinciden en las dificultades para encontrar salones cercanos con horarios disponibles, lo que genera frustración. Nuestros entrevistas sugieren el uso de una aplicación web para simplificar el proceso de reserva y valoran la calidad del equipamiento y la infraestructura de los salones. Además, se resalta la importancia de fomentar una comunidad en el billar permitiendo que otros jugadores se unan a las mesas. Estos hallazgos subrayan la oportunidad de desarrollar una solución tecnológica que mejore la experiencia de reserva y promueva la interacción social en torno al billar.
+
+### Conclusiones:
+
+Basándonos en las entrevistas realizadas a personas aficionadas tanto al fútbol como al billar, queda claro que existe una demanda significativa de mejorar el proceso de reserva mediante soluciones tecnológicas. Tanto los jugadores de fútbol como los aficionados al billar expresan frustración por la dificultad para encontrar disponibilidad de horarios y la informalidad en el proceso de reserva, que a menudo implica comunicación directa con los propietarios a través de aplicaciones de mensajería.
+
+La potencial solución a estos problemas es el desarrollo de una aplicación web, el cual es D'Taquito, que permita a los usuarios ver la disponibilidad de canchas de fútbol o mesas de billar en tiempo real y realizar reservas de manera rápida y eficiente. Además, se destaca la importancia de incluir filtros que ayuden a los usuarios a encontrar opciones adecuadas según sus preferencias, como la calidad del equipamiento, la ubicación y el precio.
+
+La creación de una comunidad en torno al deporte, tanto en el fútbol como en el billar, es otro aspecto importante a considerar. Permitir que otros jugadores se unan a las mesas o canchas reservadas puede fomentar la interacción social y mejorar la experiencia general de los usuarios.
+
+En resumen, las entrevistas sugieren que desarrollar una aplicación web de reservas para deportes como el fútbol y el billar sería una solución efectiva para abordar las necesidades y preocupaciones de los aficionados, mejorando así su experiencia y promoviendo una mayor participación.
 
 </div>
 
