@@ -27,7 +27,7 @@
 
 | Competidores             | TuPasto              | MiCancha              | ¿Donde juego?              | AlquilaTuCancha          |
 |-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-| Logos | <img src="url_de_imagen_2">    | <img src="url_de_imagen_3">    | <img src="url_de_imagen_4">    | <img src="url_de_imagen_5">    |
+| Logos | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo.jpg" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo2.jpg" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo3.png" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo4.png" alt="UPC">    |
 | Overview | D'Taquito es una aplicación web diseñada para facilitar la reserva de canchas de fútbol y mesas de billar en la región de Lima Metropolitana. Permite a los usuarios encontrar y reservar desde su navegador web, ofreciendo una amplia selección de opciones en diferentes ubicaciones. La aplicación proporciona información detallada sobre cada cancha y mesa, incluyendo fotos e instalaciones, y garantiza transacciones seguras | MiCancha es una aplicación que facilita la reserva de canchas deportivas. Con MiCancha, puedes hacer tu reserva en cualquier momento y en cualquier lugar. Esta plataforma digital elimina la necesidad de llamar para reservar tu cancha, ofreciendo una forma más fácil y rápida de reservar. | ¿Donde juego?, es una aplicacion que facilita al usuario a poder reservar espacios deportivos de manera efectiva y rapida, quitando toda la parte tediosa de recurrir al local antes del evento, esto facilita que la reserva se realize de manera remota.| AlquilaTuCancha ofrece una plataforma de gestión para centros deportivos en América Latina, con el propósito de digitalizar y optimizar los procesos burocráticos relacionados con la renta de estos establecimientos. Permite a los usuarios explorar y reservar canchas disponibles en tiempo real en su ciudad. Además, genera ingresos mediante el cobro de una tarifa mensual.|
 | Ventaja competitiva | D'Taquito ofrece una ventaja competitiva al simplificar la reserva de canchas deportivas y mesas de billar. D'Taquito destaca por su plataforma integral y conveniente, permitiendo a los usuarios encontrar y reservar canchas y mesas con facilidad y seguridad desde cualquier lugar con conexión a internet. |Mientras tanto, MiCancha ofrece una solución rápida y sencilla al eliminar la necesidad de llamar para reservar, lo que ahorra tiempo y esfuerzo a los usuarios.| ¿Dónde Juego? te ofrece un sistema innovador para estar más actualizado que nunca. A través de nuestra plataforma, puedes navegar por las canchas, ver sus galería de imágenes, turnos disponibles y reservar rápidamente, sin pérdidas de tiempo.| La plataforma permite a los usuarios verificar y reservar canchas en tiempo real, con un proceso automatizado que asegura respuestas inmediatas las 24 horas del día. Esto no solo beneficia a los usuarios, sino que también incrementa los ingresos de los clubes al maximizar la ocupación de sus instalaciones.|
 | Mercado objetivo | El mercado objetivo son personas que juegan futbol y billar. Se compone principalmente de hombres con edades comprendidas entre los 15 y 45 años, pertenecientes a niveles socioeconómicos medios y medio-altos. Residen en Lima, Perú, específicamente en el área metropolitana de la ciudad. Estos individuos tienen un fuerte interés en el fútbol y en el billar, tanto como jugadores activos como espectadores entusiastas del deporte. | Esta aplicación está dirigida a personas que buscan una forma fácil y rápida de reservar canchas deportivas. Su mercado objetivo puede incluir a deportistas aficionados, equipos deportivos y organizadores de eventos deportivos que necesitan una forma conveniente de reservar canchas. La aplicación puede ser especialmente útil para personas que viven en áreas urbanas donde la demanda de canchas deportivas puede ser alta. | Al igual que MiCancha, Se dirige a individuos y grupos que buscan una forma fácil de encontrar y reservar canchas deportivas. Esto podría incluir a jugadores individuales, equipos deportivos, entrenadores y organizadores de eventos deportivos.| Alquila tu Cancha brinda una solución integral para dos grupos clave: en primer lugar, ayuda a los propietarios de instalaciones deportivas a simplificar y modernizar sus operaciones, eliminando la burocracia asociada con la gestión de alquileres. Por otro lado, ofrece a los deportistas aficionados la comodidad de encontrar y reservar fácilmente canchas para una variedad de deportes, desde fútbol y pádel hasta tenis y básquetbol, de manera rápida y conveniente.|
@@ -58,17 +58,29 @@ Estrategias:
 
 ## 2.2. Entrevistas
 
-<div style="text-align: justify;">
-  
-aaa
-  
-</div>
-
 ### 2.2.1. Diseño de entrevistas
 
 <div style="text-align: justify;">
 
-aaa
+
+- ¿Cuál es tu nombre completo?
+- ¿Qué edad tienes?
+- ¿Cuál es tu género?
+- ¿De qué departamento del Perú eres?
+- ¿Cuál es tu estado civil?
+- ¿Tienes profesión o estudias?
+- ¿Cómo suele ser tu día a día?
+
+- ¿Con qué frecuencia juegas al fútbol(o billar) y cuánto tiempo dedicas a buscar una cancha disponible?
+- ¿Qué métodos utilizas generalmente para encontrar una cancha de fútbol(o billar)? (por ejemplo, aplicaciones móviles, redes sociales, páginas web, contactos personales, etc.)
+- ¿Cuáles son los principales desafíos que enfrentas al intentar reservar una cancha de fútbol(o mesa de billar)?
+- ¿Has experimentado problemas de disponibilidad o congestión en las canchas de fútbol en tu área(o salon de billar)? ¿Podrías describirlos?
+- ¿Cuál es tu opinión sobre la accesibilidad de las canchas de fútbol(o salon de billar) en términos de ubicación, disponibilidad de horarios y costos?
+- ¿Qué tan satisfecho estás con las opciones de canchas de fútbol(o salones de billar) disponibles en tu comunidad?
+- ¿Cómo crees que se podría mejorar el proceso de reserva de canchas de fútbol(o mesas de billar) para hacerlo más conveniente y accesible?
+- ¿Has considerado alguna vez abandonar la búsqueda de una cancha de fútbol(o mesa de billar) debido a la dificultad para encontrar una disponible? Si es así, ¿qué te llevó a tomar esa decisión?
+- ¿Existen barreras específicas que te impidan disfrutar plenamente del fútbol(o billar) debido a la falta de canchas(o mesas de billar) disponibles?
+- ¿Qué sugerencias tienes para mejorar la infraestructura de las canchas de fútbol(o salones de billar) o la gestión de su reserva para hacerlas más accesibles para todos los jugadores?
 
 </div>
 
@@ -81,7 +93,7 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 #### - Entrevista N°1:
 
-<img src="url">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado1.png" alt="UPC">
 
 - ##### Entrevistador: Sebastian Mendez
 - #### Entrevistado: Patrizio Mere
@@ -93,7 +105,7 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 #### - Entrevista N°2:
 
-<img src="url">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado2.png" alt="UPC">
 
 - ##### Entrevistador: Sebastian Mendez
 - #### Entrevistado: Sebastian Tenorio
@@ -105,7 +117,7 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 #### - Entrevista N°3:
 
-<img src="url">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado3.png" alt="UPC">
 
 - ##### Entrevistador: Henry Centurion
 - #### Entrevistado: Adriano Berrospi
@@ -117,7 +129,7 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 #### - Entrevista N°4:
 
-<img src="url">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado4.png" alt="UPC">
 
 - ##### Entrevistador: Henry Centurion
 - #### Entrevistado: GianPaul Quintana
@@ -129,7 +141,7 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 #### - Entrevista N°5:
 
-<img src="url">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado5.png" alt="UPC">
 
 - ##### Entrevistador: Henry Centurion
 - #### Entrevistado: Luis Carreño
@@ -141,7 +153,7 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 
 #### - Entrevista N°6:
 
-<img src="url">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado6.png" alt="UPC">
 
 - ##### Entrevistador:
 - #### Entrevistado:
@@ -195,7 +207,13 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
 
-aaa
+**Segmento 1: Personas que le gusta el futbol**
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//userpersona1.png" alt="UPC">
+
+**Segmento 2: Personas que le gusta el billar** 
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//userpersona2.png" alt="UPC">
 
 </div>
 
@@ -203,7 +221,7 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+
 
 </div>
 
@@ -211,7 +229,13 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+**User persona 1: Julian Ramos**
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//journey1.png" alt="UPC">
+
+**User persona 2: Andres Martinez**
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//journey2.png" alt="UPC">
 
 </div>
 
@@ -219,8 +243,13 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+**User persona 1: Julian Ramos**
 
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//empathymap1.png" alt="UPC">
+
+**User persona 2: Andres Martinez**
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//empathymap2.png" alt="UPC">
 </div>
 
 ### 2.3.5. As Is Scenario Mapping
