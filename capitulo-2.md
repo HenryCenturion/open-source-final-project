@@ -221,6 +221,33 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
 
+**Segmento 1: Personas que le gusta el futbol**
+
+| Actividades | Frecuencia | Importancia |
+|-----------|-----------|-----------|
+| Jugar futbol con sus amigos    | Con frecuencia    | Alta    |
+| Reservar canchas de futbol mediante whatsapp    | Con frecuencia    | Alta    |
+| Seguir equipos de futbol | A veces    | Media    |
+| Entrenar tácticas de juego   | A veces    | Media    |
+| Discutir partidos y sus resultados    | A veces    | Baja    |
+| Jugar en canchas de buena calidad   | Rara vez    | Alta    |
+| Esperar para reservar una cancha | Con frecuencia    | Media    |
+| Ponerse de acuerdo con sus amigos para reservar    | Con frecuencia    | Alta    |
+
+
+**Segmento 2: Personas que le gusta el billar**
+
+| Actividades | Frecuencia | Importancia |
+|-------------|------------|-------------|
+| Jugar billar con sus amigos | Con frecuencia | Alta |
+| Reservar mesas de billar mediante whatsapp | Con frecuencia | Alta |
+| Seguir competiciones de billar | A veces | Media |
+| Mejorar técnicas de juego | A veces | Media |
+| Discutir estrategias y resultados | A veces | Baja |
+| Jugar en mesas de alta calidad | Rara vez | Alta |
+| Esperar para reservar una mesa | Con frecuencia | Media |
+| Coordinarse con amigos para reservar | Con frecuencia | Alta |
+
 
 
 </div>
@@ -256,7 +283,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <div style="text-align: justify;">
 
-aaa
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//as-is.png" alt="UPC">
 
 </div>
 
@@ -264,6 +291,43 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+- **Reservation**:
+   - Acto de reservar una instalación deportiva, como una cancha de fútbol o una mesa de billar, para una fecha y hora específicas.
+
+- **User**:
+   - Persona que interactúa con el sistema de reservas para reservar una instalación deportiva.
+
+- **Football Field**:
+   - Área designada para jugar al fútbol, típicamente con porterías en cada extremo.
+
+- **Billiard Table**:
+   - Mesa especializada diseñada para jugar billar, típicamente con una superficie lisa y plana cubierta de paño y rodeada de cojines.
+
+- **Availability**:
+   - Estado de estar accesible o listo para su uso. En el contexto de este sistema, se refiere a los espacios o períodos de tiempo disponibles para reservar una cancha de fútbol o una mesa de billar.
+
+- **Confirmation**:
+   - Reconocimiento o verificación de que se ha realizado una reserva con éxito.
+
+- **Cancellation**:
+   - Acto de anular o revocar una reserva previamente realizada.
+
+- **Schedule**:
+   - Horario o agenda que indica los espacios de tiempo disponibles para reservar una instalación deportiva.
+
+- **User Account**:
+    - Cuenta personal creada por un usuario para gestionar sus reservas y preferencias dentro del sistema.
+
+- **Subscription (Suscripción)**:
+    - Método de pago recurrente que permite a los usuarios acceder a funciones adicionales o beneficios dentro del sistema de reservas.
+
+- **Wallet (Billetera)**:
+    - Funcionalidad que permite a los usuarios gestionar sus métodos de pago y realizar transacciones dentro del sistema.
+
+- **Profile (Perfil)**:
+    - Información personal y preferencias de un usuario dentro del sistema de reservas.
+
+- **Community Room (Sala comunitaria)**:
+    - Espacio dentro del sistema de reservas donde los propietarios de una reserva pueden permitir que otros usuarios externos a sus grupos se unan a la reserva para completar el grupo o socializar.
 
 </div>
