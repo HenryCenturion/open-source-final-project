@@ -282,8 +282,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 ### 2.3.5. As Is Scenario Mapping
 
 <div style="text-align: justify;">
+  
+**User persona 1: Julian Ramos**
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//asfut.jpg" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//as-is.png" alt="UPC">
+**User persona 2: Andres Martinez**  
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//asbil.jpg" alt="UPC">
+
+**User persona 3: Juan Perez**
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//asowner.jpg" alt="UPC">
 
 </div>
 
