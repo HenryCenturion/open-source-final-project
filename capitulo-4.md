@@ -96,28 +96,13 @@ aaa
 
 ### 4.3. Landing Page UI Desing
 
-<div style="text-align: justify;">
-
-aaa
-
-</div>
-
 ### 4.3.1. Landing Page Wireframe
 
-<div style="text-align: justify;">
-
-aaa
-
-</div>
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//Landing Page Wireframe.jpg" alt="UPC">
 
 ### 4.3.2. Landing Page Mock-up
 
-<div style="text-align: justify;">
-
-aaa
-
-</div>
-
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//Landing Page Mock-Up.jpg" alt="UPC">
 
 ## 4.4. Web Applications UX/UI Design
 
