@@ -215,6 +215,10 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//userpersona2.png" alt="UPC">
 
+**Segmento 3: Personas dueñas de un espacio de juego** 
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//userpersona3.png" alt="UPC">
+
 </div>
 
 ### 2.3.2. User Task Matrix
@@ -248,7 +252,17 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | Esperar para reservar una mesa | Con frecuencia | Media |
 | Coordinarse con amigos para reservar | Con frecuencia | Alta |
 
+**Segmento 3: Personas dueñas de un espacio de juego**
 
+| Actividades        | Frecuencia     | Importancia  |
+|--------------------------|----------------|--------------|
+| Registrar el local       | Baja           | Alta         |
+| Gestionar horarios       | Alta           | Alta         |
+| Administrar reservas     | Alta           | Muy alta     |
+| Acceder a informes       | Media          | Media        |
+| Configurar opciones de pago | Baja         | Alta         |
+| Ofrecer promociones      | Media          | Media        |
+| Recibir y responder a comentarios | Media | Alta     |
 
 </div>
 
@@ -264,6 +278,10 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//journey2.png" alt="UPC">
 
+**User persona 3: Juan Perez**
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//journey3.png" alt="UPC">
+
 </div>
 
 ### 2.3.4. Empathy Mapping
@@ -277,6 +295,11 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 **User persona 2: Andres Martinez**
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//empathymap2.png" alt="UPC">
+
+**User persona 3: Juan Perez**
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//empathymap3.png" alt="UPC">
+
 </div>
 
 ### 2.3.5. As Is Scenario Mapping
