@@ -228,3 +228,23 @@ Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad
 
   - Intereses: Aficionados al billar, tanto jugadores como espectadores.
   - Estilo de Vida: Activo y deportivo.
+
+#### Segmento objetivo 3: Personas dueñas de un espacio de juego
+#### Aspectos demográficos:
+
+
+  -	Sexo: Hombres y mujeres.
+  - Edades: De 25 a 60 años.
+  - Nivel Socioeconómico: Medio-alto y Alto.
+
+####	Aspectos geográficos:
+
+  - Nacionalidad: Residentes en Lima, Perú.
+  - Zona Geográfica: Área Metropolitana de Lima.
+  - Departamento: Lima Metropolitana.
+
+#### Aspectos psicográficos:
+
+  - Intereses: Administradores de espacios de juego.
+  - Estilo de Vida: Activo para hacer negocios.
+
