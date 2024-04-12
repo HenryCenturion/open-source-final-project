@@ -23,9 +23,18 @@
 
 ## 3.1. To-Be Scenario Mapping
 
+<div style="text-align: justify;">
+  
+**User persona 1: Julian Ramos**
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//tofut.jpg" alt="UPC">
 
+**User persona 2: Andres Martinez**  
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//tobil.jpg" alt="UPC">
 
+**User persona 3: Juan Perez**
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//toowner.jpg" alt="UPC">
 
+</div>
 ## 3.2. User Stories
 
 | Epic ID | Título | Descripción | Relacionado con (Story ID) |
