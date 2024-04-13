@@ -222,7 +222,11 @@ Header:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-  
+- **Primera Seccion (header)**: Se implemento la distribucion del header y su transparencia con el fondo. (Sebastian Mendez)
+- **Segunda Seccion**: Se realizaron los layouts de la pagina. (Henry Centurion)
+- **Tercera Seccion**: Se implementaron imagenes y titulos respectivos en cada seccion. (John Atencio)
+- **Cuarta Seccion**: Se implementaron contenidos e informacion que poseen los cuerpos, reemplazando los Lorem Ipsum. (Francis Mamani)
+- **Footer**: Se realizo el pie de pagina junto a las ideas que esta posee. (Sebastian Frisancho)
 
 ## 5.3. Validation Interviews
 
