@@ -88,24 +88,26 @@
 | US27                              |    Contactarse con el soporte                           | T05                                 | Crear seccion "Contact"     |Desarrollar el codigo en html, css y JS de la seecion "Contact"                           | 1                      | Sebastián Frisancho     | Done     |
 
   #### 5.2.1.3. Development Evidence for Sprint Review
-
+  | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
+  |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
+  | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | ebdbd1e                                 | Initial commit       | Empty | 13/04/2024 |
   
 
   #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-
+ - No se realizo testing, debido a que es la primera implementacion del landing page.
 
   #### 5.2.1.5. Execution Evidence for Sprint Review
 
-  
+    
 
   #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-
+ - No se realizo services, debido a que el landing page no presenta servicios.
 
   #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-  
+  - No se utilizo ningun despliegue, debido a que el landing page no presenta evidencia de deployment por ser estatico.
 
   #### 5.2.1.8. Team Collaboration Insights during Sprint
 
