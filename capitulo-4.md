@@ -193,6 +193,10 @@ aaa
 
 ### 4.7.1. Class Diagrams
 
+<div style="text-align: justify;">
+
+<img src="https://github.com/HenryCenturion/open-source-final-project/blob/28df6078bec50dbc8c9144316016b58d3c7410f2/images/image.png" alt="UPC">
+
 </div>
 
 ### 4.7.2. Class Dictionary
