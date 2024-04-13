@@ -7,10 +7,10 @@
   - 4.2.3. [SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)<br>
   - 4.2.4. [Searching Systems](#424-searching-systems)<br>
   - 4.2.5. [Navigation Systems](#425-navigation-systems)<br>
-- 4.3. [Landing Page UI Desing](#43-landing-page-ui-desing)<br>
-  - 4.3.1. [Landing Page Wireframe](#431-landing-age-wireframe)<br>
+- 4.3. [Landing Page UI Design](#43-landing-page-ui-design)<br>
+  - 4.3.1. [Landing Page Wireframe](#431-landing-page-wireframe)<br>
   - 4.3.2. [Landing Page Mock-up](#432-landing-page-mock-up)<br>
-- 4.4. [Web Applications UX/UI Design](#44-web-applications-ux/ui-design)<br>
+- 4.4. [Web Applications UX/UI Design](#44-web-applications-uxui-design)<br>
   - 4.4.1. [Web Applications Wireframes](#441-web-applications-wireframes) <br>
   - 4.4.2. [Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)<br>
   - 4.4.3. [Web Applications Mock-ups](#443-web-applications-mock-ups) <br>
@@ -92,7 +92,7 @@ aaa
 
 </div>
 
-## 4.3. Landing Page UI Desing
+## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
 
@@ -175,12 +175,6 @@ aaa
 </div>
 
 ## 4.7. Software Object-Oriented Design
-
-<div style="text-align: justify;">
-
-aaa
-
-</div>
 
 ### 4.7.1. Class Diagrams
 
