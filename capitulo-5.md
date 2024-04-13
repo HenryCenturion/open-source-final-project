@@ -91,14 +91,33 @@ Las directrices para el formato del código fuente y las convenciones de codific
   - `<head>` y `<body>`
 
 - **Etiqueta Head:**
+  
   - Dentro de la sección `<head>` de una página web, que no es visible para el usuario al visitarla, es común incluir diversas etiquetas, como metadatos (`<meta>`), enlaces para archivos y fuentes, entre otros elementos adicionales fundamentales incorporar a esta estructura principal que determina el título de la página web, que se define con `<title>`.
 
 - **Etiqueta Body:**
-  - La etiqueta `<body>`, que es la parte visual de la página web, engloba todos los elementos que el usuario puede ver y experimentar. En esta sección, se utilizan las etiquetas `<header>`, `<main>` y `<footer>` para estructurar el contenido de la siguiente manera:
-    - La etiqueta `<header>` se emplea para la barra de navegación superior de la página.
-
   
-  ### 5.1.4. Software Deployment Configuration
+    - La etiqueta `<body>`, que es la parte visual de la página web, engloba todos los elementos que el usuario puede ver y experimentar. En esta sección, se utilizan las etiquetas `<header>`, `<main>` y `<footer>` para estructurar el contenido de la siguiente manera:
+    - La etiqueta `<header>` se emplea para la barra de navegación superior de la página.
+    - Etiqueta `<main>`: Contiene el contenido central e informativo de la página.
+    - Etiqueta `<footer>`: Se utiliza al final de la página para proporcionar información adicional o como soporte técnico y enlaces a redes sociales, entre otros.
+    
+- **Cierre de Etiquetas:**
+
+  - Cada etiqueta se cierra de manera apropiada, como por ejemplo `<title></title>`.
+  - En algunos casos, como `<meta charset="UTF-8">`, la etiqueta no requiere un cierre explícito.
+  - Etiquetas como `<ul>`, `<section>`, `<input>`, `<label>`, pueden incluir atributos como class e id.
+
+- **Hoja de Estilo - Styles:**
+
+  - En “styles.css”, se define el estilo que se aplicará a “index.html”.
+  - Se utilizan propiedades y valores predefinidos dentro de {} para modificar el aspecto de los elementos.
+
+- **Diseño Web Responsivo:**
+
+  - Esencial para que el contenido sea legible en computadoras, tabletas y teléfonos.
+  - Se logra con @media screen para diferentes anchos de pantalla.
+  
+### 5.1.4. Software Deployment Configuration
 
 La implementación de un software abarca los pasos, procesos y actividades necesarios para poner a disposición de los usuarios que visiten nuestro sitio web una actualización o un sistema. La configuración para desplegar la solución de manera satisfactoria para cada uno de nuestros productos digitales se llevará a cabo a través de un servidor (Git), junto con el uso de GitHub. Esto implica que cada archivo .html y .css será subido a un repositorio, permitiendo la configuración de cualquier parte del código de nuestra página web. Posteriormente, se ejecutará en un servidor de prueba para verificar el correcto funcionamiento y detectar posibles errores en el código. El proceso de implementación de un software consta de tres fases principales: preparación, pruebas y despliegue.
 
@@ -139,6 +158,9 @@ La implementación de un software abarca los pasos, procesos y actividades neces
   | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
   |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
   | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | ebdbd1e                                 | Initial commit       | Empty | 13/04/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | 326f262                                 | feat: Implement landing-page plan section       | Add plan section in landing-page for visitor visual | 13/04/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | 66e031b                                 | feat: Update index.html       | Implemented the members section | 13/04/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | bced3d2                                 | feat: Update images folder       | Add arrow | 13/04/2024 |
   
 
   #### 5.2.1.4. Testing Suite Evidence for Sprint Review
