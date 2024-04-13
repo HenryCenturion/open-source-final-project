@@ -162,7 +162,7 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+<img src="https://github.com/HenryCenturion/open-source-final-project/blob/13f33de46772af97f952ceb0a12e32f5903d019e/images/structurizr-86931-Contexto.png" alt="UPC">
 
 </div>
 
@@ -170,7 +170,7 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+<img src="https://github.com/HenryCenturion/open-source-final-project/blob/13f33de46772af97f952ceb0a12e32f5903d019e/images/structurizr-86931-Contenedor%20(1).png" alt="UPC">
 
 </div>
 
@@ -179,7 +179,7 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+<img src="https://github.com/HenryCenturion/open-source-final-project/blob/13f33de46772af97f952ceb0a12e32f5903d019e/images/structurizr-86931-API%20Rest%20Component%20Diagram.png" alt="UPC">
 
 </div>
 
