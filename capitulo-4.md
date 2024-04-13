@@ -38,8 +38,6 @@
 
 ### 4.1.1. Style Guidelines
 
-</div>
-
 ### 4.1.2. General Style Guidelines
 
 <div style="text-align: justify;">
@@ -94,7 +92,7 @@ aaa
 
 </div>
 
-### 4.3. Landing Page UI Desing
+## 4.3. Landing Page UI Desing
 
 ### 4.3.1. Landing Page Wireframe
 
@@ -106,37 +104,35 @@ aaa
 
 ## 4.4. Web Applications UX/UI Design
 
-<div style="text-align: justify;">
-
-aaa
-
-</div>
-
 ### 4.4.1. Web Applications Wireframes
 
 <div style="text-align: justify;">
 
-aaa
+Link del figma para ver todos los wireframes: <br>
+https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=224%3A2303&mode=design&t=gMUKQghXe93oTI3D-1
 
 </div>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire1" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire2" alt="UPC">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
-
-<div style="text-align: justify;">
-
-aaa
-
-</div>
 
 ### 4.4.3. Web Applications Mock-ups
 
 <div style="text-align: justify;">
 
-aaa
+Link del figma para ver todos los mocks-up: <br>
+https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=224%3A2303&mode=design&t=gMUKQghXe93oTI3D-1
 
 </div>
 
-## 4.4.4. Web Applications User Flow Diagrams
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock1" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock2" alt="UPC">
+
+### 4.4.4. Web Applications User Flow Diagrams
 
 <div style="text-align: justify;">
 
@@ -144,19 +140,14 @@ aaa
 
 </div>
 
-### 4.5. Web Applications Prototyping
+## 4.5. Web Applications Prototyping
 
 <div style="text-align: justify;">
 
 aaa
 
 
-### 4.6. Domain-Driven Software Architecture
-<div style="text-align: justify;">
-
-aaa
-
-</div>
+## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
 
