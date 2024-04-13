@@ -58,7 +58,7 @@
 
   - Utilizamos GitHub como plataforma y sistema de control de versiones.
   - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop", siendo la primera la rama padre de todas, y la segunda la rama hija de la anterior mencionada.
-  - Además, hemos agregado 7 ramas externas, dependientes de la rama "develop", el cual se ditribuyen en:
+  - Además, hemos agregado 7 ramas externas, dependientes de la rama "develop", el cual se distribuyen en:
     
       - document/caratula
       - document/capitulo-I
