@@ -113,9 +113,9 @@ https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=
 
 </div>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire1" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire2" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire2.png" alt="UPC">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
@@ -128,9 +128,9 @@ https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=
 
 </div>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock1" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock2" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock2.png" alt="UPC">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
