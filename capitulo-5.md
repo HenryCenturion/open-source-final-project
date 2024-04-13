@@ -36,16 +36,25 @@
 <br>
 <br>
 
-
   ## 5.1. Software Configuration Management
-
-  
 
   ### 5.1.1. Software Development Environment Configuration
 
-  
-  
-  ### 5.1.2. Source Code Management
+  - **Project Management:**
+  - Trello es una plataforma que facilita la colaboración y gestión de proyectos, permitiendo alcanzar niveles más altos de productividad. Se adapta tanto a entornos de oficinas en edificios corporativos como al trabajo remoto.
+
+- **Requierements Management:**
+  - Utilizaremos Pivotal Tracker como herramienta para gestionar de manera eficaz los user stories y las epics, garantizando que todos los miembros del equipo puedan acceder a ellos de forma sencilla e intuitiva.
+
+- **Product UX/UI Design:**
+  - Figma será la plataforma que emplearemos para llevar a cabo la creación de wireframes y la página de aterrizaje de nuestro proyecto, de manera fácil, eficaz y con gran eficiencia. Esto nos permitirá trabajar de manera más fluida y efectiva en el diseño y desarrollo del proyecto.
+
+- **Software Development:**
+  - **IDE:** JetBrain
+  - **HTML:** es la sigla que representa HyperText Markup Language, el cual es el lenguaje de marcado empleado en la construcción de páginas web.
+  - **CSS:** En castellano, “Cascading Style Sheets”, o CSS, es un lenguaje de diseño gráfico que se utiliza para dar formato y diseñar presentaciones de documentos estructurados que están escritos en HTML.
+
+### 5.1.2. Source Code Management
 
   - Utilizamos GitHub como plataforma y sistema de control de versiones.
   - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop", siendo la primera la rama padre de todas, y la segunda la rama hija de la anterior mencionada.
@@ -70,8 +79,28 @@
 
   ### 5.1.3. Source Code Style Guide & Conventions
 
+Las directrices para el formato del código fuente y las convenciones de codificación se establecen siguiendo las reglas específicas para el lenguaje HTML y el estilo de hoja de estilos que corresponde al CSS. Las principales pautas que consideraremos se presentarán de la siguiente manera:
+
+- **Declaración del tipo de documento HTML:**
+  - `<!DOCTYPE html>`
+
+- **Inclusión del idioma en la etiqueta html:**
+  - `<html lang="en">`
+
+- **Inclusión de las etiquetas esenciales dentro de la etiqueta html:**
+  - `<head>` y `<body>`
+
+- **Etiqueta Head:**
+  - Dentro de la sección `<head>` de una página web, que no es visible para el usuario al visitarla, es común incluir diversas etiquetas, como metadatos (`<meta>`), enlaces para archivos y fuentes, entre otros elementos adicionales fundamentales incorporar a esta estructura principal que determina el título de la página web, que se define con `<title>`.
+
+- **Etiqueta Body:**
+  - La etiqueta `<body>`, que es la parte visual de la página web, engloba todos los elementos que el usuario puede ver y experimentar. En esta sección, se utilizan las etiquetas `<header>`, `<main>` y `<footer>` para estructurar el contenido de la siguiente manera:
+    - La etiqueta `<header>` se emplea para la barra de navegación superior de la página.
+
   
   ### 5.1.4. Software Deployment Configuration
+
+La implementación de un software abarca los pasos, procesos y actividades necesarios para poner a disposición de los usuarios que visiten nuestro sitio web una actualización o un sistema. La configuración para desplegar la solución de manera satisfactoria para cada uno de nuestros productos digitales se llevará a cabo a través de un servidor (Git), junto con el uso de GitHub. Esto implica que cada archivo .html y .css será subido a un repositorio, permitiendo la configuración de cualquier parte del código de nuestra página web. Posteriormente, se ejecutará en un servidor de prueba para verificar el correcto funcionamiento y detectar posibles errores en el código. El proceso de implementación de un software consta de tres fases principales: preparación, pruebas y despliegue.
 
   ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -161,20 +190,19 @@ Header:
          
 - Link del video: https://drive.google.com/drive/folders/1OJ-TDtUbmeLt5Tx_Ce6XCEpjLG8vTKXu?usp=drive_link
 
-
-  #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
  - No se realizo services, debido a que el landing page no presenta servicios.
 
-  #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
   - No se utilizo ningun despliegue, debido a que el landing page no presenta evidencia de deployment por ser estatico.
 
-  #### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint
 
   
 
-  ## 5.3. Validation Interviews
+## 5.3. Validation Interviews
 
 
 
