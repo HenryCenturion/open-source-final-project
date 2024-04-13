@@ -151,19 +151,6 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 - ##### Duracion de la entrevista: 7:46 minutos
 - ##### Resumen: Luis es un estudiante de la Universidad San Ignacio de Loyola. Su día a su día suelen ser de puras tareas aunque tambien sus ratos para el billar, el cual suele jugarlo 3 veces a la semana, por lo que se considera un jugador regular. El suele reservar una mesa por las redes sociales del dueño. Entre los problemas que tiene es la poca disponibilidad de salones de billar cerca de su zona y horarios congestionados, generandole un sentimiento de molestia. Le importa demasiado los detalles de los salones, que tengam buen equipamiento y buena infraestructura, considera que impacta en la estadía del jugador. Finalmente, una aplicación web sería lo indicado para gestionar las reservas de todos los jugadores de billar que desean asistir.
 
-#### - Entrevista N°6:
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado6.png" alt="UPC">
-
-- ##### Entrevistador:
-- #### Entrevistado:
-- ##### Sexo: 
-- ##### Edad: 
-- ##### Distrito: 
-- ##### Duracion de la entrevista: 
-- ##### Resumen: 
-
-</div>
 
 ### 2.2.3. Analisis de entrevistas
 
@@ -175,7 +162,7 @@ Las entrevistas realizadas a personas aficionadas al fútbol nos revelan una ser
 
 #### Segmento 2:
 
-Las entrevistas realizadas a personas aficionadas al billar nos revelan una serie de desafíos comunes en la reserva de mesas en los salones billar. Las entrevistas con GianPaul, Luis y Jorge, quienes comparten un interés en el billar, suelen jugar seguido este deporte y nos comparten sus experiencias con las reservas. Todos coinciden en las dificultades para encontrar salones cercanos con horarios disponibles, lo que genera frustración. Nuestros entrevistas sugieren el uso de una aplicación web para simplificar el proceso de reserva y valoran la calidad del equipamiento y la infraestructura de los salones. Además, se resalta la importancia de fomentar una comunidad en el billar permitiendo que otros jugadores se unan a las mesas. Estos hallazgos subrayan la oportunidad de desarrollar una solución tecnológica que mejore la experiencia de reserva y promueva la interacción social en torno al billar.
+Las entrevistas realizadas a personas aficionadas al billar nos revelan una serie de desafíos comunes en la reserva de mesas en los salones billar. Las entrevistas con GianPaul y Luis, quienes comparten un interés en el billar, suelen jugar seguido este deporte y nos comparten sus experiencias con las reservas. Todos coinciden en las dificultades para encontrar salones cercanos con horarios disponibles, lo que genera frustración. Nuestros entrevistas sugieren el uso de una aplicación web para simplificar el proceso de reserva y valoran la calidad del equipamiento y la infraestructura de los salones. Además, se resalta la importancia de fomentar una comunidad en el billar permitiendo que otros jugadores se unan a las mesas. Estos hallazgos subrayan la oportunidad de desarrollar una solución tecnológica que mejore la experiencia de reserva y promueva la interacción social en torno al billar.
 
 #### Conclusiones:
 
