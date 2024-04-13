@@ -47,7 +47,26 @@
   
   ### 5.1.2. Source Code Management
 
-  
+  - Utilizamos GitHub como plataforma y sistema de control de versiones.
+  - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop", siendo la primera la rama padre de todas, y la segunda la rama hija de la anterior mencionada.
+  - Además, hemos agregado 7 ramas externas, dependientes de la rama "develop", el cual se ditribuyen en:
+    
+      - document/caratula
+      - document/capitulo-I
+      - document/capitulo-II
+      - document/capitulo-III
+      - document/capitulo-IV
+      - document/capitulo-V
+      - feature/landing-page
+      
+   - Estas han sido creadas con el proposito de dividir el trabajo en los 5 capitulos junto con la caratula y el landing page de acuerdo a las historias de usuario creadas.
+   - Las ramas externas creadas son hijas de la rama "develop", por lo que, al culminar con el trabajo en la etapa de desarrollo, estas se uniran mediante el Pull Request para asi tener todo el informe en un solo documento.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//main.png" alt="UPC">
+</p>
+
+  - Link del GitHub: github.com/HenryCenturion/open-source-final-project
 
   ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -99,7 +118,49 @@
 
   #### 5.2.1.5. Execution Evidence for Sprint Review
 
-    
+ - Hemos aprovechado el sprint para trabajar de manera colaborativa, cumplir con nuestros objetivos, y mejorar tanto nuestros productos como nuestros procesos de trabajo.
+
+ - Vista del landing page:
+
+Header:
+       
+  <p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//header.png" alt="UPC">
+</p>
+        Mid:
+     <br>
+     <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mid.png" alt="UPC">
+</p>
+        Plans:
+     <br>
+     <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//plans.png" alt="UPC">
+</p>
+        Us:
+     <br>
+     <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//us.png" alt="UPC">
+</p>
+        Preguntas:
+     <br>
+     <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//questions.png" alt="UPC">
+</p>
+      Footer:
+     <br>
+     <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//footer.png" alt="UPC">
+</p>
+  
+         
+- Link del video: https://drive.google.com/drive/folders/1OJ-TDtUbmeLt5Tx_Ce6XCEpjLG8vTKXu?usp=drive_link
+
 
   #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -111,7 +172,7 @@
 
   #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-
+  
 
   ## 5.3. Validation Interviews
 
