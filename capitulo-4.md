@@ -1,3 +1,7 @@
+## Tabla de contenidos
+<br>
+<br>
+
 - 4.1. [Product Design](#41-product-design) <br>
   - 4.1.1. [Style Guidelines](#411-style-guidelines) <br>
   - 4.1.2. [General Style Guidelines](#412-general-style-guidelines)<br>
@@ -192,13 +196,10 @@ aaa
 
 ## 4.8. Database Design
 
+### 4.8.1. Database Diagram
+
 <div style="text-align: justify;">
   
 aaa
   
 </div>
-
-### 4.8.1. Database Diagram
-
-</div>
-
