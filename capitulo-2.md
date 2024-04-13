@@ -152,6 +152,19 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 - ##### Resumen: Luis es un estudiante de la Universidad San Ignacio de Loyola. Su día a su día suelen ser de puras tareas aunque tambien sus ratos para el billar, el cual suele jugarlo 3 veces a la semana, por lo que se considera un jugador regular. El suele reservar una mesa por las redes sociales del dueño. Entre los problemas que tiene es la poca disponibilidad de salones de billar cerca de su zona y horarios congestionados, generandole un sentimiento de molestia. Le importa demasiado los detalles de los salones, que tengam buen equipamiento y buena infraestructura, considera que impacta en la estadía del jugador. Finalmente, una aplicación web sería lo indicado para gestionar las reservas de todos los jugadores de billar que desean asistir.
 
 
+#### - Entrevista N°6:
+
+<img src="https://github.com/HenryCenturion/open-source-final-project/blob/5a303a1c79b62cefe92d9da1c69c081e8a5acb27/images/interview.png" alt="UPC">
+
+- ##### Entrevistador: John Atencio
+- #### Entrevistado: Jorge Luis Sifuentes
+- ##### Sexo: Masculino
+- ##### Edad: 22 años
+- ##### Distrito: Magdalena del mar
+- ##### Duracion de la entrevista: 4:36 minutos
+- ##### Resumen: Jorge Luis Sifuentes es un publicista con cursos de diseño gráfico y propietario de un salón de billar. Jorge nos comenta que empezó este negocio como una afición que con el tiempo fue creciendo. Sin embargo, últimamente ha presentado dificultades para organizar el local y gestionar los horarios de atención cuando los clientes quieren reservar un espacio de juego. Debido a ello, ha empezado a buscar opciones en línea como Facebook para poder gestionar mejor las reservas. Desde su punto de vista una buena plataforma de reserva necesitaría mostrar sus horarios de atención, sus precios por hora, los tipos de juego que ofrece, los servicios extra como comidas y bebidas, y la disponibilidad de cada espacio de juego. Finalmente, concluye que una plataforma así le sería  de mucha ayuda. 
+
+
 ### 2.2.3. Analisis de entrevistas
 
 <div style="text-align: justify;">
