@@ -161,6 +161,7 @@ La implementación de un software abarca los pasos, procesos y actividades neces
   | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | 326f262                                 | feat: Implement landing-page plan section       | Add plan section in landing-page for visitor visual | 13/04/2024 |
   | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | 66e031b                                 | feat: Update index.html       | Implemented the members section | 13/04/2024 |
   | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | bced3d2                                 | feat: Update images folder       | Add arrow | 13/04/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/landing-page    | 9c82028                                 | feat: Update image folder       | Add footer icons | 13/04/2024 |
   
 
   #### 5.2.1.4. Testing Suite Evidence for Sprint Review
