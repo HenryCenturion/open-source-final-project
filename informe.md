@@ -430,6 +430,7 @@ Estrategias:
 
 <div style="text-align: justify;">
 
+**Para todos los segmentos:**
 
 - ¿Cuál es tu nombre completo?
 - ¿Qué edad tienes?
@@ -438,6 +439,8 @@ Estrategias:
 - ¿Cuál es tu estado civil?
 - ¿Tienes profesión o estudias?
 - ¿Cómo suele ser tu día a día?
+
+**Para segmento 1 y 2:**
 
 - ¿Con qué frecuencia juegas al fútbol(o billar) y cuánto tiempo dedicas a buscar una cancha disponible?
 - ¿Qué métodos utilizas generalmente para encontrar una cancha de fútbol(o billar)? (por ejemplo, aplicaciones móviles, redes sociales, páginas web, contactos personales, etc.)
@@ -449,6 +452,20 @@ Estrategias:
 - ¿Has considerado alguna vez abandonar la búsqueda de una cancha de fútbol(o mesa de billar) debido a la dificultad para encontrar una disponible? Si es así, ¿qué te llevó a tomar esa decisión?
 - ¿Existen barreras específicas que te impidan disfrutar plenamente del fútbol(o billar) debido a la falta de canchas(o mesas de billar) disponibles?
 - ¿Qué sugerencias tienes para mejorar la infraestructura de las canchas de fútbol(o salones de billar) o la gestión de su reserva para hacerlas más accesibles para todos los jugadores?
+
+**Para segmento 3:**
+
+- ¿Qué los motivó a abrir o administrar un espacio de juego como una cancha de fútbol o un salón de billar?
+- ¿Cuáles son los servicios y facilidades que ofrecen en su local? (número de canchas, tipos de mesas de billar, otros juegos disponibles, etc.)
+- ¿Cómo gestionan actualmente las reservas y la programación de sus espacios de juego?
+- ¿Cuáles son los principales desafíos que enfrentan al gestionar las reservas y la operación diaria de su local?
+- ¿Qué características consideran más importantes en una plataforma de reserva en línea para su negocio? (por ejemplo, facilidad de uso, disponibilidad de horarios en tiempo real, opciones de pago, etc.)
+- ¿Han utilizado alguna plataforma de reserva en línea antes? ¿Qué les gustó y qué les gustaría mejorar de esas experiencias?
+- ¿Qué tipo de información les gustaría tener acceso en una plataforma de reserva? (por ejemplo, datos de clientes, estadísticas de uso, etc.)
+- ¿Tienen algún requisito específico en cuanto a la gestión de pagos y facturación dentro de la plataforma?
+- ¿Cómo prefieren recibir soporte técnico y atención al cliente? (por ejemplo, correo electrónico, chat en vivo, teléfono, etc.)
+- ¿Tienen alguna preocupación en cuanto a la seguridad y privacidad de la información de sus clientes al utilizar una plataforma en línea?
+
 
 </div>
 
