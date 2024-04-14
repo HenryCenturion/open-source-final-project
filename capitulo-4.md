@@ -214,8 +214,7 @@ Muestra un registro de las reservas anteriores del usuario, permitiéndoles revi
 
 <div style="text-align: justify;">
 
-Link del figma para ver todos los wireframes: <br>
-https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=224%3A2303&mode=design&t=gMUKQghXe93oTI3D-1
+Link del figma para ver todos los wireframes en el anexo <br>
 
 </div>
 
@@ -225,12 +224,43 @@ https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+User goal 1: Login a la aplicacion web <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal1.png" alt="UPC">
+
+User goal 2: Ver información de los espacios de juego <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal2.png" alt="UPC">
+
+User goal 3: Reservar un espacio de juego <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal3.png" alt="UPC">
+
+User goal 4: Crear o unirse a una sala comunidad <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal4.png" alt="UPC">
+
+User goal 5: Editar perfil <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal5.png" alt="UPC">
+
+User goal 6: Agregar tarjeta como metodo de pago <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal6.png" alt="UPC">
+
+User goal 7: Ver, editar o cancelar una reserva <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal7.png" alt="UPC">
+
+User goal 8: Cambiar de suscripcion <br>
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal8.png" alt="UPC">
+
 ### 4.4.3. Web Applications Mock-ups
 
 <div style="text-align: justify;">
 
-Link del figma para ver todos los mocks-up: <br>
-https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=224%3A2303&mode=design&t=gMUKQghXe93oTI3D-1
+Link del figma para ver todos los mocks-up en el anexo <br>
 
 </div>
 
