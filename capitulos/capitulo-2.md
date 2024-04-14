@@ -176,15 +176,15 @@ Entrevista N°7:
 
 Entrevista N°8:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado8.png" alt="UPC">
+<img src="https://github.com/HenryCenturion/open-source-final-project/blob/cc2e0b3fb29446d51399e003915c2db9bd9e18f4/capitulos/images/entrevistador9.png" alt="UPC">
 
-- **Entrevistador:**
-- **Entrevistado:**
-- **Sexo:** 
-- **Edad:** 
-- **Distrito:** 
-- **Duracion de la entrevista:** 
-- **Resumen:** 
+- **Entrevistador:** John Atencio
+- **Entrevistado:** Rodrigo Salas
+- **Sexo:** Masculino
+- **Edad:** 22
+- **Distrito:** San Juan de Lurigancho
+- **Duracion de la entrevista:** 8:12
+- **Resumen:** Rodrigo Salas, estudiante de administración, nos comenta que mantiene un negocio familiar de alquilar espacios de recreación en su mayoría canchas de futbol. En síntesis, Rodrigo explica que su mayor dificultad es administrar los horarios del espacio ya que en días de semana lo usa solo como cancha de futbol y en fines de semana o en la noche como lugar de fiestas infantiles o quinceañeros. Por esta razón, le sería útil una web con la que establezca sus horarios y sus precios.
 
 Entrevista N°9:
 
