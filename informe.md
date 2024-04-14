@@ -1481,4 +1481,26 @@ Zmijewski, B. (2024, enero 4). *Needfinding: Crafting products aligned with user
 
 # Anexos
 
-aaa
+Enlace a las entrevistas de los segmentos objetivos:
+https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ?usp=sharing
+
+As-is y to-be mapping Miro:
+https://miro.com/app/board/uXjVKUmcOCw=/?share_link_id=98435150377
+
+Enlace a figma:
+https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=0%3A1&mode=design&t=K3kzNMJ1UGVbxDsc-1
+
+Enlace al repositorio en Github:
+https://github.com/HenryCenturion/open-source-final-project
+
+Video del about-the-Product:
+
+
+Video de las entrevistas de validacion:
+
+
+Video del About-the-Team:
+
+
+Video de la TB1:
+
