@@ -39,35 +39,35 @@ Tecny es una innovadora startup creada por estudiantes de la UPC de la carrera d
 
 ### 1.1.2. Perfiles de integrantes del grupo
 
-#### Henry Centurion
+**Henry Centurion**
 
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
 | <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//henry1.png" alt="UPC"> | Mi nombre es Henry Centurión, tengo 21 años y soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Soy alguien feliz, tranquilo y a quien le gusta trabajar en equipo para llegar a las metas acordadas. Siempre he estado interesado en la tecnología y cómo es que funcionan desde su código base. Además de ello, mis pasatiempos son hacer deporte en general y programar en C++, el cual es mi principal lenguaje de programación. Mi meta es convertirme en un gran profesional y aportar mi conocimiento a la sociedad.|
 <br>
 
-#### John Atencio
+**John Atencio**
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
 | <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//john2.jpg" alt="UPC"> | Mi nombre es John Atencio, actualmente tengo 21 años y estoy estudiando la carrera de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Dentro de mis aspectos personales, siempre me he considerado alguien bastante relajado y sobre todo curioso. Por ello, desde niño he tenido la curiosidad de conocer los procesos y funciones detrás de las computadoras para que estas operen como un minicerebro. Esto último, fue fundamental para la elección de mi carrera.|
 
 <br>
 
-#### Sebastian Frisancho
+**Sebastian Frisancho**
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
 | <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//free1.jpg" alt="UPC"> | Mi nombre es Sebastian Frisancho, tengo 21 años y soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me gustan los deportes como ir al gimnasio, practicar fútbol, básquet e incluso natación. Desde pequeño me encontré rodeado de tecnología por lo que me gustaría poder tener softwares propios que me generen ingresos sin tener que trabajar en una ciudad fija. Me gustaría estudiar de manera autodidacta HTML, CSS y SQL para poder tener más conocimientos que me sirvan en mi futuro.|
 
 <br>
 
-#### Sebastian Mendez
+**Sebastian Mendez**
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
 | <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//sebas.png" alt="UPC"> | Mi nombre es Sebastian Mendez, tengo 19 años y actualmente estoy cursando el tercer ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Puedo decir que soy una persona muy perseverante, con metas claras y con objetivos propuestos a futuro. Además, soy una persona que considera que tiene mucha curiosidad con respecto al tema de la tecnología y sobre qué hay detrás de todo el tema de la programación. Mis pasatiempos son, jugar al básquet, los videojuegos, ir al gimnasio y programar ocasionalmente.|
 
 <br>
 
-#### Francis Mamani
+**Francis Mamani**
 | Foto                                     | Descripción              |
 |--------------------------------------------|--------------------------|
 | <img src="https://raw.githubusercontent.com/HenryCenturion/open-source-final-project//document/caratula//images//francis1.jpg" alt="UPC"> | Mi nombre es Francis Daniel Mamani Silva, un estudiante de 19 años de origen peruano con una pasión desenfrenada por los videojuegos. Actualmente estoy inmerso en mi carrera de Ingeniería de Software, donde combino mi amor por la tecnología con mi fascinación por los juegos. Destacándome en mis estudios universitarios, aspiro a fusionar estos dos mundos para contribuir al desarrollo de experiencias interactivas innovadoras. Mi energía optimista, junto con mi creatividad y determinación, me posicionan como un futuro líder en la industria del desarrollo de software. |
@@ -121,21 +121,18 @@ Además del fútbol, el billar está ganando popularidad entre los limeños, con
 ### 1.2.2. Lean UX process
 
 #### 1.2.2.1. Lean UX Problem Statements
-  #### Problem Statement 1
-  Nuestra startup se enfrenta al desafío de crear una plataforma integral que simplifique y mejore el proceso de reserva de canchas de fútbol y mesas de billar en Lima Metropolitana. Nos encontramos ante la necesidad de desarrollar un sistema que permita a los usuarios encontrar fácilmente instalaciones disponibles, verificar su ubicación, conocer las características de los locales y realizar reservas de manera rápida y sencilla.
 
-  ¿Cómo podemos diseñar una plataforma digital que satisfaga las necesidades de los aficionados al fútbol en Lima Metropolitana, ofreciendo una experiencia de reserva mejorada?
+**Problem Statement 1** <br>
+Nuestra startup se enfrenta al desafío de crear una plataforma integral que simplifique y mejore el proceso de reserva de canchas de fútbol y mesas de billar en Lima Metropolitana. Nos encontramos ante la necesidad de desarrollar un sistema que permita a los usuarios encontrar fácilmente instalaciones disponibles, verificar su ubicación, conocer las características de los locales y realizar reservas de manera rápida y sencilla.
+¿Cómo podemos diseñar una plataforma digital que satisfaga las necesidades de los aficionados al fútbol en Lima Metropolitana, ofreciendo una experiencia de reserva mejorada?
 
-  #### Problem Statement 2
-
-### Problem Statement 2
-
+**Problem Statement 2** <br>
 Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad y la integridad del proceso de reserva de canchas de fútbol y mesas de billar en Lima Metropolitana, así como de asegurar los pagos realizados a través de nuestra plataforma. Esto debido a que estamos en un entorno donde el temor a ser estafado durante transacciones en línea es una preocupación creciente entre los usuarios
-
 ¿Cómo podemos diseñar una plataforma digital que no solo simplifique el proceso de reserva, sino que también brinde confianza y seguridad a los usuarios en cada paso del camino?
 
 #### 1.2.2.2. Lean UX Assumptions
-  #### Business Outcomes
+
+**Business Outcomes**
 
 1. Aumento significativo en el número de reservas mensuales, reflejando una mayor participación de los usuarios en actividades deportivas.
 2. Mejora en la satisfacción del cliente, medida a través de encuestas de retroalimentación y reseñas positivas en la plataforma.
@@ -149,7 +146,7 @@ Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad
 10. Generación de ingresos consistentes a través de comisiones por reservas y opciones de monetización adicionales, como publicidad y patrocinios.
 11. Contribución positiva al bienestar general de la comunidad al fomentar un estilo de vida activo y saludable entre los residentes de Lima Metropolitana.
 
-  #### User Outcomes
+**User Outcomes**
 
 1. ¿Quién será nuestro usuario principal al reservar canchas de fútbol o mesas de billar en Lima Metropolitana? 
    - Nuestro usuario principal puede ser un rupos de amigos o jugadores individuales que buscan reservar para partidos recreativos.
@@ -191,60 +188,48 @@ Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad
 
 ### 1.3. Segmentos objetivo
 
-#### Segmento objetivo 1: Personas que juegan futbol
-####	Aspectos demográficos:
+**Segmento objetivo 1: Personas que juegan futbol**
+  - Aspectos demográficos:
+    - Sexo: Hombres.
+    - Edades: De 15 a 45 años.
+    - Nivel Socioeconómico: Medio y medio-alto.
 
+  - Aspectos geográficos:
+    - Nacionalidad: Residentes en Lima, Perú.
+    - Zona Geográfica: Área Metropolitana de Lima
+    - Departamento: Lima Metropolitana.
 
-  -	Sexo: Hombres.
-  - Edades: De 15 a 45 años.
-  - Nivel Socioeconómico: Medio y medio-alto.
+  - Aspectos psicográficos:
+    - Intereses: Aficionados al fútbol, tanto jugadores como espectadores.
+    - Estilo de Vida: Activo y deportivo.
 
-####	Aspectos geográficos:
+**Segmento objetivo 2: Personas que juegan billar**  
+  - Aspectos demográficos:
+    -	Sexo: Hombres y mujeres.
+    - Edades: De 15 a 45 años.
+    - Nivel Socioeconómico: Medio y medio-alto.
 
-  - Nacionalidad: Residentes en Lima, Perú.
-  - Zona Geográfica: Área Metropolitana de Lima.
-  - Departamento: Lima Metropolitana.
+  - Aspectos geográficos:
+    - Nacionalidad: Residentes en Lima, Perú.
+    - Zona Geográfica: Área Metropolitana de Lima.
+    - Departamento: Lima Metropolitana.
 
-#### Aspectos psicográficos:
+  - Aspectos psicográficos:
+    - Intereses: Aficionados al billar, tanto jugadores como espectadores.
+    - Estilo de Vida: Activo y deportivo.
 
-  - Intereses: Aficionados al fútbol, tanto jugadores como espectadores.
-  - Estilo de Vida: Activo y deportivo.
+**Segmento objetivo 3: Personas dueñas de un espacio de juego**
+  - Aspectos demográficos:
+    -	Sexo: Hombres y mujeres.
+    - Edades: De 25 a 60 años.
+    - Nivel Socioeconómico: Medio-alto y Alto.
 
-#### Segmento objetivo 2: Personas que juegan billar
-#### Aspectos demográficos:
+  - Aspectos geográficos:
+    - Nacionalidad: Residentes en Lima, Perú.
+    - Zona Geográfica: Área Metropolitana de Lima.
+    - Departamento: Lima Metropolitana.
 
-
-  -	Sexo: Hombres y mujeres.
-  - Edades: De 15 a 45 años.
-  - Nivel Socioeconómico: Medio y medio-alto.
-
-####	Aspectos geográficos:
-
-  - Nacionalidad: Residentes en Lima, Perú.
-  - Zona Geográfica: Área Metropolitana de Lima.
-  - Departamento: Lima Metropolitana.
-
-#### Aspectos psicográficos:
-
-  - Intereses: Aficionados al billar, tanto jugadores como espectadores.
-  - Estilo de Vida: Activo y deportivo.
-
-#### Segmento objetivo 3: Personas dueñas de un espacio de juego
-#### Aspectos demográficos:
-
-
-  -	Sexo: Hombres y mujeres.
-  - Edades: De 25 a 60 años.
-  - Nivel Socioeconómico: Medio-alto y Alto.
-
-####	Aspectos geográficos:
-
-  - Nacionalidad: Residentes en Lima, Perú.
-  - Zona Geográfica: Área Metropolitana de Lima.
-  - Departamento: Lima Metropolitana.
-
-#### Aspectos psicográficos:
-
-  - Intereses: Administradores de espacios de juego.
-  - Estilo de Vida: Activo para hacer negocios.
+  - Aspectos psicográficos:
+    - Intereses: Administradores de espacios de juego.
+    - Estilo de Vida: Activo para hacer negocios.
 
