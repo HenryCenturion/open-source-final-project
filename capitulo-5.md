@@ -40,9 +40,6 @@
 
   ### 5.1.1. Software Development Environment Configuration
 
-  - **Project Management:**
-  - Trello es una plataforma que facilita la colaboración y gestión de proyectos, permitiendo alcanzar niveles más altos de productividad. Se adapta tanto a entornos de oficinas en edificios corporativos como al trabajo remoto.
-
 - **Requierements Management:**
   - Utilizaremos Pivotal Tracker como herramienta para gestionar de manera eficaz los user stories y las epics, garantizando que todos los miembros del equipo puedan acceder a ellos de forma sencilla e intuitiva.
 
@@ -57,8 +54,8 @@
 ### 5.1.2. Source Code Management
 
   - Utilizamos GitHub como plataforma y sistema de control de versiones.
-  - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop", siendo la primera la rama padre de todas, y la segunda la rama hija de la anterior mencionada.
-  - Además, hemos agregado 7 ramas externas, dependientes de la rama "develop", el cual se distribuyen en:
+  - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop"
+  - Además de las ramas predeterminadas, como grupo hemos creado la rama de tipo document el cual es para uso exclusivo del manejo de información del informe
     
       - document/caratula
       - document/capitulo-I
@@ -66,16 +63,17 @@
       - document/capitulo-III
       - document/capitulo-IV
       - document/capitulo-V
+      - document/anexos
       - feature/landing-page
       
-   - Estas han sido creadas con el proposito de dividir el trabajo en los 5 capitulos junto con la caratula y el landing page de acuerdo a las historias de usuario creadas.
+   - Estas han sido creadas con el proposito de dividir el trabajo en los 5 capitulos junto con la caratula, anexos y el landing page de acuerdo a las historias de usuario creadas.
    - Las ramas externas creadas son hijas de la rama "develop", por lo que, al culminar con el trabajo en la etapa de desarrollo, estas se uniran mediante el Pull Request para asi tener todo el informe en un solo documento.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//main.png" alt="UPC">
 </p>
 
-  - Link del GitHub: github.com/HenryCenturion/open-source-final-project
+  - Link del GitHub del anexo
 
   ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -122,9 +120,7 @@ Las directrices para el formato del código fuente y las convenciones de codific
 La implementación de un software abarca los pasos, procesos y actividades necesarios para poner a disposición de los usuarios que visiten nuestro sitio web una actualización o un sistema. La configuración para desplegar la solución de manera satisfactoria para cada uno de nuestros productos digitales se llevará a cabo a través de un servidor (Git), junto con el uso de GitHub. Esto implica que cada archivo .html y .css será subido a un repositorio, permitiendo la configuración de cualquier parte del código de nuestra página web. Posteriormente, se ejecutará en un servidor de prueba para verificar el correcto funcionamiento y detectar posibles errores en el código. El proceso de implementación de un software consta de tres fases principales: preparación, pruebas y despliegue.
 
   ## 5.2. Landing Page, Services & Applications Implementation
-
   
-
   ### 5.2.1. Sprint 1
   
   #### 5.2.1.1. Sprint Planning 1
@@ -211,7 +207,7 @@ Header:
 </p>
   
          
-- Link del video: https://drive.google.com/drive/folders/1OJ-TDtUbmeLt5Tx_Ce6XCEpjLG8vTKXu?usp=drive_link
+- Link del video del landing page en el anexo
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -231,18 +227,13 @@ Header:
 
 ## 5.3. Validation Interviews
 
-
-
   ### 5.3.1. Diseño de Entrevistas
 
 
-  
   ### 5.3.2. Registro de Entrevistas
 
-  
 
   ### 5.3.3. Evaluaciones según heurísticas
 
-  
 
   ## 5.4. Video About-the-Product
