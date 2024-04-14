@@ -1,6 +1,6 @@
 - 2.1. [Competidores](#21-competidores) <br>
   - 2.1.1. [Análisis competitivo](#211-analisis-competitivo) <br>
-  - 2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tacticas-frente-a-competidores)<br>
+  - 2.1.2. [Estrategias y tacticas frente a competidores](#212-estrategias-y-tacticas-frente-a-competidores)<br>
 - 2.2. [Entrevistas](#22-entrevistas)<br>
   - 2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas)<br>
   - 2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)<br>
@@ -40,7 +40,7 @@
 | Debilidades             | D'Taquito requiere una conexión a internet para funcionar correctamente, lo que puede limitar su uso en áreas con acceso limitado a internet.| Con el aumento de la competencia en el mercado de aplicaciones deportivas, MiCancha debe esforzarse por mantener su posición líder. | La aplicación depende en gran medida de una conexión a internet sólida, lo que puede representar un desafío en áreas con acceso limitado a la red. | Puede enfrentar desafíos para establecerse como una marca reconocida en un mercado competitivo. |
 | Amenazas             | Los avances tecnológicos podrían dar lugar a nuevas plataformas o servicios que compitan con D'Taquito, lo que podría afectar su posición en el mercado. |Con el aumento de las amenazas cibernéticas, existe el riesgo de que la seguridad de los datos de los usuarios sea comprometida, lo que podría dañar la reputación de la marca.| La competencia con aplicaciones más establecidas y con mayores recursos podría dificultar su crecimiento y supervivencia.| El rápido avance tecnológico podría requerir inversiones adicionales para mantenerse al día con las expectativas de los usuarios y las tendencias del mercado.|
 
-### 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tacticas frente a competidores
 
 <div style="text-align: justify;">
 
@@ -345,12 +345,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 <div style="text-align: justify;">
   
 **User persona 1: Julian Ramos**
+
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//asfut.jpg" alt="UPC">
 
 **User persona 2: Andres Martinez**  
+
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//asbil.jpg" alt="UPC">
 
 **User persona 3: Juan Perez**
+
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//asowner.jpg" alt="UPC">
 
 </div>
