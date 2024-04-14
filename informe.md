@@ -563,25 +563,13 @@ Entrevista N°8:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado8.png" alt="UPC">
 
-- **Entrevistador:**
-- **Entrevistado:**
-- **Sexo:** 
-- **Edad:** 
-- **Distrito:** 
-- **Duracion de la entrevista:** 
-- **Resumen:** 
-
-Entrevista N°9:
-
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado9.png" alt="UPC">
-
-- **Entrevistador:**
-- **Entrevistado:**
-- **Sexo:** 
-- **Edad:** 
-- **Distrito:** 
-- **Duracion de la entrevista:** 
-- **Resumen:** 
+- **Entrevistador:** John Atencio
+- **Entrevistado:** Rodrigo Salas
+- **Sexo:** Masculino
+- **Edad:** 22
+- **Distrito:** San Juan de Lurigancho
+- **Duracion de la entrevista:** 8:12
+- **Resumen:** Rodrigo Salas, estudiante de administración, nos comenta que mantiene un negocio familiar de alquilar espacios de recreación en su mayoría canchas de futbol. En síntesis, Rodrigo explica que su mayor dificultad es administrar los horarios del espacio ya que en días de semana lo usa solo como cancha de futbol y en fines de semana o en la noche como lugar de fiestas infantiles o quinceañeros. Por esta razón, le sería útil una web con la que establezca sus horarios y sus precios.
 
 ### 2.2.3. Analisis de entrevistas
 
@@ -597,6 +585,7 @@ Las entrevistas realizadas a personas aficionadas al billar nos revelan una seri
 
 **Segmento 3:**
 
+Tanto Luis Diego, estudiante de la UPC, como Rodrigo Salas, estudiante de administración, enfrentan desafíos en la gestión de sus actividades. Luis Diego busca mejorar la accesibilidad a los locales de billar en Lima mediante una página web que muestre horarios y fotos de los locales, mientras que Rodrigo busca una solución similar para administrar los horarios y precios de su negocio de alquiler de espacios recreativos. Ambos reconocen la importancia de una plataforma digital para optimizar la gestión de sus actividades y mejorar la experiencia de sus clientes.
 
 
 **Conclusiones:**
@@ -1481,7 +1470,7 @@ Zmijewski, B. (2024, enero 4). *Needfinding: Crafting products aligned with user
 
 # Anexos
 
-Enlace a las entrevistas de los segmentos objetivos:
+Enlace a los videos requeridos en carpeta distribuidas:
 https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ?usp=sharing
 
 As-is y to-be mapping Miro:
@@ -1492,15 +1481,3 @@ https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=
 
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project
-
-Video del about-the-Product:
-
-
-Video de las entrevistas de validacion:
-
-
-Video del About-the-Team:
-
-
-Video de la TB1:
-
