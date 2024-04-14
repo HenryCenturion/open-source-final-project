@@ -1459,7 +1459,25 @@ aaa
 
 # Bibliografia
 
-aaa
+Atlassian. (s/f). *Configuration management*. Atlassian. Recuperado el 14 de abril de 2024, de https://www.atlassian.com/microservices/microservices-architecture/configuration-management
+
+Creasoft. (s/f). *Inicio*. Micancha.pe. Recuperado el 14 de abril de 2024, de https://www.micancha.pe/
+
+Donde juego. (s/f). *Dondejuegoapp.com*. Recuperado el 14 de abril de 2024, de https://www.dondejuegoapp.com/
+
+Muro, L. (2020, marzo). *Plataforma digital para la reserva de canchas sinteticas*. Repositorio Universidad de Lima. https://repositorio.ulima.edu.pe/bitstream/handle/20.500.12724/12082/Muro_Plataforma-digital-reserva-canchas.pdf?sequence=1&isAllowed=y
+
+*Reserva tu cancha al instante*. (s/f). ATC. Recuperado el 14 de abril de 2024, de https://alquilatucancha.com/
+
+Scholten, K. (2023, agosto 16). *Understanding agile: The Difference Between a Product Backlog and a User Story*. CardBoard. https://cardboardit.com/2023/08/understanding-agile-the-difference-between-a-product-backlog-and-a-user-story/
+
+*The C4 model for visualising software architecture*. (s/f). C4model.com. Recuperado el 14 de abril de 2024, de https://c4model.com/
+
+*The complete guide to Lean UX*. (2022, diciembre 13). Webflow. https://webflow.com/blog/lean-ux
+
+Vaidya, M. (2020, septiembre 5). *Accessibility: Guidelines for information architecture, UX design, and visual design*. IBM Design. https://medium.com/design-ibm/accessibility-guidelines-for-information-architecture-ux-design-and-visual-design-5ae33ed1d52d
+
+Zmijewski, B. (2024, enero 4). *Needfinding: Crafting products aligned with user needs*. Helio. https://helio.app/blog/the-needfinding-playbook-crafting-products-aligned-with-genuine-desires/
 
 # Anexos
 
