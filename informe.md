@@ -73,7 +73,7 @@
 
   | Criterio especifico | Acciones realizadas | Conclusiones |
   |-|-|-|
-  | Demuestra capacidad de comunicarse efectivamente con un rango de audiencias | 14-04-24 | Grupo Tecny |
+  | Demuestra capacidad de comunicarse efectivamente con un rango de audiencias |  John Atencio: Realice el proyecto en general junto con mis compañeros aplicando comunicacion Sebastian Mendez: En colaboración con mis compañeros, llevamos a cabo el proyecto de manera integral, aplicando una comunicación efectiva en cada etapa del proceso Sebastian Frisancho: Trabajamos en equipo con mis colegas para llevar a cabo el proyecto en su totalidad, haciendo uso de una comunicación constante y efectiva en todas las fases del proceso Henry Centurion: Con la colaboración de mis compañeros, gestionamos el proyecto en su conjunto, empleando una comunicación fluida en todas nuestras interacciones Francis Mamani: En conjunto con mis colegas, ejecutamos el proyecto de manera integral, haciendo hincapié en una comunicación efectiva en cada paso del proceso.| John Atencio: Falta mejorar muchos aspectos del informe pero se encuentra lo principal Sebastian Frisancho: Falta mejorar las cosas Henry Centurion: Falta lo mejor del informe Francis Mmani: A mejorar ciertos aspectos Sebastian Mendez: A mejorar|
 
 ### Registro de versiones <br>
 
