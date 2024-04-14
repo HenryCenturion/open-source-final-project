@@ -27,7 +27,7 @@
 
 | Competidores             | D'Taquito              | MiCancha              | ¿Donde juego?              | AlquilaTuCancha          |
 |-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-| Logos | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo.jpg" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo2.jpg" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo3.png" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//logo4.png" alt="UPC">    |
+| Logos | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//logo.jpg" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//logo2.jpg" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//logo3.png" alt="UPC">    | <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//logo4.png" alt="UPC">    |
 | Overview | D'Taquito es una aplicación web diseñada para facilitar la reserva de canchas de fútbol y mesas de billar en la región de Lima Metropolitana. Permite a los usuarios encontrar y reservar desde su navegador web, ofreciendo una amplia selección de opciones en diferentes ubicaciones. La aplicación proporciona información detallada sobre cada cancha y mesa, incluyendo fotos e instalaciones, y garantiza transacciones seguras | MiCancha es una aplicación que facilita la reserva de canchas deportivas. Con MiCancha, puedes hacer tu reserva en cualquier momento y en cualquier lugar. Esta plataforma digital elimina la necesidad de llamar para reservar tu cancha, ofreciendo una forma más fácil y rápida de reservar. | ¿Donde juego?, es una aplicacion que facilita al usuario a poder reservar espacios deportivos de manera efectiva y rapida, quitando toda la parte tediosa de recurrir al local antes del evento, esto facilita que la reserva se realize de manera remota.| AlquilaTuCancha ofrece una plataforma de gestión para centros deportivos en América Latina, con el propósito de digitalizar y optimizar los procesos burocráticos relacionados con la renta de estos establecimientos. Permite a los usuarios explorar y reservar canchas disponibles en tiempo real en su ciudad. Además, genera ingresos mediante el cobro de una tarifa mensual.|
 | Ventaja competitiva | D'Taquito ofrece una ventaja competitiva al simplificar la reserva de canchas deportivas y mesas de billar. D'Taquito destaca por su plataforma integral y conveniente, permitiendo a los usuarios encontrar y reservar canchas y mesas con facilidad y seguridad desde cualquier lugar con conexión a internet. |Mientras tanto, MiCancha ofrece una solución rápida y sencilla al eliminar la necesidad de llamar para reservar, lo que ahorra tiempo y esfuerzo a los usuarios.| ¿Dónde Juego? te ofrece un sistema innovador para estar más actualizado que nunca. A través de nuestra plataforma, puedes navegar por las canchas, ver sus galería de imágenes, turnos disponibles y reservar rápidamente, sin pérdidas de tiempo.| La plataforma permite a los usuarios verificar y reservar canchas en tiempo real, con un proceso automatizado que asegura respuestas inmediatas las 24 horas del día. Esto no solo beneficia a los usuarios, sino que también incrementa los ingresos de los clubes al maximizar la ocupación de sus instalaciones.|
 | Mercado objetivo | El mercado objetivo son personas que juegan futbol y billar. Se compone principalmente de hombres con edades comprendidas entre los 15 y 45 años, pertenecientes a niveles socioeconómicos medios y medio-altos. Residen en Lima, Perú, específicamente en el área metropolitana de la ciudad. Estos individuos tienen un fuerte interés en el fútbol y en el billar, tanto como jugadores activos como espectadores entusiastas del deporte. | Esta aplicación está dirigida a personas que buscan una forma fácil y rápida de reservar canchas deportivas. Su mercado objetivo puede incluir a deportistas aficionados, equipos deportivos y organizadores de eventos deportivos que necesitan una forma conveniente de reservar canchas. La aplicación puede ser especialmente útil para personas que viven en áreas urbanas donde la demanda de canchas deportivas puede ser alta. | Al igual que MiCancha, Se dirige a individuos y grupos que buscan una forma fácil de encontrar y reservar canchas deportivas. Esto podría incluir a jugadores individuales, equipos deportivos, entrenadores y organizadores de eventos deportivos.| Alquila tu Cancha brinda una solución integral para dos grupos clave: en primer lugar, ayuda a los propietarios de instalaciones deportivas a simplificar y modernizar sus operaciones, eliminando la burocracia asociada con la gestión de alquileres. Por otro lado, ofrece a los deportistas aficionados la comodidad de encontrar y reservar fácilmente canchas para una variedad de deportes, desde fútbol y pádel hasta tenis y básquetbol, de manera rápida y conveniente.|
@@ -92,7 +92,7 @@ Link de las entrevistas en anexos
 
 Entrevista N°1:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado1.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Mendez
 - **Entrevistado:** Patrizio Mere
@@ -104,7 +104,7 @@ Entrevista N°1:
 
 Entrevista N°2:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado2.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Mendez
 - **Entrevistado:** Sebastian Tenorio
@@ -116,7 +116,7 @@ Entrevista N°2:
 
 Entrevista N°3:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado3.png" alt="UPC">
 
 - **Entrevistador:** Henry Centurion
 - **Entrevistado:** Adriano Berrospi
@@ -128,7 +128,7 @@ Entrevista N°3:
 
 Entrevista N°4:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado4.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado4.png" alt="UPC">
 
 - **Entrevistador:** Henry Centurion
 - **Entrevistado:** GianPaul Quintana
@@ -140,7 +140,7 @@ Entrevista N°4:
 
 Entrevista N°5:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado5.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado5.png" alt="UPC">
 
 - **Entrevistador:** Henry Centurion
 - **Entrevistado:** Luis Carreño
@@ -152,7 +152,7 @@ Entrevista N°5:
 
 Entrevista N°6:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado6.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado6.png" alt="UPC">
 
 - **Entrevistador:**
 - **Entrevistado:**
@@ -164,7 +164,7 @@ Entrevista N°6:
 
 Entrevista N°7:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado7.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado7.png" alt="UPC">
 
 - **Entrevistador:** John Atencio
 - **Entrevistado:** Jorge Luis Sifuentes
@@ -176,7 +176,7 @@ Entrevista N°7:
 
 Entrevista N°8:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado8.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado8.png" alt="UPC">
 
 - **Entrevistador:**
 - **Entrevistado:**
@@ -188,7 +188,7 @@ Entrevista N°8:
 
 Entrevista N°9:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado9.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado9.png" alt="UPC">
 
 - **Entrevistador:**
 - **Entrevistado:**
@@ -247,15 +247,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 **Segmento 1: Personas que le gusta el futbol**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//userpersona1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//userpersona1.png" alt="UPC">
 
 **Segmento 2: Personas que le gusta el billar** 
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//userpersona2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//userpersona2.png" alt="UPC">
 
 **Segmento 3: Personas dueñas de un espacio de juego** 
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//userpersona3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//userpersona3.png" alt="UPC">
 
 </div>
 
@@ -310,15 +310,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 **User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//journey1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//journey1.png" alt="UPC">
 
 **User persona 2: Andres Martinez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//journey2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//journey2.png" alt="UPC">
 
 **User persona 3: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//journey3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//journey3.png" alt="UPC">
 
 </div>
 
@@ -328,15 +328,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 **User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//empathymap1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//empathymap1.png" alt="UPC">
 
 **User persona 2: Andres Martinez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//empathymap2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//empathymap2.png" alt="UPC">
 
 **User persona 3: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//empathymap3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//empathymap3.png" alt="UPC">
 
 </div>
 
@@ -345,13 +345,13 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 <div style="text-align: justify;">
   
 **User persona 1: Julian Ramos**
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//asfut.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//asfut.jpg" alt="UPC">
 
 **User persona 2: Andres Martinez**  
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//asbil.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//asbil.jpg" alt="UPC">
 
 **User persona 3: Juan Perez**
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//asowner.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//asowner.jpg" alt="UPC">
 
 </div>
 
