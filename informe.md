@@ -1273,6 +1273,10 @@ aaa
 <p align="center">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//main.png" alt="UPC">
 </p>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//gitflow.jpg" alt="UPC">
+</p>
 
   - Link del GitHub del anexo
 
