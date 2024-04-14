@@ -1278,8 +1278,6 @@ aaa
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//gitflow.jpg" alt="UPC">
 </p>
 
-  - Link del GitHub del anexo
-
   ### 5.1.3. Source Code Style Guide & Conventions
 
 Las directrices para el formato del código fuente y las convenciones de codificación se establecen siguiendo las reglas específicas para el lenguaje HTML y el estilo de hoja de estilos que corresponde al CSS. Las principales pautas que consideraremos se presentarán de la siguiente manera:
