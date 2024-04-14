@@ -561,7 +561,7 @@ Entrevista N°7:
 
 Entrevista N°8:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado8.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado8.jpg" alt="UPC">
 
 - **Entrevistador:** John Atencio
 - **Entrevistado:** Rodrigo Salas
@@ -1231,8 +1231,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
   
-aaa
-  
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//datos.jpg" alt="UPC">  
 </div>
 
 # V. Product Design
@@ -1432,21 +1431,72 @@ Header:
 
   ### 5.3.1. Diseño de Entrevistas
 
+- ¿Cuál es tu nombre completo?
+- ¿Qué edad tienes?
+- ¿Cuál es tu género?
+- ¿De qué departamento del Perú eres?
+- ¿Cuál es tu estado civil?
+- ¿Tienes profesión o estudias?
+- ¿Cómo suele ser tu día a día?
+
+- ¿Qué expectativas tienes de la aplicación web “D'Taquito”
+- ¿Crees que se debe agregar algunas funcionalidades a la landing page?
+- ¿Opinas que tiene un diseño minimalista?
+- ¿Crees que el landing page de "D'Taquito" es fácil de ingresar?
+- ¿El landing page explica de manera satisfactoria la misión de “D'Taquito”?
+- ¿Crees que el diseño e interfaz del landing page es bastante llamativo para el público?
+- ¿Recomendarías a tus familiares, amigos y conocidos el sitio web? ¿Por qué? ¿Qué recomendaciones o sugerencias darías para mejorar el landing page?
 
   ### 5.3.2. Registro de Entrevistas
 
+Entrevista N°1:
 
-  ### 5.3.3. Evaluaciones según heurísticas
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado1.png" alt="UPC">
+
+- **Entrevistador:** Henry Centurion
+- **Entrevistado:** Patrizio Mere
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Distrito:** San Miguel
+- **Duracion de la entrevista:** 4:01 minutos
+
+Entrevista N°2:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//enrique.png" alt="UPC">
+
+- **Entrevistador:** Enrique Alarcon
+- **Entrevistado:** Henry Centurion
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Distrito:** Lima
+- **Duracion de la entrevista:** 4:12 minutos
+
+Entrevista N°3:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado3.png" alt="UPC">
+
+- **Entrevistador:** Henry Centurion
+- **Entrevistado:** Adriano Berrospi
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Distrito:** Chaclacayo
+- **Duracion de la entrevista:** 3:40 minutos
 
 ## 5.4. Video About-the-Product
 
-<br>
-<br>
-<br>
+Se encuentra en los anexos
 
 # Conclusiones
 
-aaa
+En la dinámica urbana de Lima Metropolitana, los aficionados al fútbol y al billar se enfrentan a una problemática común: la dificultad para encontrar y reservar canchas y mesas de forma rápida y segura. Esta situación no solo frustra a los jugadores, sino que también limita las oportunidades para disfrutar de estos deportes tan populares en la ciudad.
+
+En las siguientes secciones, exploraremos en detalle las conclusiones extraídas del análisis del perfil de D´taquito, destacando su relevancia en el mercado actual, su enfoque centrado en el usuario y las oportunidades futuras para su crecimiento y desarrollo.
+
+- D'Taquito surgió al identificar una necesidad importante en el mercado de Lima Metropolitana: la dificultad para encontrar y reservar canchas de fútbol y mesas de billar de manera rápida, conveniente y segura. Observamos que muchos aficionados al fútbol y al billar enfrentaban obstáculos al intentar organizar partidos o simplemente disfrutar de una partida con amigos. La falta de una solución integral para este problema nos llevó a reconocer una oportunidad significativa para D'Taquito de satisfacer esta necesidad no abordada en el mercado.
+- La popularidad arraigada del fútbol y el creciente interés en el billar en Lima Metropolitana indican un mercado potencialmente vasto para D'Taquito. Nuestros estudios de mercado revelaron que una gran cantidad de personas, aproximadamente el 71.8% según nuestras encuestas, juegan fútbol al menos una vez a la semana. Además, un porcentaje significativo de estos jugadores expresó interés en la reserva de canchas sintéticas, lo que subraya aún más la demanda latente en el mercado. El hecho de que el 89.6% de los encuestados estén dispuestos a utilizar una plataforma digital para agilizar las reservas confirma la necesidad y el potencial de una solución como D'Taquito en el mercado.
+- D'Taquito se distingue en el mercado por ofrecer una experiencia de usuario superior y una solución integral para la reserva de instalaciones deportivas. Nuestra plataforma web ofrece una interfaz intuitiva y fácil de usar, permitiendo a los usuarios encontrar y reservar instalaciones desde cualquier dispositivo con acceso a Internet. La amplitud de opciones disponibles, combinada con información detallada sobre cada instalación, como fotos e instalaciones disponibles, resalta la propuesta de valor de D'Taquito. Además, la integración de opciones de pago seguro garantiza transacciones confiables y sin complicaciones para nuestros usuarios.
+- La plataforma de D'Taquito se centra en mejorar significativamente la experiencia del usuario al proporcionar una amplia gama de opciones de canchas y salones disponibles en diferentes ubicaciones. Nuestro objetivo es facilitar a los usuarios la búsqueda y reserva de instalaciones deportivas de manera rápida y sencilla. Además, la información detallada sobre cada instalación, combinada con opciones de pago seguro integradas, garantiza que los usuarios puedan tomar decisiones informadas y realizar transacciones de forma confiable a través de nuestra plataforma.Reconocemos que el éxito a largo plazo de D'Taquito depende de nuestra capacidad para adaptarnos y mejorar constantemente para satisfacer las necesidades cambiantes de nuestros usuarios. Planeamos expandirnos más allá de Lima Metropolitana y explorar oportunidades en otras ciudades y países. Además, estamos comprometidos con la mejora continua de nuestra plataforma, mediante la integración de nuevas características, la optimización para dispositivos móviles y la implementación de retroalimentación de los usuarios para garantizar que D'Taquito siga siendo líder en el mercado de reserva de instalaciones deportivas.
+
 
 # Bibliografia
 
