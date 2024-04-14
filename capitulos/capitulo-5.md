@@ -72,8 +72,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//main.png" alt="UPC">
 </p>
-
-  - Link del GitHub del anexo
+<br>
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//gitflow.jpg" alt="UPC">
+</p>
 
   ### 5.1.3. Source Code Style Guide & Conventions
 
