@@ -90,127 +90,131 @@ Estrategias:
 
 Link de las entrevistas en anexos
 
-#### - Entrevista N°1:
+Entrevista N°1:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado1.png" alt="UPC">
 
-- ##### Entrevistador: Sebastian Mendez
-- #### Entrevistado: Patrizio Mere
-- ##### Sexo: Masculino
-- ##### Edad: 19 años
-- ##### Distrito: San Miguel
-- ##### Duracion de la entrevista: 5:59 minutos
-- ##### Resumen: Patrizio es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas que le gusta estudiar, es por ello que su día a día es agitado. Él comenta que es complicado poder reservar las canchas debido a que primero tiene que ponerse de acuerdo con sus compañeros y luego tener que escribir por WhatsApp al dueño de la cancha, pero al querer seleccionar un horario este se encuentra ocupado o el horario no concuerda con la disponibilidad de todos los participantes. Siente que se puede mejorar la organización para reservar debido a que la forma actual es muy informal.Finalmente, nos comentó que el proceso de reserva genera molestia tanto para los jugadores como al dueño de la cancha por si surge una posible cancelación por motivos externos.
+- **Entrevistador:** Sebastian Mendez
+- **Entrevistado:** Patrizio Mere
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Distrito:** San Miguel
+- **Duracion de la entrevista:** 5:59 minutos
+- **Resumen:** Patrizio es un estudiante universitario de la Universidad Peruana de Ciencias Aplicadas que le gusta estudiar, es por ello que su día a día es agitado. Él comenta que es complicado poder reservar las canchas debido a que primero tiene que ponerse de acuerdo con sus compañeros y luego tener que escribir por WhatsApp al dueño de la cancha, pero al querer seleccionar un horario este se encuentra ocupado o el horario no concuerda con la disponibilidad de todos los participantes. Siente que se puede mejorar la organización para reservar debido a que la forma actual es muy informal.Finalmente, nos comentó que el proceso de reserva genera molestia tanto para los jugadores como al dueño de la cancha por si surge una posible cancelación por motivos externos.
 
-#### - Entrevista N°2:
+Entrevista N°2:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado2.png" alt="UPC">
 
-- ##### Entrevistador: Sebastian Mendez
-- #### Entrevistado: Sebastian Tenorio
-- ##### Sexo: Masculino
-- ##### Edad: 19 años
-- ##### Distrito: Lima
-- ##### Duracion de la entrevista: 4:19 minutos
-- ##### Resumen: Sebastián es un estudiante universitario, tiene un horario apretado debido a la cantidad de clases que tiene. Suele buscar canchas de futbol cada 1 o 2 veces a la semana para jugar con sus amigos. El método por el cual reserva es contactos, o sea otro de sus amigos se contacta con el dueño para poder realizar la reserva. Él comenta que la dificultad en reservar radica en los pocos horarios que existen y conocer otra canchas, debido a que esto, las pocas veces que ha ido a reservar presencialmente se ha encontrado que estan ocupadas. Sebastián explica que el precio es fundamental al momento de alquilar una cancha, ya que actualmente hay precios exorbitantes. Finalmente, él considera que una aplicación movil que agilice las reservas ayudaría mucho la satisfacción del usuario.
+- **Entrevistador:** Sebastian Mendez
+- **Entrevistado:** Sebastian Tenorio
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Distrito:** Lima
+- **Duracion de la entrevista:** 4:19 minutos
+- **Resumen:** Sebastián es un estudiante universitario, tiene un horario apretado debido a la cantidad de clases que tiene. Suele buscar canchas de futbol cada 1 o 2 veces a la semana para jugar con sus amigos. El método por el cual reserva es contactos, o sea otro de sus amigos se contacta con el dueño para poder realizar la reserva. Él comenta que la dificultad en reservar radica en los pocos horarios que existen y conocer otra canchas, debido a que esto, las pocas veces que ha ido a reservar presencialmente se ha encontrado que estan ocupadas. Sebastián explica que el precio es fundamental al momento de alquilar una cancha, ya que actualmente hay precios exorbitantes. Finalmente, él considera que una aplicación movil que agilice las reservas ayudaría mucho la satisfacción del usuario.
 
-#### - Entrevista N°3:
+Entrevista N°3:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado3.png" alt="UPC">
 
-- ##### Entrevistador: Henry Centurion
-- #### Entrevistado: Adriano Berrospi
-- ##### Sexo: Masculino
-- ##### Edad: 19 años
-- ##### Distrito: Chaclacayo
-- ##### Duracion de la entrevista: 8:23 minutos
-- ##### Resumen: Adriano es un estudiante universitario en la carrera de Odontología en la universidad San Martin de Porres. Suele tener un horario lleno debido al estudio concurrente que tiene, pero cuando se desocupa en las noches suele escuchar música y realizar otras actividades recreativas. Es alguien que ama el fútbol y si bien no tiene una frecuencia con la que juega, cada vez que hay oportunidad lo realiza. El realiza reservas por medio de WhatsApp preguntadole al dueño, por lo que corre el riesgo de no saber si el horario deseado está ocupado. Le molesta tener que esperar que haya horario para jugar con sus amigos debido a que todo lo hacen con anticipación. Le gustaría encontrar canchas económicas, en buen estado y sobre todo una buena ubicación. Él comenta que sería interesante que existe una pagina web o una aplicación que permita la visualización de los horarios al momento de reservar para así poder elegir uno. 
+- **Entrevistador:** Henry Centurion
+- **Entrevistado:** Adriano Berrospi
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Distrito:** Chaclacayo
+- **Duracion de la entrevista:** 8:23 minutos
+- **Resumen:** Adriano es un estudiante universitario en la carrera de Odontología en la universidad San Martin de Porres. Suele tener un horario lleno debido al estudio concurrente que tiene, pero cuando se desocupa en las noches suele escuchar música y realizar otras actividades recreativas. Es alguien que ama el fútbol y si bien no tiene una frecuencia con la que juega, cada vez que hay oportunidad lo realiza. El realiza reservas por medio de WhatsApp preguntadole al dueño, por lo que corre el riesgo de no saber si el horario deseado está ocupado. Le molesta tener que esperar que haya horario para jugar con sus amigos debido a que todo lo hacen con anticipación. Le gustaría encontrar canchas económicas, en buen estado y sobre todo una buena ubicación. Él comenta que sería interesante que existe una pagina web o una aplicación que permita la visualización de los horarios al momento de reservar para así poder elegir uno. 
 
-#### - Entrevista N°4:
+Entrevista N°4:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado4.png" alt="UPC">
 
-- ##### Entrevistador: Henry Centurion
-- #### Entrevistado: GianPaul Quintana
-- ##### Sexo: Masculino
-- ##### Edad: 20 años
-- ##### Distrito: Lurigancho-Chosica
-- ##### Duracion de la entrevista: 9:21 minutos
-- ##### Resumen: GianPaul es un estudiante de la carrera de Ingeniería de Software en la Universidad Tecnologica del Perú. Su día suele combinado debido al estudio y las actividades que realiza, el cual son el deporte, gimnasio y videojuegos. Empezó jugando billar hace 2 años debido a que comparte la emocion y adicción como lo es el casino, actualmente lo juega seguido con sus amigos. Él encuentra salones de billar cerca de la plaza central y realiza una reserva mediante WhatsApp con el dueño. Le molesta el proceso de reserva debido que al realizarlo se encuentra que el horario que desea está ocupado o que el dueño no haya abierto su local. Comenta que una aplicación web sería ideal para agilizar el proceso de reservas de mesas en los salones de billar, además que sugiere que existan filtros para para encontrar un salón de billar adecuado para el juego, con buen material, tienda de golosinas y buena infraestructura. Finalmente, la parece interesante el gesto de que otras personas puedan unirse a una mesa por si falta alguien más y así crear una buena comunidad en el billar.
+- **Entrevistador:** Henry Centurion
+- **Entrevistado:** GianPaul Quintana
+- **Sexo:** Masculino
+- **Edad:** 20 años
+- **Distrito:** Lurigancho-Chosica
+- **Duracion de la entrevista:** 9:21 minutos
+- **Resumen:** GianPaul es un estudiante de la carrera de Ingeniería de Software en la Universidad Tecnologica del Perú. Su día suele combinado debido al estudio y las actividades que realiza, el cual son el deporte, gimnasio y videojuegos. Empezó jugando billar hace 2 años debido a que comparte la emocion y adicción como lo es el casino, actualmente lo juega seguido con sus amigos. Él encuentra salones de billar cerca de la plaza central y realiza una reserva mediante WhatsApp con el dueño. Le molesta el proceso de reserva debido que al realizarlo se encuentra que el horario que desea está ocupado o que el dueño no haya abierto su local. Comenta que una aplicación web sería ideal para agilizar el proceso de reservas de mesas en los salones de billar, además que sugiere que existan filtros para para encontrar un salón de billar adecuado para el juego, con buen material, tienda de golosinas y buena infraestructura. Finalmente, la parece interesante el gesto de que otras personas puedan unirse a una mesa por si falta alguien más y así crear una buena comunidad en el billar.
 
-#### - Entrevista N°5:
+Entrevista N°5:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado5.png" alt="UPC">
 
-- ##### Entrevistador: Henry Centurion
-- #### Entrevistado: Luis Carreño
-- ##### Sexo: Masculino
-- ##### Edad: 18 años
-- ##### Distrito: Lurigancho-Chosica
-- ##### Duracion de la entrevista: 7:46 minutos
-- ##### Resumen: Luis es un estudiante de la Universidad San Ignacio de Loyola. Su día a su día suelen ser de puras tareas aunque tambien sus ratos para el billar, el cual suele jugarlo 3 veces a la semana, por lo que se considera un jugador regular. El suele reservar una mesa por las redes sociales del dueño. Entre los problemas que tiene es la poca disponibilidad de salones de billar cerca de su zona y horarios congestionados, generandole un sentimiento de molestia. Le importa demasiado los detalles de los salones, que tengam buen equipamiento y buena infraestructura, considera que impacta en la estadía del jugador. Finalmente, una aplicación web sería lo indicado para gestionar las reservas de todos los jugadores de billar que desean asistir.
+- **Entrevistador:** Henry Centurion
+- **Entrevistado:** Luis Carreño
+- **Sexo:** Masculino
+- **Edad:** 18 años
+- **Distrito:** Lurigancho-Chosica
+- **Duracion de la entrevista:** 7:46 minutos
+- **Resumen:** Luis es un estudiante de la Universidad San Ignacio de Loyola. Su día a su día suelen ser de puras tareas aunque tambien sus ratos para el billar, el cual suele jugarlo 3 veces a la semana, por lo que se considera un jugador regular. El suele reservar una mesa por las redes sociales del dueño. Entre los problemas que tiene es la poca disponibilidad de salones de billar cerca de su zona y horarios congestionados, generandole un sentimiento de molestia. Le importa demasiado los detalles de los salones, que tengam buen equipamiento y buena infraestructura, considera que impacta en la estadía del jugador. Finalmente, una aplicación web sería lo indicado para gestionar las reservas de todos los jugadores de billar que desean asistir.
 
-#### - Entrevista N°6:
+Entrevista N°6:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado6.png" alt="UPC">
 
-- ##### Entrevistador:
-- #### Entrevistado:
-- ##### Sexo: 
-- ##### Edad: 
-- ##### Distrito: 
-- ##### Duracion de la entrevista: 
-- ##### Resumen: 
+- **Entrevistador:**
+- **Entrevistado:**
+- **Sexo:** 
+- **Edad:** 
+- **Distrito:** 
+- **Duracion de la entrevista:** 
+- **Resumen:** 
 
-#### - Entrevista N°7:
+Entrevista N°7:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado7.png" alt="UPC">
 
-- ##### Entrevistador: John Atencio
-- #### Entrevistado: Jorge Luis Sifuentes
-- ##### Sexo: Masculino
-- ##### Edad: 22 años
-- ##### Distrito: Magdalena del mar
-- ##### Duracion de la entrevista: 4:36 minutos
-- ##### Resumen: Jorge Luis Sifuentes es un publicista con cursos de diseño gráfico y propietario de un salón de billar. Jorge nos comenta que empezó este negocio como una afición que con el tiempo fue creciendo. Sin embargo, últimamente ha presentado dificultades para organizar el local y gestionar los horarios de atención cuando los clientes quieren reservar un espacio de juego. Debido a ello, ha empezado a buscar opciones en línea como Facebook para poder gestionar mejor las reservas. Desde su punto de vista una buena plataforma de reserva necesitaría mostrar sus horarios de atención, sus precios por hora, los tipos de juego que ofrece, los servicios extra como comidas y bebidas, y la disponibilidad de cada espacio de juego. Finalmente, concluye que una plataforma así le sería  de mucha ayuda.
+- **Entrevistador:** John Atencio
+- **Entrevistado:** Jorge Luis Sifuentes
+- **Sexo:** Masculino
+- **Edad:** 22 años
+- **Distrito:** Magdalena del mar
+- **Duracion de la entrevista:** 4:36 minutos
+- **Resumen:** Jorge Luis Sifuentes es un publicista con cursos de diseño gráfico y propietario de un salón de billar. Jorge nos comenta que empezó este negocio como una afición que con el tiempo fue creciendo. Sin embargo, últimamente ha presentado dificultades para organizar el local y gestionar los horarios de atención cuando los clientes quieren reservar un espacio de juego. Debido a ello, ha empezado a buscar opciones en línea como Facebook para poder gestionar mejor las reservas. Desde su punto de vista una buena plataforma de reserva necesitaría mostrar sus horarios de atención, sus precios por hora, los tipos de juego que ofrece, los servicios extra como comidas y bebidas, y la disponibilidad de cada espacio de juego. Finalmente, concluye que una plataforma así le sería  de mucha ayuda.
 
-#### - Entrevista N°8:
+Entrevista N°8:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado8.png" alt="UPC">
 
-- ##### Entrevistador:
-- #### Entrevistado:
-- ##### Sexo:
-- ##### Edad:
-- ##### Distrito:
-- ##### Duracion de la entrevista:
-- ##### Resumen:
+- **Entrevistador:**
+- **Entrevistado:**
+- **Sexo:** 
+- **Edad:** 
+- **Distrito:** 
+- **Duracion de la entrevista:** 
+- **Resumen:** 
 
-#### - Entrevista N°9:
+Entrevista N°9:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado9.png" alt="UPC">
 
-- ##### Entrevistador:
-- #### Entrevistado:
-- ##### Sexo:
-- ##### Edad:
-- ##### Distrito:
-- ##### Duracion de la entrevista:
-- ##### Resumen:
+- **Entrevistador:**
+- **Entrevistado:**
+- **Sexo:** 
+- **Edad:** 
+- **Distrito:** 
+- **Duracion de la entrevista:** 
+- **Resumen:** 
 
 ### 2.2.3. Analisis de entrevistas
 
 <div style="text-align: justify;">
 
-#### Segmento 1:
+**Segmento 1:**
 
 Las entrevistas realizadas a personas aficionadas al fútbol nos revelan una serie de desafíos comunes en la reserva de canchas. Nuestros entrevistados, Patrizio, Sebastián y Adriano, coinciden en la dificultad para coordinar horarios con amigos y la informalidad del proceso de reserva, a menudo realizado a través de WhatsApp. Todos expresan interés en soluciones tecnológicas que simplifiquen este proceso, como aplicaciones móviles o páginas web que permitan ver la disponibilidad de horarios y reservar de manera eficiente. La calidad y el precio de las canchas también son aspectos importantes para ellos. En resumen, hay una clara necesidad de mejorar la organización y accesibilidad en la reserva de canchas, lo que presenta una oportunidad para desarrollar una solución tecnológica que satisfaga estas demandas y mejore la experiencia de los jugadores.
 
-#### Segmento 2:
+**Segmento 2:**
 
 Las entrevistas realizadas a personas aficionadas al billar nos revelan una serie de desafíos comunes en la reserva de mesas en los salones billar. Las entrevistas con GianPaul y Luis, quienes comparten un interés en el billar, suelen jugar seguido este deporte y nos comparten sus experiencias con las reservas. Todos coinciden en las dificultades para encontrar salones cercanos con horarios disponibles, lo que genera frustración. Nuestros entrevistas sugieren el uso de una aplicación web para simplificar el proceso de reserva y valoran la calidad del equipamiento y la infraestructura de los salones. Además, se resalta la importancia de fomentar una comunidad en el billar permitiendo que otros jugadores se unan a las mesas. Estos hallazgos subrayan la oportunidad de desarrollar una solución tecnológica que mejore la experiencia de reserva y promueva la interacción social en torno al billar.
 
-#### Conclusiones:
+**Segmento 3:**
+
+
+
+**Conclusiones:**
 
 Basándonos en las entrevistas realizadas a personas aficionadas tanto al fútbol como al billar, queda claro que existe una demanda significativa de mejorar el proceso de reserva mediante soluciones tecnológicas. Tanto los jugadores de fútbol como los aficionados al billar expresan frustración por la dificultad para encontrar disponibilidad de horarios y la informalidad en el proceso de reserva, que a menudo implica comunicación directa con los propietarios a través de aplicaciones de mensajería.
 
@@ -232,7 +236,8 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 - Mostrar información acerca de los establecimientos, esto permite dar a conocer los detalles de donde jugarán a los usuarios.
 - Solo afiliarnos a establecimientos que tengan buena calidad para garantizar el bienestar de los usuarios.
 - Agregar filtros para la rápida busca de locales según preferencias del usuario.
-- Desarrollar la posibilidad de crear una comunidad para que otras personas puedan ingresar a jugar si se presentan inconvenientes. 
+- Desarrollar la posibilidad de crear una comunidad para que otras personas puedan ingresar a jugar si se presentan inconvenientes.
+- Los propietarios de un espacio de juego podrán añadir sus locales a la aplicación web para así gestionarlos
 
 </div>
 
