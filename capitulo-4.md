@@ -61,26 +61,26 @@
 
 ### 4.1.2. Web Style Guidelines
 
-#### 1. Branding
+1. Branding
 - **Logo:**
 El logo de D'taquito debe destacar en todas las páginas web  y se debe colocar en la esquina superior izquierda de la página.  
 - **Colores:**
 Los colores principales de la marca son el verde y el blanco. El verde debe utilizarse para resaltar elementos importantes y botones de llamada a la acción. Mientras que el blanco se utiliza para el fondo de la página y para el texto principal.
 - **Tipografía:**
 La tipografía principal es Roboto, con un peso de 400 para el texto principal y 700 para los encabezados. Se permite el uso de fuentes sans-serif alternativas para mejorar la legibilidad en diferentes dispositivos.
-#### 2. Layout
+2. Layout
 - **Responsive Design:**
 La página web debe ser completamente responsive, adaptándose a diferentes tamaños de pantalla, desde dispositivos móviles hasta escritorios.
 - **Navegación:**
  La barra de navegación debe ser clara y fácil de usar, con opciones de menú desplegables para organizar el contenido. Debe incluir enlaces a las secciones principales de la aplicación, como búsqueda de canchas, reservas, perfil del usuario, etc.
-#### 3. Interacción
+3. Interacción
 - **Botones:**
 Los botones deben tener un aspecto destacado y ser fácilmente distinguibles como elementos interactivos. Deben utilizar el color verde de la marca para resaltar su importancia.
 Se debe utilizar una animación de cambio de color al pasar el cursor sobre los botones para indicar interactividad.
-#### 4. Iconografía
+4. Iconografía
 - **Íconos:**
 Se debe utilizar una colección coherente de íconos en todo el sitio web para mejorar la usabilidad y la comprensión del contenido. Los íconos deben ser claros y reconocibles, utilizando el color verde de la marca cuando sea apropiado.
-#### 5. Multimedia
+5. Multimedia
 - **Imágenes:**
 Se deben utilizar imágenes de alta calidad que complementen el contenido y refuercen la identidad de la marca. Se debe prestar atención a la accesibilidad, asegurándose de que todas las imágenes tengan texto alternativo descriptivo.
 
@@ -92,7 +92,8 @@ Se deben utilizar imágenes de alta calidad que complementen el contenido y refu
 <div style="text-align: justify;">
 
 En D'taquito, aplicaremos diferentes sistemas de organización para gestionar la información de manera eficiente y proporcionar una experiencia de usuario intuitiva. A continuación, se detallan los sistemas de organización que utilizaremos y en qué casos se aplicarán:
-#### Organización Visual del Contenido:
+
+**Organización Visual del Contenido:**
 1. **Jerárquica:**
    - Se aplicará la organización jerárquica en la página de inicio y en otras páginas principales para destacar la información más importante, como las características clave de la aplicación y los beneficios para los usuarios.
    - Los encabezados, títulos y botones de llamada a la acción se diseñarán para ser más grandes y prominentes, atrayendo la atención del usuario de manera efectiva.
@@ -102,7 +103,8 @@ En D'taquito, aplicaremos diferentes sistemas de organización para gestionar la
 3. **Matricial:**
    - Se aplicará la organización matricial en la página de búsqueda de canchas o mesas de billar, permitiendo a los usuarios filtrar los resultados según diferentes criterios, como ubicación, disponibilidad y características específicas de las instalaciones.
    - Los usuarios podrán seleccionar múltiples criterios de búsqueda para refinar sus resultados y encontrar fácilmente lo que están buscando.
-#### Esquemas de Categorización de Contenido:
+   
+**Esquemas de Categorización de Contenido:**
 1. **Alfabético:**
    - Se utilizará la categorización alfabética para organizar la lista de canchas de fútbol o mesas de billar disponibles en función de su nombre o ubicación.
    - Esto facilitará a los usuarios encontrar rápidamente la cancha o mesa que están buscando, especialmente si conocen el nombre exacto.
@@ -138,7 +140,8 @@ En D'taquito, nos esforzamos por utilizar etiquetas claras y concisas para repre
 ### 4.2.3. SEO Tags and Meta Tags
 
 Por supuesto, aquí tienes una propuesta para los SEO Tags y Meta Tags que se utilizarán en las principales páginas de la experiencia tanto a nivel del sitio web estático como en la aplicación web:
-### Landing Page:
+
+**Landing Page:**
 - **Title:** 
   - D'taquito: Reserva tu cancha o mesa de billar de manera rápida y segura 
 - **Meta Tags:**
@@ -149,7 +152,7 @@ Por supuesto, aquí tienes una propuesta para los SEO Tags y Meta Tags que se ut
   - **Author:** 
     - D'taquito developers
 
-### Web Application:
+**Web Application:**
 - **Title:** 
   - D'taquito: Reserva tu cancha o mesa de billar de manera rápida y segura
 - **Meta Tags:**
