@@ -88,8 +88,7 @@ Estrategias:
 
 <div style="text-align: justify;">
 
-#### *Link de las entrevistas*
-https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
+Link de las entrevistas en anexos
 
 #### - Entrevista N°1:
 
@@ -151,10 +150,21 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 - ##### Duracion de la entrevista: 7:46 minutos
 - ##### Resumen: Luis es un estudiante de la Universidad San Ignacio de Loyola. Su día a su día suelen ser de puras tareas aunque tambien sus ratos para el billar, el cual suele jugarlo 3 veces a la semana, por lo que se considera un jugador regular. El suele reservar una mesa por las redes sociales del dueño. Entre los problemas que tiene es la poca disponibilidad de salones de billar cerca de su zona y horarios congestionados, generandole un sentimiento de molestia. Le importa demasiado los detalles de los salones, que tengam buen equipamiento y buena infraestructura, considera que impacta en la estadía del jugador. Finalmente, una aplicación web sería lo indicado para gestionar las reservas de todos los jugadores de billar que desean asistir.
 
-
 #### - Entrevista N°6:
 
-<img src="https://github.com/HenryCenturion/open-source-final-project/blob/5a303a1c79b62cefe92d9da1c69c081e8a5acb27/images/interview.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado6.png" alt="UPC">
+
+- ##### Entrevistador:
+- #### Entrevistado:
+- ##### Sexo: 
+- ##### Edad: 
+- ##### Distrito: 
+- ##### Duracion de la entrevista: 
+- ##### Resumen: 
+
+#### - Entrevista N°7:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado7.png" alt="UPC">
 
 - ##### Entrevistador: John Atencio
 - #### Entrevistado: Jorge Luis Sifuentes
@@ -162,8 +172,31 @@ https://drive.google.com/drive/folders/1iE1xiKvPzH0PWNAW2sPdyf1PzsnNDHEQ
 - ##### Edad: 22 años
 - ##### Distrito: Magdalena del mar
 - ##### Duracion de la entrevista: 4:36 minutos
-- ##### Resumen: Jorge Luis Sifuentes es un publicista con cursos de diseño gráfico y propietario de un salón de billar. Jorge nos comenta que empezó este negocio como una afición que con el tiempo fue creciendo. Sin embargo, últimamente ha presentado dificultades para organizar el local y gestionar los horarios de atención cuando los clientes quieren reservar un espacio de juego. Debido a ello, ha empezado a buscar opciones en línea como Facebook para poder gestionar mejor las reservas. Desde su punto de vista una buena plataforma de reserva necesitaría mostrar sus horarios de atención, sus precios por hora, los tipos de juego que ofrece, los servicios extra como comidas y bebidas, y la disponibilidad de cada espacio de juego. Finalmente, concluye que una plataforma así le sería  de mucha ayuda. 
+- ##### Resumen: Jorge Luis Sifuentes es un publicista con cursos de diseño gráfico y propietario de un salón de billar. Jorge nos comenta que empezó este negocio como una afición que con el tiempo fue creciendo. Sin embargo, últimamente ha presentado dificultades para organizar el local y gestionar los horarios de atención cuando los clientes quieren reservar un espacio de juego. Debido a ello, ha empezado a buscar opciones en línea como Facebook para poder gestionar mejor las reservas. Desde su punto de vista una buena plataforma de reserva necesitaría mostrar sus horarios de atención, sus precios por hora, los tipos de juego que ofrece, los servicios extra como comidas y bebidas, y la disponibilidad de cada espacio de juego. Finalmente, concluye que una plataforma así le sería  de mucha ayuda.
 
+#### - Entrevista N°8:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado8.png" alt="UPC">
+
+- ##### Entrevistador:
+- #### Entrevistado:
+- ##### Sexo:
+- ##### Edad:
+- ##### Distrito:
+- ##### Duracion de la entrevista:
+- ##### Resumen:
+
+#### - Entrevista N°9:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//entrevistado9.png" alt="UPC">
+
+- ##### Entrevistador:
+- #### Entrevistado:
+- ##### Sexo:
+- ##### Edad:
+- ##### Distrito:
+- ##### Duracion de la entrevista:
+- ##### Resumen:
 
 ### 2.2.3. Analisis de entrevistas
 
@@ -348,16 +381,16 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 - **User Account**:
     - Cuenta personal creada por un usuario para gestionar sus reservas y preferencias dentro del sistema.
 
-- **Subscription (Suscripción)**:
+- **Subscription**:
     - Método de pago recurrente que permite a los usuarios acceder a funciones adicionales o beneficios dentro del sistema de reservas.
 
-- **Wallet (Billetera)**:
+- **Wallet**:
     - Funcionalidad que permite a los usuarios gestionar sus métodos de pago y realizar transacciones dentro del sistema.
 
-- **Profile (Perfil)**:
+- **Profile**:
     - Información personal y preferencias de un usuario dentro del sistema de reservas.
 
-- **Community Room (Sala comunitaria)**:
+- **Community Room**:
     - Espacio dentro del sistema de reservas donde los propietarios de una reserva pueden permitir que otros usuarios externos a sus grupos se unan a la reserva para completar el grupo o socializar.
 
 </div>
