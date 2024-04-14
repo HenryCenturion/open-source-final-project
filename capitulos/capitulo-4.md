@@ -205,11 +205,11 @@ Muestra un registro de las reservas anteriores del usuario, permitiéndoles revi
 
 ### 4.3.1. Landing Page Wireframe
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//Landing Page Wireframe.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//Landing Page Wireframe.jpg" alt="UPC">
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//Landing Page Mock-Up.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//Landing Page Mock-Up.jpg" alt="UPC">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -221,43 +221,43 @@ Link del figma para ver todos los wireframes en el anexo <br>
 
 </div>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//wire1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//wire2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//wire2.png" alt="UPC">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 User goal 1: Login a la aplicacion web <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal1.png" alt="UPC">
 
 User goal 2: Ver información de los espacios de juego <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal2.png" alt="UPC">
 
 User goal 3: Reservar un espacio de juego <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal3.png" alt="UPC">
 
 User goal 4: Crear o unirse a una sala comunidad <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal4.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal4.png" alt="UPC">
 
 User goal 5: Editar perfil <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal5.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal5.png" alt="UPC">
 
 User goal 6: Agregar tarjeta como metodo de pago <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal6.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal6.png" alt="UPC">
 
 User goal 7: Ver, editar o cancelar una reserva <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal7.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal7.png" alt="UPC">
 
 User goal 8: Cambiar de suscripcion <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//usergoal8.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//usergoal8.png" alt="UPC">
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -267,9 +267,9 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 </div>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//mock1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mock2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//mock2.png" alt="UPC">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
