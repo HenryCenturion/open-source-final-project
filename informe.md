@@ -537,15 +537,15 @@ Entrevista N°5:
 
 Entrevista N°6:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado6.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//entrevistado6.jpg" alt="UPC">
 
-- **Entrevistador:**
-- **Entrevistado:**
-- **Sexo:** 
-- **Edad:** 
-- **Distrito:** 
-- **Duracion de la entrevista:** 
-- **Resumen:** 
+- **Entrevistador:** Sebastian Frisancho
+- **Entrevistado:** Luis Diego Eyzaguirre
+- **Sexo:** Masculino
+- **Edad:** 21 años
+- **Distrito:** Pueblo Libre
+- **Duracion de la entrevista:** 6:31 minutos
+- **Resumen:** Luis Diego es un estudiante de la UPC. En su dia a dia durante la semana inicia con clases de la universidad, los fines de semana sale y en las tardes-noches juega videojuegos on sus amigos. Con respeto al billar, él suele jugar con una frecuencia de 3-4 días en la ciudad de Tacna, por lo que se le considera jugador regular. Sin embargo, en Lima el desconoce locales de billar por la poca publicidad y visibilidad que estas tienen. Él nos comenta que en tacna no tiene ningun problema de reserva ya que casi siempre que va tiene mesas vacias para él y sus amigos. Tambien le gustaria que se implemente una página web donde se amplie la visibiladad de mesas de billar en Lima para asi poder jugando en sus ratos libres con sus amigos, a su vez nos comenta que las pocas veces que se acerco a un local de billar en Lima suele tener problemas de disponibilidad de mesas por lo que sería bueno una página web donde se visualice los horarios disponibles, como también imagenes referenciales de los locales para asi captar más su atención. 
 
 Entrevista N°7:
 
