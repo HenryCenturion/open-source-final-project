@@ -21,15 +21,15 @@
   
 **User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//tofut.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//tofut.jpg" alt="UPC">
 
 **User persona 2: Andres Martinez**  
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//tobil.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//tobil.jpg" alt="UPC">
 
 **User persona 3: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//toowner.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//toowner.jpg" alt="UPC">
 
 </div>
 
@@ -96,8 +96,8 @@
 
 ## 3.3. Impact Mapping
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//impactmaping1.png" alt="UPC">
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//impactmaping2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//impactmaping1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//impactmaping2.png" alt="UPC">
 
 
 
