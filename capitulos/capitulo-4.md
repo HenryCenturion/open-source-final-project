@@ -275,7 +275,23 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-aaa
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw1.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw2.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw3.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw4.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw5.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw6.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw7.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw8.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//uw9.png" alt="UPC">
 
 </div>
 
@@ -283,7 +299,9 @@ aaa
 
 <div style="text-align: justify;">
 
-aaa
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//proto1.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//capitulos//images//proto2.png" alt="UPC">
 
 
 ## 4.6. Domain-Driven Software Architecture
