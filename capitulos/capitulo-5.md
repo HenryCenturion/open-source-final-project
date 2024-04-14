@@ -57,7 +57,7 @@
   - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop"
   - Además de las ramas predeterminadas, como grupo hemos creado la rama de tipo document el cual es para uso exclusivo del manejo de información del informe
     
-      - document/caratula
+      - develop//capitulos
       - document/capitulo-I
       - document/capitulo-II
       - document/capitulo-III
@@ -70,7 +70,7 @@
    - Las ramas externas creadas son hijas de la rama "develop", por lo que, al culminar con el trabajo en la etapa de desarrollo, estas se uniran mediante el Pull Request para asi tener todo el informe en un solo documento.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//main.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//main.png" alt="UPC">
 </p>
 
   - Link del GitHub del anexo
@@ -173,37 +173,37 @@ La implementación de un software abarca los pasos, procesos y actividades neces
 Header:
        
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//header.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//header.png" alt="UPC">
 </p>
         Mid:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//mid.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//mid.png" alt="UPC">
 </p>
         Plans:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//plans.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//plans.png" alt="UPC">
 </p>
         Us:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//us.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//us.png" alt="UPC">
 </p>
         Preguntas:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//questions.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//questions.png" alt="UPC">
 </p>
       Footer:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//document/caratula//images//footer.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//footer.png" alt="UPC">
 </p>
   
          
