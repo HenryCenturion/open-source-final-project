@@ -1459,6 +1459,8 @@ Entrevista N°1:
 - **Edad:** 19 años
 - **Distrito:** San Miguel
 - **Duracion de la entrevista:** 4:01 minutos
+- **Resumen:** Patricio Elmere Cortés, un estudiante de 19 años de Lima, Perú, describe su día a día como ocupado pero con tiempo para actividades como el fútbol. Él espera que la aplicación web de Taquito mejore la organización para la reserva de canchas de fútbol, facilitando la reunión y el juego. Sugiere agregar puntos de referencia sobre las canchas importantes para atraer a más personas. Considera que el diseño del landing page es minimalista y fácil de usar. Opina que el landing page es fácil de ingresar y explica satisfactoriamente la misión de Taquito. Sugeriría agregar más imágenes y referencias al fútbol peruano para hacerlo más atractivo. Recomendaría el landing page a familiares y amigos interesados en el deporte.
+
 
 Entrevista N°2:
 
@@ -1470,6 +1472,7 @@ Entrevista N°2:
 - **Edad:** 19 años
 - **Distrito:** Lima
 - **Duracion de la entrevista:** 4:12 minutos
+- **Resumen:** Enrique Alonso Alarcón, un estudiante de 19 años de ingeniería electrónica de Lima, Perú, describe su día a día centrado en los estudios, con tiempo para jugar fútbol con amigos cuando es posible. Durante la entrevista de validación del producto, expresa su deseo de simplificar el proceso de reserva de canchas de fútbol y mesas de billar, buscando una experiencia más conveniente. Observa que la landing page de Taquito aborda los problemas actuales en la reserva de instalaciones deportivas, pero sugiere mejoras, como un calendario de disponibilidad en tiempo real. Enrique encuentra atractivo el diseño de la interfaz, y afirmo que recomendaría el sitio web a amigos y familiares.
 
 Entrevista N°3:
 
@@ -1481,6 +1484,57 @@ Entrevista N°3:
 - **Edad:** 19 años
 - **Distrito:** Chaclacayo
 - **Duracion de la entrevista:** 3:40 minutos
+- **Resumen:** Adriano Berrospi, un estudiante de 19 años de Lima, soltero y estudiante de odontología en la Universidad San Martín, describe su rutina diaria como estudio por la mañana, actividades y juegos por la tarde, y sueño por la noche. Espera que la aplicación web "D'Taquito" facilite la reserva de canchas y encuentra simple la adaptación de la página. Considera que podría agregarse la funcionalidad de visualizar el calendario en la página principal para ver la disponibilidad de las canchas. Opina que el diseño es minimalista pero comprensible, y encuentra que la navegación es fácil. Cree que la página explica de manera satisfactoria la misión de "D'Taquito", pero sugiere incluir más imágenes relacionadas con la temática para hacerla más llamativa. Recomendaría el sitio web a familiares, amigos y conocidos porque considera que es una buena herramienta para encontrar espacios de juego en Lima.
+
+  ### 5.3.3. Evaluaciones segun heuristicas
+
+  Escala de severidad:
+Los problemas seran puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel**|**Descripción**|
+|---------|---------------|
+|1|Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+- **Problema #1:** Falta de imágenes relacionadas con la temática en el landing page.
+- **Severidad:** 2
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:** La falta de imágenes relacionadas con el fútbol puede limitar la atracción visual del usuario y su comprensión rápida de la temática del sitio.
+- **Recomendación:** Se sugiere, incluir más imágenes relacionadas con el fútbol para hacer el landing page más atractivo y representativo de la temática de reservas de canchas de fútbol.
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//Euristicas1.png" width="400" height="300" alt="UPC">
+
+- **Problema #2:** Falta de funcionalidades interactivas como un calendario de disponibilidad en tiempo real en el landing page.
+- **Severidad:** 3
+- **Heurística violada:** Capacidad de reconocer, diagnosticar y recuperarse de errores
+- **Problema:** Los usuarios no pueden verificar la disponibilidad de las canchas en tiempo real, lo que puede causar frustración si la información no está actualizada.
+- **Recomendación:** Se sugiere, integrar un calendario de disponibilidad en tiempo real o un formulario de reserva rápida directamente en el landing page para mejorar la experiencia del usuario.
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//Euristicas2.png" width="450" height="300" alt="UPC">
+
+- **Problema #3:** Falta de explicitud en la explicación de la misión de "D'Taquito" en el landing page.
+- **Severidad:** 1
+- **Heurística violada:** Visibilidad del estado del sistema
+- **Problema:** La misión de la aplicación no está claramente expresada en el landing page, lo que podría llevar a una comprensión incompleta por parte del usuario.
+- **Recomendación:** Se sugiere, mejorar la sección que explica la misión de la aplicación para hacerla más explícita y fácilmente comprensible para los usuarios.
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//Euristica3.png" width="450" height="300" alt="UPC">
+
+
+- **Problema #4:** Falta de amigabilidad visual con el público objetivo.
+- **Severidad:** 3
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:** La falta de imágenes y archivos gráficos puede afectar la amigabilidad visual del landing page con el público objetivo, especialmente aquellos interesados en el fútbol y el billar.
+- **Recomendación:** Se sugiere, agregar más imágenes y archivos gráficos relevantes para hacer el landing page más atractivo y amigable con el público objetivo.
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//Euristica4.png" width="450" height="300" alt="UPC">
+
+- **Problema #5:** Falta de referencias visuales al fútbol peruano específicamente en el diseño del landing page.
+- **Severidad:** Moderada
+- **Heurística violada:** Diseño estético y minimalista
+- **Problema:** La falta de referencias visuales al fútbol peruano específicamente puede limitar la conexión emocional y la relevancia percibida por parte de los usuarios peruanos.
+- **Recomendación:** Incluir más imágenes y referencias visuales al fútbol peruano para hacer el landing page más relevante y atractivo para el público objetivo.
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//Euristicas1.png" width="450" height="300" alt="UPC">
+
 
 ## 5.4. Video About-the-Product
 
