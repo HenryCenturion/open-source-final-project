@@ -73,16 +73,20 @@
 
   | Criterio especifico | Acciones realizadas | Conclusiones |
   |-|-|-|
-  | Demuestra capacidad de comunicarse efectivamente con un rango de audiencias |  John Atencio: Realice el proyecto en general junto con mis compañeros aplicando comunicacion Sebastian Mendez: En colaboración con mis compañeros, llevamos a cabo el proyecto de manera integral, aplicando una comunicación efectiva en cada etapa del proceso Sebastian Frisancho: Trabajamos en equipo con mis colegas para llevar a cabo el proyecto en su totalidad, haciendo uso de una comunicación constante y efectiva en todas las fases del proceso Henry Centurion: Con la colaboración de mis compañeros, gestionamos el proyecto en su conjunto, empleando una comunicación fluida en todas nuestras interacciones Francis Mamani: En conjunto con mis colegas, ejecutamos el proyecto de manera integral, haciendo hincapié en una comunicación efectiva en cada paso del proceso.| John Atencio: Falta mejorar muchos aspectos del informe pero se encuentra lo principal Sebastian Frisancho: Falta mejorar las cosas Henry Centurion: Falta lo mejor del informe Francis Mmani: A mejorar ciertos aspectos Sebastian Mendez: A mejorar|
+  | Demuestra capacidad de comunicarse efectivamente con un rango de audiencias |  John Atencio: Realice el proyecto en general junto con mis compañeros aplicando comunicacion. | John Atencio: Me he comunicado efectivamente con mis compañeros, el cual requiere adaptabilidad y claridad.|
+  | Demuestra capacidad de comunicarse efectivamente con un rango de audiencias |  Henry Centurion: Colaboré con mis compañeros, para llevar a cabo el proyecto, haciendo hincapié en la comunicación efectiva en todas las etapas. |Henry Centurion: He mantenido una comunicación efectiva con mis compañeros, lo que ha implicado ser adaptable y claro en mis mensajes.|
+| Demuestra capacidad de comunicarse efectivamente con un rango de audiencias |  Sebastian Frisancho: Trabajé con mis compañeros para completar el proyecto, destacando la importancia de una comunicación efectiva en cada fase del proceso. | Sebastian Frisancho: He asegurado una comunicación efectiva con mis compañeros, lo cual ha requerido ser flexible y transparente en mis comunicaciones. |
+| Demuestra capacidad de comunicarse efectivamente con un rango de audiencias | Francis Mamani: Colaboré con mis compañeros para finalizar el proyecto, resaltando la relevancia de una comunicación eficiente en todas las etapas del desarrollo. | Francis Mamani: Me he asegurado de mantener una comunicación efectiva con mis compañeros, lo cual ha implicado ser adaptable y transparente en mis interacciones. |
+| Demuestra capacidad de comunicarse efectivamente con un rango de audiencias | Sebastian Mendez: Trabajé junto a mis compañeros para concluir el proyecto, enfatizando la importancia de una comunicación efectiva en cada fase del proceso de desarrollo. | Sebastian Mendez: Me he garantizado de mantener una comunicación eficaz con mis compañeros, lo cual ha requerido ser flexible y transparente en mis interacciones. |
 
 ### Registro de versiones <br>
 
   | Versión | Fecha | Autor | Descripción de Modificación |
   |-|-|-|-|
-  | 1.0 | 14-04-24 | Grupo Tecny | Completado 5 capitulos del informe junto y elaboracion del landing page |
+  | 1.0 | 14-04-24 | Grupo Tecny | Completado los 5 capitulos del informe y la elaboracion de la primera version del landing page. |
 
 ### Capitulos <br>
-  [Capitulo I - Introduction](#i.-introduccion) <br>
+  [Capitulo I - Introduction](#i-introduccion) <br>
   - 1.1. [Startup Profile](#11-startup-profile) <br>
     - 1.1.1. [Descripcion de la Startup](#111-descripcion-de-la-startup) <br>
     - 1.1.2. [Perfiles de integrantes del grupo](#112-perfiles-de-integrantes-del-grupo)<br>
@@ -119,7 +123,7 @@
   - 3.3. [Impact Mapping](#33-impact-mapping) <br>
   - 3.4. [Product Backlog](#34-product-backlog) <br>
   
-  [Capitulo IV - Product Design](#iv.-product-design)<br>
+  [Capitulo IV - Product Design](#iv-product-design)<br>
 
   - 4.1. [Style Guidelines](#41-style-guidelines) <br>
     - 4.1.1. [General Style Guidelines](#411-general-style-guidelines) <br>
@@ -149,7 +153,7 @@
   - 4.8. [Database Design](#48-database-design)<br>
     - 4.8.1. [Database Diagram](#481-database-diagram)<br>
   
-  [Capitulo V - Product Implementation, Validation & Deployment](#v.-product-design)<br>
+  [Capitulo V - Product Implementation, Validation & Deployment](#v-product-design)<br>
 
   - 5.1. [Software Configuration Management](#51-software-configuration-management) <br>
     - 5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration) <br>
