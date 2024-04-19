@@ -1341,7 +1341,7 @@ La implementación de un software abarca los pasos, procesos y actividades neces
 | Attendees (to planning meeting) | Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias  |
 | **Sprint n - 1 Review Summary** | No hay resumen del sprint anterior, debido a que este es el primer sprint que se elabora. |
 | **Sprint n - 1 Retrospective Summary** | No hay retrospectiva del sprint anterior, debido a que este es el primer sprint que se elabora. |
-| **Sprint Goal & User Stories ** | |
+| **Sprint Goal & User Stories** | |
 | Sprint n Goal | La implementacion correcta de la primera version del landing page. Consideramos que, en una escala de medicion, hemos cumplido un 8. |
 | Sprint n Velocity | 5 |
 | Sum of Story Points | 5 |
@@ -1451,7 +1451,7 @@ Header:
 - ¿Crees que el diseño e interfaz del landing page es bastante llamativo para el público?
 - ¿Recomendarías a tus familiares, amigos y conocidos el sitio web? ¿Por qué? ¿Qué recomendaciones o sugerencias darías para mejorar el landing page?
 
-  ### 5.3.2. Registro de Entrevistas
+### 5.3.2. Registro de Entrevistas
 
 Entrevista N°1:
 
@@ -1490,7 +1490,7 @@ Entrevista N°3:
 - **Duracion de la entrevista:** 3:40 minutos
 - **Resumen:** Adriano Berrospi, un estudiante de 19 años de Lima, soltero y estudiante de odontología en la Universidad San Martín, describe su rutina diaria como estudio por la mañana, actividades y juegos por la tarde, y sueño por la noche. Espera que la aplicación web "D'Taquito" facilite la reserva de canchas y encuentra simple la adaptación de la página. Considera que podría agregarse la funcionalidad de visualizar el calendario en la página principal para ver la disponibilidad de las canchas. Opina que el diseño es minimalista pero comprensible, y encuentra que la navegación es fácil. Cree que la página explica de manera satisfactoria la misión de "D'Taquito", pero sugiere incluir más imágenes relacionadas con la temática para hacerla más llamativa. Recomendaría el sitio web a familiares, amigos y conocidos porque considera que es una buena herramienta para encontrar espacios de juego en Lima.
 
-  ### 5.3.3. Evaluaciones segun heuristicas
+### 5.3.3. Evaluaciones segun heuristicas
 
   Escala de severidad:
 Los problemas seran puntuados tomando en cuenta la siguiente escala de severidad
