@@ -1235,7 +1235,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
   
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//datos.jpg" alt="UPC">  
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//capitulos//images//diagrama_bd.png" alt="UPC">  
 </div>
 
 # V. Product Design
