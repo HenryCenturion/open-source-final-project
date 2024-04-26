@@ -1227,6 +1227,114 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
+Class Usuario
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Id|Int|Unique code for a user|
+|Nombre|String |Name of a user|
+|Email|String|Email of a user|
+|Contraseña|String|Password of a user|
+|Perfil|Class: Perfil|Perfil of a user|
+
+Class Rentor
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Reservas|List|user reservations|
+
+Class Perfil
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Id|int|Unique code for a user|
+|Nombre|String |Name of a user|
+|Descripción|string|user description|
+
+Class ControladoraSalaComunitaria
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Capacidad |Int |community room capacity|
+|Rentores|Int|renters name|
+|Observers|List|name of the room observers|
+
+Class SalaComunitariaObserver
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|SalaComunitariaLlena|Void|Observer if the room is full|
+
+Class ControladoraReserva
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Rentor|Class:rentor|rentor user|
+|Publicación|Class:publicacion|room publication|
+
+Class Factura
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Suscripción|Class:Suscripcion|called the subscription class|
+|MétodoDePago|Class:MetodoDePago|called the payment method class|
+|Monto|Double|amount paid|
+|Reserva|Class:ControladoraReserva|called the booking class|
+|fechaEmision|Date|invoice issue date|
+
+Class Suscripción
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Id|Int |Unique code for a Suscription|
+|Descripción |String |Subscription description|
+|Precio|Double|Subscription price|
+|Duración|Int |Subscription duration|
+
+Class MetodoDePago
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Tarjeta|String |card details|
+
+Class Publicacion
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Id|Int|Unique code for a Publication|
+|Descripción|String|description of the publication|
+|reservas|List|reservation list|
+
+Class EspacioDeJuego
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Id|Int|Unique code for a Game Space|
+|Nombre|String|Game space name|
+|Ubicación|String|location of play spaces|
+|Fotos|List<String>|list of photos|
+|Instalaciones|List<String>|list of facilities|
+
+Class Propietario
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|EspaciosDeJuegoPropio|List<Class:EspacioDeJuego>|play spaces|
+
+Class Cancha
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|Deporte|String|type of sport|
+
+Class MesaDeBillar
+
+|Atribute|Type|Description|
+| :- | :- | :- |
+|tipo|String|type of table|
+
+
+
 </div>
 
 ## 4.8. Database Design
