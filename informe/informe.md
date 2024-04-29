@@ -533,7 +533,7 @@ Entrevista N°4:
 
 Entrevista N°5:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//entrevistado5.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado5.png" alt="UPC">
 
 - **Entrevistador:** Henry Centurion
 - **Entrevistado:** Luis Carreño
@@ -545,7 +545,7 @@ Entrevista N°5:
 
 Entrevista N°6:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//entrevistado6.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado6.jpg" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Luis Diego Eyzaguirre
@@ -557,7 +557,7 @@ Entrevista N°6:
 
 Entrevista N°7:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//entrevistado7.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado7.png" alt="UPC">
 
 - **Entrevistador:** John Atencio
 - **Entrevistado:** Jorge Luis Sifuentes
@@ -569,7 +569,7 @@ Entrevista N°7:
 
 Entrevista N°8:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//entrevistado8.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado8.jpg" alt="UPC">
 
 - **Entrevistador:** John Atencio
 - **Entrevistado:** Rodrigo Salas
@@ -629,15 +629,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 **Segmento 1: Personas que le gusta el futbol**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//userpersona1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//userpersona1.png" alt="UPC">
 
 **Segmento 2: Personas que le gusta el billar** 
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//userpersona2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//userpersona2.png" alt="UPC">
 
 **Segmento 3: Personas dueñas de un espacio de juego** 
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//userpersona3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//userpersona3.png" alt="UPC">
 
 </div>
 
@@ -692,15 +692,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 **User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//journey1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey1.png" alt="UPC">
 
 **User persona 2: Andres Martinez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//journey2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey2.png" alt="UPC">
 
 **User persona 3: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//journey3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//journey3.png" alt="UPC">
 
 </div>
 
@@ -710,15 +710,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 **User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//empathymap1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//empathymap1.png" alt="UPC">
 
 **User persona 2: Andres Martinez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//empathymap2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//empathymap2.png" alt="UPC">
 
 **User persona 3: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//empathymap3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//empathymap3.png" alt="UPC">
 
 </div>
 
@@ -728,15 +728,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
   
 **User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//asfut.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//asfut.jpg" alt="UPC">
 
 **User persona 2: Andres Martinez**  
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//asbil.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//asbil.jpg" alt="UPC">
 
 **User persona 3: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//asowner.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//asowner.jpg" alt="UPC">
 
 </div>
 
@@ -793,15 +793,15 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
   
 **User persona 1: Julian Ramos**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//tofut.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//tofut.jpg" alt="UPC">
 
 **User persona 2: Andres Martinez**  
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//tobil.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//tobil.jpg" alt="UPC">
 
 **User persona 3: Juan Perez**
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//toowner.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//toowner.jpg" alt="UPC">
 
 </div>
 
@@ -868,8 +868,8 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 ## 3.3. Impact Mapping
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//impactmaping1.png" alt="UPC">
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//impactmaping2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//impactmaping1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//impactmaping2.png" alt="UPC">
 
 
 
@@ -1347,7 +1347,7 @@ Class MesaDeBillar
 
 <div style="text-align: justify;">
   
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//diagrama_bd.png" alt="UPC">  
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//diagrama_bd.png" alt="UPC">  
 </div>
 
 # V. Product Design
@@ -1380,11 +1380,11 @@ Class MesaDeBillar
    - Las ramas externas creadas son hijas de la rama "develop", por lo que, al culminar con el trabajo en la etapa de desarrollo, estas se uniran mediante el Pull Request para asi tener todo el informe en un solo documento.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//main.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//main.png" alt="UPC">
 </p>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//git.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//git.png" alt="UPC">
 </p>
 
   ### 5.1.3. Source Code Style Guide & Conventions
@@ -1485,37 +1485,37 @@ La implementación de un software abarca los pasos, procesos y actividades neces
 Header:
        
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//header.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//header.png" alt="UPC">
 </p>
         Mid:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//mid.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mid.png" alt="UPC">
 </p>
         Plans:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//plans.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//plans.png" alt="UPC">
 </p>
         Us:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//us.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//us.png" alt="UPC">
 </p>
         Preguntas:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//questions.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//questions.png" alt="UPC">
 </p>
       Footer:
      <br>
      <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//footer.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//footer.png" alt="UPC">
 </p>
   
          
@@ -1561,7 +1561,7 @@ Header:
 
 Entrevista N°1:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//entrevistado1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado1.png" alt="UPC">
 
 - **Entrevistador:** Henry Centurion
 - **Entrevistado:** Patrizio Mere
@@ -1574,7 +1574,7 @@ Entrevista N°1:
 
 Entrevista N°2:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//enrique.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//enrique.png" alt="UPC">
 
 - **Entrevistador:** Enrique Alarcon
 - **Entrevistado:** Henry Centurion
@@ -1586,7 +1586,7 @@ Entrevista N°2:
 
 Entrevista N°3:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//entrevistado3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado3.png" alt="UPC">
 
 - **Entrevistador:** Henry Centurion
 - **Entrevistado:** Adriano Berrospi
@@ -1614,21 +1614,21 @@ Los problemas seran puntuados tomando en cuenta la siguiente escala de severidad
 - **Heurística violada:** Diseño estético y minimalista
 - **Problema:** La falta de imágenes relacionadas con el fútbol puede limitar la atracción visual del usuario y su comprensión rápida de la temática del sitio.
 - **Recomendación:** Se sugiere, incluir más imágenes relacionadas con el fútbol para hacer el landing page más atractivo y representativo de la temática de reservas de canchas de fútbol.
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//Euristicas1.png" width="400" height="300" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Euristicas1.png" width="400" height="300" alt="UPC">
 
 - **Problema #2:** Falta de funcionalidades interactivas como un calendario de disponibilidad en tiempo real en el landing page.
 - **Severidad:** 3
 - **Heurística violada:** Capacidad de reconocer, diagnosticar y recuperarse de errores
 - **Problema:** Los usuarios no pueden verificar la disponibilidad de las canchas en tiempo real, lo que puede causar frustración si la información no está actualizada.
 - **Recomendación:** Se sugiere, integrar un calendario de disponibilidad en tiempo real o un formulario de reserva rápida directamente en el landing page para mejorar la experiencia del usuario.
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//Euristicas2.png" width="450" height="300" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Euristicas2.png" width="450" height="300" alt="UPC">
 
 - **Problema #3:** Falta de explicitud en la explicación de la misión de "D'Taquito" en el landing page.
 - **Severidad:** 1
 - **Heurística violada:** Visibilidad del estado del sistema
 - **Problema:** La misión de la aplicación no está claramente expresada en el landing page, lo que podría llevar a una comprensión incompleta por parte del usuario.
 - **Recomendación:** Se sugiere, mejorar la sección que explica la misión de la aplicación para hacerla más explícita y fácilmente comprensible para los usuarios.
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//Euristica3.png" width="450" height="300" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Euristica3.png" width="450" height="300" alt="UPC">
 
 
 - **Problema #4:** Falta de amigabilidad visual con el público objetivo.
@@ -1636,14 +1636,14 @@ Los problemas seran puntuados tomando en cuenta la siguiente escala de severidad
 - **Heurística violada:** Diseño estético y minimalista
 - **Problema:** La falta de imágenes y archivos gráficos puede afectar la amigabilidad visual del landing page con el público objetivo, especialmente aquellos interesados en el fútbol y el billar.
 - **Recomendación:** Se sugiere, agregar más imágenes y archivos gráficos relevantes para hacer el landing page más atractivo y amigable con el público objetivo.
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//Euristica4.png" width="450" height="300" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Euristica4.png" width="450" height="300" alt="UPC">
 
 - **Problema #5:** Falta de referencias visuales al fútbol peruano específicamente en el diseño del landing page.
 - **Severidad:** Moderada
 - **Heurística violada:** Diseño estético y minimalista
 - **Problema:** La falta de referencias visuales al fútbol peruano específicamente puede limitar la conexión emocional y la relevancia percibida por parte de los usuarios peruanos.
 - **Recomendación:** Incluir más imágenes y referencias visuales al fútbol peruano para hacer el landing page más relevante y atractivo para el público objetivo.
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//informe//images//Euristicas1.png" width="450" height="300" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Euristicas1.png" width="450" height="300" alt="UPC">
 
 
 ## 5.4. Video About-the-Product
