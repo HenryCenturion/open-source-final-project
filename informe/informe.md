@@ -645,6 +645,18 @@ La creación de una comunidad en torno al deporte, tanto en el fútbol como en e
 
 En resumen, las entrevistas sugieren que desarrollar una aplicación web de reservas para deportes como el fútbol y el billar sería una solución efectiva para abordar las necesidades y preocupaciones de los aficionados, mejorando así su experiencia y promoviendo una mayor participación.
 
+**Analisis estadistico respecto a las respuestas de las entrevistas:**
+
+|**Cuadro estadístico**||
+| :-: | :- |
+|**Métodos de reserva:**|El 42% de los entrevistados prefieren utilizar WhatsApp como método para realizar reservas, mientras que el 17% opta por las redes sociales del establecimiento y otro 17% considera útil una plataforma de reserva en línea.|
+|**Problemas comunes con las reservas:**|El 50% de los entrevistados reportan dificultades para encontrar horarios disponibles al momento de reservar, mientras que el 33% ha experimentado cancelaciones de reservas por parte del establecimiento. Además, el 33% menciona la falta de disponibilidad de instalaciones y otro 33% señala la falta de organización en el proceso de reserva como problemas comunes.|
+|Necesidades de mejora en el proceso de reserva:|El 58% de los entrevistados expresan la necesidad de una plataforma que les permita ver los horarios disponibles en tiempo real. Asimismo, el 50% destaca la importancia de una reserva rápida y sencilla. Además, el 33% menciona la importancia de conocer los precios y servicios ofrecidos, y otro 33% sugiere incluir detalles sobre el estado de las instalaciones en la plataforma de reserva.|
+|**Preferencias sobre la plataforma de reserva:**|El 33% de los entrevistados valora la seguridad de los datos del cliente, mientras que otro 25% destaca la importancia de un soporte técnico eficiente. Además, el 25% menciona la necesidad de opciones de pago seguras, y otro 25% expresa interés en la recopilación de datos de usuarios para mejorar la experiencia y la gestión interna.|
+|**Necesidades específicas según el tipo de establecimiento:**|El 50% de los entrevistados son propietarios o administradores de salones de billar, lo que sugiere una alta representación de este tipo de establecimiento en las entrevistas. Además, el 17% son propietarios de centros de fútbol, otro 17% alquilan canchas de fútbol, y el restante 8% son propietarios de locales de recreación con varias opciones de entretenimiento.|
+
+
+
 </div>
 
 ## 2.3. Needfinding
