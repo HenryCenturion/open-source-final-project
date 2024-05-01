@@ -579,6 +579,45 @@ Entrevista N°8:
 - **Duracion de la entrevista:** 8:12
 - **Resumen:** Rodrigo Salas, estudiante de administración, nos comenta que mantiene un negocio familiar de alquilar espacios de recreación en su mayoría canchas de futbol. En síntesis, Rodrigo explica que su mayor dificultad es administrar los horarios del espacio ya que en días de semana lo usa solo como cancha de futbol y en fines de semana o en la noche como lugar de fiestas infantiles o quinceañeros. Por esta razón, le sería útil una web con la que establezca sus horarios y sus precios.
 
+Entrevista N°10:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado10.png" alt="UPC">
+
+- **Entrevistador:** Francis Mamani
+- **Entrevistado:** Jose Saico
+- **Sexo:** Masculino
+- **Edad:** 19 años
+- **Distrito:** Independencia
+- **duración de la entrevista:** 5:09 minutos
+- **Resumen:**   José saico, es un estudiante de la carrera de ingeniería de sistemas y copropietario de un salón de billar, este nos expresa su motivación para abrir un local de billar basado en la pasión familiar por el deporte y el deseo de crear un espacio de socialización. Destaca los servicios ofrecidos, como mesas de billar, sala de juegos y bar, y señala desafíos en la gestión diaria, proponiendo implementar una plataforma de reserva en línea para mejorar la experiencia del cliente y facilitar la gestión interna. Destaca la importancia de la facilidad de uso, disponibilidad de horarios en tiempo real, opciones de pago seguras y acceso a datos para optimizar la operación. También menciona preferencias en el soporte técnico y preocupaciones sobre la seguridad de los datos de los clientes.
+
+Entrevista N°11:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado11.png" alt="UPC">
+
+- **Entrevistador:** Francis Mamani
+- **Entrevistado:** Piero Alessandro
+- **Sexo:** Masculino
+- **Edad:** 24 años
+- **Distrito:** Chorrillos
+- **duración de la entrevista:** 7:50 minutos
+- **Resumen:**   Piero Alessandro nos comenta que es dueño de un centro de futbol, este nos comenta que su sueño de apertura ese local se remonta desde pequeño debido a que desea compartir ese espacio con sus allegados. No obstante este mismo presenta problemas últimamente debido a la demanda en ciertas fechas respecto al alquiler de su local, esto se debe mas que todo por la poca organización que dispone actualmente, gracias a ello el esta interesado en ampliar sus opciones de administración para que así pueda tener una mejor organización y que también pueda generar mas ingresos, desde su punto de vista una buena plataforma es la que tiene una muy buena conexión con el usuario, además de implementar ciertas opciones de recopilación de datos de sus usuarios.
+
+
+Entrevista N°13:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado13.png" alt="UPC" width="400" height="300">
+
+- **Entrevistador:** Francis Mamani
+- **Entrevistado:** Franco de la Cruz
+- **Sexo:** Masculino
+- **Edad:** 21 años
+- **Distrito:** Callao
+- **duración de la entrevista:** 5:30 minutos
+- **Resumen:**   Franco de la cruz, es un estudiante de la carrera de ingeniería de sistemas y propietario de un salón de billar, este nos comenta que la apertura y gestión de un local de billar ha sido emocionante pero desafiante, motivados por la pasión por el juego y la creación de un espacio comunitario acogedor. Ofrecemos diversas mesas de billar, juegos adicionales y un bar para complementar la experiencia. La gestión manual de reservas es un desafío, especialmente en momentos de alta demanda. Buscamos implementar una plataforma de reserva en línea que sea fácil de usar, con horarios en tiempo real y opciones de pago seguras. Valoramos el acceso a datos para mejorar la toma de decisiones. La seguridad de la información del cliente es una preocupación importante, así como la necesidad de un soporte técnico eficiente y atención al cliente.
+
+
+
 ### 2.2.3. Analisis de entrevistas
 
 <div style="text-align: justify;">
