@@ -846,6 +846,18 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 ## 3.2. User Stories
 
+| Epic ID | Título | Descripción | Relacionado con (Story ID) |
+|------|-------------|--------|-|
+| EP01 | Gestión de cuentas de usuario | Como usuario quiero gestionar la creación y uso de mi cuenta para acceder a mi información | US01, US02, US03, US04 |
+| EP02 | Gestión de métodos de pago | Como usuario quiero gestionar mis métodos de pago por tarjeta para conocer detalles sobre esta | US05, US06, US07, US08 |
+| EP03 | Gestión de reservas de espacios de juego | Como usuario rentor quiero gestionar los espacios de juego para realizar mi reserva de manera correcta | US09, US10, US11, US12, US13, US14, US15 |
+| EP04 | Gestión de suscripciones | Como usuario quiero gestionar mis suscripciones para conocer detalles de los planes y membresía | US16, US17, US18, US19|
+| EP05 | Gestión de salas comunitarias | Como usuario quiero gestionar el uso de las salas comunitarias para socializar con otros jugadores | US20, US21, US22|
+| EP06 | Elementos de landing page | Como visitante quiero visualizar el contenido resaltante de una landing page para conocer sobre la aplicación web | US23, US24, US25, US26, US27 |
+| EP07 | Gestion de espacios de juego | Como propietario de un espacio de juego quiero gestionar mis locales para saber sus datos | US29, US30, US31 |
+| EP08 | Implementación de las funcionalidades backend | Como desarrollador quiero implementar las funcionalidades esenciales para que la aplicación web funcione | TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08, TS09, TS10, TS11|
+
+
 |User Story ID|Título|Descripción|Criterio de aceptación|<p>Relación (EPIC ID)</p><p></p>|
 | :-: | :-: | :-: | :-: | :-: |
 |US01|Registro de cuenta de usuario|Como usuario rentor o propietario deseo registrarme para tener una cuenta en la aplicación web D'Taquito|<p>***Escenario 1: Registro de cuenta exitoso***</p><p></p><p>Dado que el usuario propietario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, apellidos, edad, documento de identidad, teléfono, correo electrónico y contraseña</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación crea la cuenta para el usuario</p><p>Y la aplicación web redirecciona al usuario a la página principal</p><p></p><p>***Escenario 2: Registro de cuenta fallido por insertar datos incorrectos***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta incompletos e incorrectos en los campos: nombre, apellidos, edad, documento de identidad, teléfono, correo electrónico y contraseña</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web solicita que se corrijan los campos con la información correcta y completa</p><p></p><p>***Escenario 3: Registro de cuenta fallido por un correo ya registrado***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, apellidos, edad, documento de identidad, teléfono, correo electrónico y contraseña</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un correo en uso</p>|EP01|
