@@ -647,6 +647,38 @@ En resumen, las entrevistas sugieren que desarrollar una aplicación web de rese
 
 **Analisis estadistico respecto a las respuestas de las entrevistas:**
 
+1. **Métodos de reserva**:
+
+En esta sección, exploraremos las preferencias de los entrevistados en cuanto a los métodos utilizados para realizar reservas en establecimientos de entretenimiento y deportivos. Analizaremos el grado de adopción de métodos digitales como WhatsApp, redes sociales del establecimiento y plataformas de reserva en línea, así como la prevalencia de métodos tradicionales como la gestión manual.
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico.png" alt="UPC" width="400" height="300">
+
+2. **Problemas comunes con las reservas**:
+
+Esta sección aborda los desafíos recurrentes identificados por los entrevistados al intentar reservar espacios en establecimientos de entretenimiento y deportivos. Se explorarán los obstáculos más comunes, como la dificultad para encontrar horarios disponibles, las cancelaciones de reservas por parte del establecimiento y otros problemas relacionados con la disponibilidad y organización.
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico2.png" alt="UPC" width="400" height="300">
+
+3. **Necesidades de mejora en el proceso de reserva**:
+
+En esta parte, examinaremos las áreas específicas en las que los entrevistados creen que se pueden realizar mejoras en el proceso de reserva. Se destacarán las necesidades y expectativas de los usuarios, como la visualización de horarios en tiempo real, una experiencia de reserva rápida y sencilla, así como la transparencia en cuanto a precios, servicios ofrecidos y el estado de las instalaciones.
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico3.png" alt="UPC" width="400" height="300">
+
+4. **Preferencias sobre la plataforma de reserva**:
+
+Aquí se presentarán las preferencias expresadas por los entrevistados en cuanto a las características deseadas en una plataforma de reserva ideal. Se explorarán aspectos como la seguridad de los datos del cliente, la eficiencia del soporte técnico, las opciones de pago seguras y la utilidad de la recopilación de datos de usuarios para mejorar la experiencia y la gestión interna.
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico4.png" alt="UPC" width="400" height="300">
+
+5. **Necesidades específicas según el tipo de establecimiento**:
+
+Esta sección se centrará en las necesidades y preocupaciones específicas identificadas por los entrevistados según el tipo de establecimiento en el que trabajan o tienen experiencia. Se examinarán las diferencias en las expectativas y desafíos entre propietarios o administradores de salones de billar, centros de fútbol, alquiler de canchas de fútbol y locales de recreación con varias opciones de entretenimiento.
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//grafico-estadistico5.png" alt="UPC" width="400" height="300">
+
+**Resumen respecto a los datos**
+
 |**Cuadro estadístico**||
 | :-: | :- |
 |**Métodos de reserva:**|El 42% de los entrevistados prefieren utilizar WhatsApp como método para realizar reservas, mientras que el 17% opta por las redes sociales del establecimiento y otro 17% considera útil una plataforma de reserva en línea. Esto significa que los métodos digitales abarcan el 76% de las preferencias, dejando un 24% para otros métodos de reserva.|
@@ -654,8 +686,6 @@ En resumen, las entrevistas sugieren que desarrollar una aplicación web de rese
 |Necesidades de mejora en el proceso de reserva:|El 58% de los entrevistados expresan la necesidad de una plataforma que les permita ver los horarios disponibles en tiempo real. Además, el 50% destaca la importancia de una reserva rápida y sencilla. Por otro lado, un tercio de los encuestados menciona la importancia de conocer los precios y servicios ofrecidos, mientras que otro tercio sugiere incluir detalles sobre el estado de las instalaciones en la plataforma de reserva.|
 |**Preferencias sobre la plataforma de reserva:**|El 33% de los entrevistados valora la seguridad de los datos del cliente, mientras que otro 25% destaca la importancia de un soporte técnico eficiente. Además, otro 25% menciona la necesidad de opciones de pago seguras, y el restante 17% expresa interés en la recopilación de datos de usuarios para mejorar la experiencia y la gestión interna|
 |**Necesidades específicas según el tipo de establecimiento:**|El 50% de los entrevistados son propietarios o administradores de salones de billar, lo que sugiere una alta representación de este tipo de establecimiento en las entrevistas. Además, el 17% son propietarios de centros de fútbol, otro 17% alquilan canchas de fútbol, y el restante 16% son propietarios de locales de recreación con varias opciones de entretenimiento.|
-
-
 
 
 </div>
