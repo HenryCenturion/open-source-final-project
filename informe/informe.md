@@ -660,6 +660,7 @@ Entrevista N°14:
 - **Distrito:** San Juan de Lurigancho
 - **duración de la entrevista:**
 - **Resumen:** Jefferson Alonso, estudiante de gastronomia, nos comenta que mantiene un pequeño negocio de billar. Como parte de sus funciones, explica que organizar el negocio es difícil, especialmente en lo que respecta a las reservas, ya que todo se realiza vía WhatsApp y resulta muy engorroso. Debido a ello, considera que una plataforma que gestione el alquiler de su local sería de gran ayuda. Además, nos brinda algunos consejos al respecto, como por ejemplo: Mostrar todos los servicios adicionales que ofrece el local, así como los precios de las mesas, la capacidad, los horarios de funcionamiento, la dirección y los tiempos de espera.
+  
 Entrevista N°15:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado15.png" alt="UPC" width="400" height="300">
@@ -883,8 +884,11 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 - **Reservation**:
    - Acto de reservar una instalación deportiva, como una cancha de fútbol o una mesa de billar, para una fecha y hora específicas.
 
-- **User**:
-   - Persona que interactúa con el sistema de reservas para reservar una instalación deportiva.
+- **Rentor**:
+   - Persona que interactúa con el sistema de reservas para reservar un espacio deportivo.
+
+- **Owner**:
+   - Persona que es dueña de un espacio deportivo y pone a disposición su local para su alquiler.
 
 - **Football Field**:
    - Área designada para jugar al fútbol, típicamente con porterías en cada extremo.
@@ -957,22 +961,22 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 |User Story ID|Título|Descripción|Criterio de aceptación|<p>Relación (EPIC ID)</p><p></p>|
 | :-: | :-: | :-: | :-: | :-: |
-|US01|Registro de cuenta de usuario|Como usuario rentor o propietario deseo registrarme para tener una cuenta en la aplicación web D'Taquito|<p>***Escenario 1: Registro de cuenta exitoso***</p><p></p><p>Dado que el usuario propietario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, apellidos, edad, documento de identidad, teléfono, correo electrónico y contraseña</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación crea la cuenta para el usuario</p><p>Y la aplicación web redirecciona al usuario a la página principal</p><p></p><p>***Escenario 2: Registro de cuenta fallido por insertar datos incorrectos***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta incompletos e incorrectos en los campos: nombre, apellidos, edad, documento de identidad, teléfono, correo electrónico y contraseña</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web solicita que se corrijan los campos con la información correcta y completa</p><p></p><p>***Escenario 3: Registro de cuenta fallido por un correo ya registrado***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, apellidos, edad, documento de identidad, teléfono, correo electrónico y contraseña</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un correo en uso</p>|EP01|
+|US01|Registro de cuenta de usuario|Como usuario rentor o propietario deseo registrarme para tener una cuenta en la aplicación web D'Taquito|<p>***Escenario 1: Registro de cuenta exitoso***</p><p></p><p>Dado que el usuario rentor o propietario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación crea la cuenta para el usuario</p><p>Y la aplicación web redirecciona al usuario al login</p><p></p><p>***Escenario 2: Registro de cuenta fallido por insertar datos incorrectos***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta incompletos e incorrectos en los campos: nombre, teléfono, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web solicita que se corrijan los campos con la información correcta</p><p></p><p>***Escenario 3: Registro de cuenta fallido por un correo ya registrado***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un correo en uso</p>|EP01|
 |US02|Inicio de sesión de cuenta|Como usuario rentor o propietario deseo poder ingresar a mi cuenta para usar de las funcionalidades de la aplicación web D'Taquito|<p>***Escenario 1: Éxito al iniciar sesión***</p><p></p><p>Dado que el usuario se encuentra registrado en la aplicación web </p><p>Y el usuario se encuentra en la pestaña de inicio de sesión</p><p>Cuando el usuario escriba correctamente su correo y/o su contraseña</p><p>Y haga clic en el botón "iniciar sesión"</p><p>Entonces la aplicación web llevará al usuario a la página principal</p><p></p><p>***Escenario 2: Error al iniciar sesión***</p><p></p><p>Dado que el usuario se encuentra registrado en la aplicación web </p><p>Y el usuario se encuentra en la pestaña de inicio de sesión</p><p>Cuando el usuario escriba incorrectamente su correo y/o su contraseña</p><p>Y haga clic en el botón "iniciar sesión"</p><p>Entonces la aplicación web notifica que ocurrió un error en los datos proporcionados</p><p>Y solicita al usuario ingresar sus datos correctos</p>|EP01|
-|US03|Ver perfil de usuario|Como usuario rentor o propietario quiero acceder a mi perfil para visualizar mis datos personales|<p>***Escenario 1: Acceso a perfil***</p><p></p><p>Dado que el usuario se encuentra en la página principal</p><p>Cuando el usuario da clic a su ícono en la esquina superior de la aplicación web</p><p>Y de clic a la sección “Perfil”</p><p>Entonces, la aplicación muestra la información de perfil del usuario</p>|EP01|
-|US04|Editar perfil de usuario|Como usuario rentor o propietario deseo acceder a mi perfil para editar mis datos personales|<p>***Escenario 1: Edición de información correcta***</p><p></p><p>Dado que el usuario está dentro de la sección “Perfil”</p><p>Y da clic al botón “Editar perfil”</p><p>Cuando el usuario edita correctamente su información completa</p><p>Y da clic en el botón “Guardar”</p><p>Entonces la aplicación web actualiza la información del usuario.</p><p></p><p>***Escenario 2: Edición de información incorrecta***</p><p></p><p>Dado que el usuario está dentro de la sección “Perfil”</p><p>Y da clic al botón “Editar perfil”</p><p>Cuando el usuario edita incorrectamente su información</p><p>Y da clic en el botón “Guardar”</p><p>Entonces la aplicación web muestra un error</p><p>Y solicita al usuario corregir los campos necesarios</p>|EP01|
+|US03|Ver perfil de usuario|Como usuario rentor o propietario quiero acceder a mi perfil para visualizar mis datos personales|<p>***Escenario 1: Acceso a perfil***</p><p></p><p>Dado que el usuario se encuentra en la página principal</p><p>Cuando el usuario da clic al botón "Perfil" en la parte del encabezado</p><p>Entonces, la aplicación muestra la información de perfil del usuario</p>|EP01|
+|US04|Editar perfil de usuario|Como usuario rentor o propietario deseo acceder a mi perfil para editar mis datos personales|<p>***Escenario 1: Edición de información correcta***</p><p></p><p>Dado que el usuario está dentro de la sección “Perfil”</p><p>Cuando el usuario edita correctamente su información completa</p><p>Y da clic en el botón “Editar”</p><p>Entonces la aplicación web actualiza la información del usuario.</p><p></p><p>***Escenario 2: Edición de información incorrecta***</p><p></p><p>Dado que el usuario está dentro de la sección “Perfil”</p><p>Cuando el usuario edita incorrectamente su información completa</p><p>Y da clic en el botón “Editar”</p><p>Entonces la aplicación muestra un error al editar.</p>|EP01|
 |US05|Visualizar tarjetas como método de pago|Como usuario rentor quiero visualizar mis tarjetas registradas para gestionarlas|<p>***Escenario 1: Ver información de pago***</p><p></p><p>Dado que el usuario rentor está en la página principal</p><p>Cuando el usuario rentor da clic a su ícono en la esquina superior de la aplicación web</p><p>Y selecciona la opción “Mi cartera”</p><p>Entonces la aplicación web muestra la información de pago del usuario rentor</p>|EP02|
 |US06|Agregar una tarjeta como método de pago|Como usuario quiero agregar mi tarjeta para pagar mis reservas|<p>***Escenario 1: Éxito al agregar tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta”</p><p>Cuando el usuario rentor introduce correctamente sus credenciales (nombre, número de tarjeta, fecha de expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web agrega la información de pago del usuario rentor.</p><p></p><p>***Escenario 2: Error al agregar tarjeta por datos incorrectos***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta”</p><p>Cuando el usuario rentor introduce incorrectamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un error en los datos ingresados</p><p>Y el usuario rentor debe corregir los campos necesarios</p><p></p><p>***Escenario 3: Error al agregar tarjeta por una ya registrada anteriormente***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta</p><p>Cuando el usuario introduce correctamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un método de pago idéntico</p>|EP02|
 |US07|Editar tarjeta como método de pago|Como usuario rentor quiero editar la información de mi tarjeta para actualizar mis datos financieros|<p>***Escenario 1: Éxito al editar información de la tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y selecciona una tarjeta existente</p><p>Y da clic en “Editar”</p><p>Cuando el usuario rentor introduce correctamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web actualiza la información de pago del usuario rentor.</p><p></p><p>***Escenario 2: Error al editar información de la tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y selecciona una tarjeta</p><p>Y da clic en “Editar”</p><p>Cuando el usuario rentor introduce incorrectamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un error por ingresar datos incorrectos</p><p>Y el usuario rentor debe corregir los campos necesarios</p>|EP02|
 |US08|Borrar un método de pago|Como usuario rentor quiero borrar una tarjeta para que ya no esté disponible|<p>***Escenario 1: Borrar tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Cuando el usuario rentor selecciona una tarjeta existente</p><p>Y da clic en “Borrar”</p><p>Entonces la aplicación web elimina el método de pago de la información de pago del usuario rentor</p><p></p>|EP02|
-|US09|Visualizar características de los espacios de juego|<p>Como usuario rentor quiero ver la información de los espacios de juego para conocer sus características</p><p></p>|<p>***Escenario 1: Acceso a la información de canchas de fútbol***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario da clic en el botón "Espacios de juego"</p><p>Y seleccione la opción “Canchas de futbol”</p><p>Entonces la aplicación web despliega todas las canchas de fútbol asociadas</p><p>Y el usuario selecciona una de las canchas para ver su información</p><p></p><p>***Escenario 2: Acceso a la información de salones de billar***</p><p></p><p>Dado que el usuario se encuentra en la página principal</p><p>Cuando el usuario da clic en el botón “Locales”</p><p>Y seleccione la opción “Salones de billar”</p><p>Entonces la aplicación web despliega todos los salones de billar asociados</p><p>Y el usuario selecciona uno de los salones para ver su información</p>|EP03|
-|US10|Comparar características de los espacios de juego|<p>Como usuario rentor quiero comparar los espacios de juego para conocer cual me conviene más</p><p></p>|<p>***Escenario 1: Comparar canchas de fútbol***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de los campos de fútbol</p><p>Cuando el usuario rentor da clic en el botón “Comparar”</p><p>Y el usuario rentor selecciona dos canchas de futbol</p><p>Entonces la aplicación web muestra ambas canchas seleccionadas</p><p>Y el usuario rentor lee las características de ambas al mismo tiempo</p><p></p><p>***Escenario 2: Comparar canchas de fútbol***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de los salones de billar</p><p>Cuando el usuario rentor da clic en el botón “Comparar”</p><p>Y el usuario rentor selecciona dos salones de billar</p><p>Entonces la aplicación web muestra ambos salones seleccionados</p><p>Y el usuario rentor lee las características de ambas al mismo tiempo</p>|EP03|
-|US11|Aplicar filtros de búsqueda|Como usuario rentor quiero aplicar filtros para encontrar espacios de juego según mi preferencia|<p>***Escenario 1: Filtrar canchas de fútbol***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de los campos de fútbol</p><p>Cuando el usuario rentor da clic en el botón “Filtrar”</p><p>Y el usuario rentor selecciona sus filtros (tamaño, disponibilidad, ubicación, precio, etc.)</p><p>Entonces la aplicación web muestra las canchas de futbol que cumplan con los filtros</p><p></p><p>***Escenario 2: Filtrar salones de billar***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de los salones de fútbol</p><p>Cuando el usuario rentor da clic en el botón “Filtrar”</p><p>Y el usuario rentor selecciona sus filtros (cantidad de mesas, calidad del equipo de billar, ubicación, precio, etc.)</p><p>Entonces la aplicación web muestra los salones de billar que cumplan con los filtros</p>|EP03|
-|US12|Ver horarios de los espacios de juego|Como usuario rentor quiero ver la disponibilidad de los espacios de juego para elegir|<p>***Escenario 1: Ver horarios de canchas de fútbol***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de los campos de fútbol</p><p>Cuando el usuario rentor da clic en el botón “Horarios”</p><p>Y el usuario rentor selecciona una cancha de futbol</p><p>Entonces la aplicación web muestra todo el horario de la cancha seleccionada</p><p></p><p>***Escenario 2: Ver horarios de los salones de billar***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de los salones de billar</p><p>Cuando el usuario rentor da clic en el botón “Horarios”</p><p>Y el usuario rentor selecciona un salón de billar</p><p>Entonces la aplicación web muestra todo el horario del salón de billar seleccionado</p>|EP03|
-|US13|Reservar un espacio de juego|Como usuario rentor quiero reservar un espacio de juego para divertirme jugando|<p>***Escenario 1: Reserva exitosa de un campo de fútbol***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic en el botón “Reservar”</p><p>Y el usuario rentor selecciona el deporte “Futbol”</p><p>Y elige la cancha de futbol de su preferencia</p><p>Y elige un horario disponible</p><p>Y elige una tarjeta como método de pago previamente guardada</p><p>Y da clic en “Pagar”</p><p>Entonces la reserva se realiza correctamente</p><p></p><p>***Escenario 2: Reserva fallida de un campo de fútbol***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic en el botón “Reservar”</p><p>Y el usuario rentor selecciona el deporte “Futbol”</p><p>Y elige la cancha de futbol de su preferencia</p><p>Y elige un horario disponible</p><p>Y no elige una tarjeta como método de pago previamente guardada</p><p>Y da clic en “Pagar”</p><p>Entonces la reserva no se realiza correctamente</p><p>Y la aplicación web le pide al usuario rentor que añada una tarjeta como método de pago</p><p></p><p>***Escenario 3: Reserva exitosa de una mesa de billar***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic en el botón “Reservar”</p><p>Y el usuario rentor selecciona el deporte “Billar”</p><p>Y elige el salón de billar de su preferencia</p><p>Y elige la cantidad de jugadores que asistirán</p><p>Y elige un horario disponible</p><p>Y elige una tarjeta como método de pago previamente guardada</p><p>Y da clic en “Pagar”</p><p>Entonces la reserva se realiza correctamente</p><p></p><p>***Escenario 4: Reserva fallida de una mesa de billar***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic en el botón “Reservar”</p><p>Y el usuario rentor selecciona el deporte “Billar”</p><p>Y elige el salón de billar de su preferencia</p><p>Y elige la cantidad de jugadores que asistirán</p><p>Y elige un horario disponible</p><p>Y no elige una tarjeta como método de pago previamente guardada</p><p>Y da clic en “Pagar”</p><p>Entonces la reserva no se realiza correctamente</p><p>Y la aplicación web le pide al usuario rentor que añada una tarjeta como método de pago</p>|EP03|
-|US14|Ver reservas activas de un espacio de juego|Como usuario rentor quiero ver mis reservas activas para gestionarlas|<p>***Escenario 1: Ver reservas activas***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic a su ícono en la esquina superior de la aplicación web</p><p>Y de clic a la sección “Historial”</p><p>Y el usuario rentor selecciona “Reservas activas”</p><p>Entonces la aplicación web visualiza las reservas activas del usuario rentor</p>|EP03|
-|US15|Ver historial de reservas de espacios de juego|Como usuario rentor quiero ver mis reservas antiguas para visualizar su información|<p>***Escenario 1: Ver reservas antiguas***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic a su ícono en la esquina superior de la aplicación web</p><p>Y de clic a la sección “Historial”</p><p>Y el usuario rentor selecciona “Reservas antiguas”</p><p>Entonces la aplicación web visualiza las reservas antiguas del usuario rentor</p>|EP03|
-|US16|Cancelar una reserva de un espacio de juego|Como usuario rentor quiero cancelar una reserva para ya no tener que asistir|<p>***Escenario 1: Éxito al cancelar la reserva***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de historial, en la sección de reservas activas</p><p>Cuando el usuario rentor da clic a una reserva activa</p><p>Y de clic a la sección “Cancelar”</p><p>Y el usuario rentor paga la comisión por cancelar la reserva</p><p>Entonces la aplicación web cancela la reserva</p><p>Y se le retorna su dinero al usuario rentor</p><p>Y habilita el horario para otros usuario rentors</p><p></p><p>***Escenario 2: Error al cancelar la reserva***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de historial, en la sección de reservas activas</p><p>Cuando el usuario rentor da clic a una reserva activa</p><p>Y de clic a la sección “Cancelar”</p><p>Y el usuario rentor no paga la comisión por cancelar la reserva</p><p>Entonces la aplicación web no cancela la reserva</p><p>Y le pide al usuario rentor pagar la comisión</p>|EP03|
+|US09|Visualizar espacios de juego|<p>Como usuario rentor quiero ver los espacios de juego que existen en la aplicacion para conocerlas</p>|<p>***Escenario 1: Visualizar espacios deportivos***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario da clic en la vista "Espacios de juego"</p><p>Entonces la aplicación web despliega todos los esepacios deportivos</p>|EP03|
+|US10|Visualizar características de los espacios de juego|<p>Como usuario rentor quiero visualizar los espacios de juego para conocer cual me conviene más</p><p></p>|<p>***Escenario 1: Visualizar informació de lo espacios deportivos***</p><p></p><p>Dado que el usuario rentor se encuentra en la vista de los espacios deportivos</p><p>Cuando el usuario rentor da clic en el botón “Ver más”</p><p>Entonces la aplicación web muestra la información detalla del espacio deportivo seleccionado|EP03|
+|US11|Aplicar filtros de búsqueda|Como usuario rentor quiero aplicar filtros para encontrar espacios de juego según mi preferencia|<p>***Escenario 1: Filtrar espacios deportivos***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de los espacios deportivos</p><p>Cuando el usuario rentor da clic en barra de filtro</p><p>Y el usuario rentor escribe un texto clave</p><p>Entonces la aplicación web muestra los espacios deportivos que coincidan con el texto clave/p><p>|EP03|
+|US12|Ver horarios de los espacios de juego|Como usuario rentor quiero ver la disponibilidad de los espacios de juego para elegir|<p>***Escenario 1: Ver horarios de los espacios de juego***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de la informacion de los espacios de juego</p><p>Cuando el usuario rentor da clic en la barra de opciones "Horario"</p><p>Entonces la aplicación web muestra todo el horario de la cancha seleccionada</p><p></p>|EP03|
+|US13|Reservar un espacio de juego|Como usuario rentor quiero reservar un espacio de juego para divertirme jugando|<p>***Escenario 1: Reserva exitosa de un espacio deportivo***</p><p></p><p>Dado que el usuario rentor se encuentra visualizando los detalles del espacio de juego</p><p>Y el usuario rentor selecciona un horario</p><p>Y elige una tarjeta como método de pago previamente guardada</p><p>Y da clic en “Reservar”</p><p>Entonces la reserva se realiza correctamente</p><p>***Escenario 1: Reserva fallida de un espacio deportivo***</p><p></p><p>Dado que el usuario rentor se encuentra visualizando los detalles del espacio de juego</p><p>Y el usuario rentor no selecciona un horario</p><p>Y no elige una tarjeta como método de pago previamente guardada</p><p>Y da clic en “Reservar”</p><p>Entonces sale error por no elegir un método de pago y/o horario</p>|EP03|
+|US14|Ver reservas activas de un espacio de juego|Como usuario rentor quiero ver mis reservas activas para gestionarlas|<p>***Escenario 1: Ver reservas activas***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic en el botón "Ver mis reservas" en la parte de la cabecera</p>><p>Entonces la aplicación web visualiza las reservas activas del usuario rentor</p>|EP03|
+|US15|Ver reservas antiguas de un espacio de juego|Como usuario rentor quiero ver mis reservas antiguas para ver su informacion|<p>***Escenario 1: Ver reservas antiguas***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic en el botón "Ver mis reservas" en la parte de la cabecera</p>><p>Entonces la aplicación web visualiza las reservas antiguas del usuario rentor</p>|EP03|
+|US16|Cancelar una reserva de un espacio de juego|Como usuario rentor quiero cancelar una reserva para ya no tener que asistir|<p>***Escenario 1: Éxito al cancelar la reserva***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de las reservas activas</p><p>Y de clic al botón “Cancelar”</p><p>Y el usuario rentor paga la comisión por cancelar la reserva</p><p>Entonces la aplicación web cancela la reserva</p><p>Y se le retorna su dinero al usuario rentor</p><p>Y habilita el horario para otros usuario rentores</p><p></p><p>***Escenario 2: Error al cancelar la reserva***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de visualización de las reservas activas</p><p>Y de clic al botón “Cancelar”</p><p>Y el usuario rentor no paga la comisión por cancelar la reserva</p><p>Entonces la aplicación web no cancela la reserva</p><p>Y le pide al usuario rentor pagar la comisión</p>|EP03|
 |US17|Ver una suscripción|Como usuario rentor quiero ver el estado de mi suscripción para gestionarla|<p>***Escenario 1: Visualizar suscripción***</p><p></p><p>Dado que el usuario rentor se encuentra en la página principal</p><p>Cuando el usuario rentor da clic a su ícono en la esquina superior de la aplicación web</p><p>Y de clic a la sección “Suscripción”</p><p>Entonces la aplicación web visualiza la suscripción del usuario rentor</p>|EP04|
 |US18|Adquirir una subscripción|Como usuario rentor quiero adquirir una subscripción para usar los beneficios|<p>***Escenario 1: Éxito al adquirir la subscripción***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de suscripción</p><p>Y tiene una suscripción gratuita</p><p>Cuando el usuario rentor da clic a “Cambiar suscripción”</p><p>Y selecciona el plan premium</p><p>Y da clic en el botón “Confirmar”</p><p>Y el usuario rentor realiza el pago correctamente</p><p>Entonces la aplicación web registra la suscripción del usuario rentor</p><p>Y el usuario rentor obtiene membresía premium</p><p></p><p>***Escenario 2: Error al adquirir la subscripción***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de suscripción</p><p>Y tiene una suscripción gratuita</p><p>Cuando el usuario rentor da clic a “Adquirir suscripción”</p><p>Y selecciona el plan premium</p><p>Y da clic en “Confirmar”</p><p>Y el usuario rentor no realiza el pago correctamente</p><p>Entonces la aplicación web no registra la suscripción del usuario rentor</p><p>Y muestra un error en el pago</p>|EP04|
 |US19|Cancelar una subscripción|Como usuario rentor quiero cancelar una subscripción para dejar de usar los beneficios|<p>***Escenario 1: Éxito al cancelar la subscripción***</p><p></p><p>Dado que el usuario rentor se encuentra en la página de suscripción</p><p>Y tiene una suscripción premium</p><p>Cuando el usuario rentor da clic a “Cambiar suscripción”</p><p>Y selecciona el plan gratuito</p><p>Y da clic en el botón “Confirmar”</p><p>Entonces la aplicación web registra la suscripción del usuario rentor</p><p>Y el usuario rentor pierde la membresía premium</p>|EP04|
@@ -984,9 +988,9 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | US25          | Ver información de los desarrolladores        | Como visitante de la landing page quiero ver la información de los desarrolladores para conocer sus perfiles                |  ***Escenario 1: Leer sobre los desarrolladores de la aplicación web mediante hipervínculo***<br/>  Dado que el visitante se encuentra en el landing page<br/>  Cuando el visitante da clic a “Nosotros”<br/>  Entonces la landing page lo dirige a la sección de la información de los desarrolladores<br/><br/> ***Escenario 2: Leer sobre los desarrolladores de la aplicación web haciendo scroll***<br/>  Dado que el visitante se encuentra en el landing page<br/>  Cuando el visitante se moviliza hasta la sección “Nosotros”<br/>  Entonces el visitante podrá leer la información sobre los desarrolladores | EP06               |
 | US26          | Leer preguntas frecuentes             | Como visitante de la landing page quiero leer preguntas frecuentes para conocer dudas comunes de la aplicación web           | ***Escenario 1: Leer preguntas frecuentes de la aplicación web mediante hipervínculo***<br/>  Dado que el visitante se encuentra en el landing page<br/>  Cuando el visitante da clic a “Preguntas”<br/>  Entonces la landing page lo dirige a la sección de preguntas frecuentes<br/><br/> ***Escenario 2: Leer preguntas frecuentes de la aplicación web haciendo scroll***<br/>  Dado que el visitante se encuentra en el landing page<br/>  Cuando el visitante se moviliza hasta la sección “Preguntas frecuentes”<br/>  Entonces el visitante podrá leer sobre las preguntas frecuentes de la aplicación web | EP06               |
 | US27          | Contactarse con el soporte           | Como visitante de la landing page quiero contactarme con el soporte para resolver dudas                                     | ***Escenario 1: Contactarse con el soporte de la aplicación web mediante hipervínculo***<br/>  Dado que el visitante se encuentra en el landing page<br/>  Cuando el visitante da clic a “Contactanos”<br/>  Entonces la landing page lo dirige a la sección de contactarse<br/>  Y el visitante debe colocar su e-mail<br/><br/> ***Escenario 2: Contactarse con el soporte de la aplicación web haciendo scroll***<br/>  Dado que el visitante se encuentra en el landing page<br/>  Cuando el visitante se moviliza hasta la sección “Contactanos”<br/>  Entonces el visitante podrá contactarse con el soporte dejando su email | EP06               |
-| US28          | Añadir un espacio de juego           | Como propietario de un espacio de juego quiero añadir mi local a la aplicación web para que los rentores puedan reservar mi local | ***Escenario 1: Éxito al añadir un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de locales<br/>  Cuando el propietario da clic a “Añadir espacio de juego”<br/>  Y registra correctamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web añade el espacio de juego en la plataforma<br/><br/> ***Escenario 2: Error al añadir un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de locales<br/>  Cuando el propietario da clic a “Añadir espacio de juego”<br/>  Y registra incorrectamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web mostrará un error en los datos ingresados<br/>  Y le pide al propietario corregir los errores necesarios | EP07               |
-| US29          | Editar un espacio de juego           | Como propietario de un espacio de juego quiero editar mi local a la aplicación web para modificar información del espacio de juego |  ***Escenario 1: Éxito al editar un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de locales<br/>  Cuando el propietario da clic a “Editar espacio de juego”<br/>  Y registra correctamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web edita el espacio de juego en la plataforma<br/><br/> ***Escenario 2: Error al eliminar un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de locales<br/>  Cuando el propietario da clic a “Editar espacio de juego”<br/>  Y registra incorrectamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web mostrará un error en los datos ingresados<br/>  Y le pide al propietario corregir los errores necesarios | EP07               |
-| US30          | Eliminar un espacio de juego         | Como propietario de un espacio de juego quiero eliminar mi local a la aplicación web para que no se visualice más                 |  ***Escenario 1: Borrar un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de locales<br/>  Cuando el propietario da clic a “Borrar espacio de juego”<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web borra el espacio de juego en la plataforma | EP07               |
+| US28          | Añadir un espacio de juego           | Como propietario de un espacio de juego quiero añadir mi local a la aplicación web para que los rentores puedan reservar mi local | ***Escenario 1: Éxito al añadir un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de visualización de sus espacios deportivos<br/>  Cuando el propietario da clic a “Añadir espacio deporito”<br/>  Y registra correctamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web añade el espacio de juego en la plataforma<br/><br/> ***Escenario 2: Error al añadir un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de visualización de sus espacios deportivos<br/>  Cuando el propietario da clic a “Añadir espacio deporito”<br/>  Y registra incorrectamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web mostrará un error en los datos ingresados<br/>  Y le pide al propietario corregir los errores necesarios | EP07               |
+| US29          | Editar un espacio de juego           | Como propietario de un espacio de juego quiero editar mi local a la aplicación web para modificar información del espacio de juego |  ***Escenario 1: Éxito al editar un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de visualización de sus espacios deportivos<br/>  Cuando el propietario da clic a “Editar espacio de juego” seleccionado<br/>  Y registra correctamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web edita el espacio de juego en la plataforma<br/><br/> ***Escenario 2: Error al eliminar un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de visualización de sus espacios deportivos<br/>  Cuando el propietario da clic a “Editar espacio de juego”<br/>  Y registra incorrectamente todos los datos solicitados<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web mostrará un error en los datos ingresados<br/>  Y le pide al propietario corregir los errores necesarios | EP07               |
+| US30          | Eliminar un espacio de juego         | Como propietario de un espacio de juego quiero eliminar mi local a la aplicación web para que no se visualice más                 |  ***Escenario 1: Borrar un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de visualización de sus espacios deportivos<br/>  Cuando el propietario da clic a “Borrar espacio de juego”<br/>  Y da clic en “Confirmar”<br/>  Entonces la aplicación web borra el espacio de juego en la plataforma | EP07               |
 | US31          | Administrar horarios                | Como propietario de un espacio de juego quiero administrar los horarios de mis espacios de juego para conocer sus detalles     |  ***Escenario 1: Administrar horario de un espacio de juego***<br/>  Dado que el propietario de un espacio de juego se encuentra en la sección de locales<br/>  Cuando el propietario da clic a uno de sus espacios de juego<br/>  Entonces la aplicación web muestra su información<br/>  Y el cronograma de horarios registrados en el espacio de juego | EP07               |
 |TS01|Obtener información de espacios de juego disponibles|Como desarrollador, necesito implementar un endpoint en el API para obtener información sobre los espacios de juego disponibles en diferentes ubicaciones.|**Escenario 1:** Dado que tengo acceso al endpoint /api/espacios-de-juego, cuando solicito la información de espacios de juego disponibles en una ubicación específica, entonces recibo una lista de espacios de juego en esa ubicación en el formato esperado. <br> **Escenario 2:** Dado que realizo una solicitud GET a /api/espacios-de-juego con una ubicación no válida, entonces el sistema responde con un mensaje de error indicando que la ubicación es inválida.|        EP08      |
 |TS02|Gestionar reservas de espacios de juego|Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan realizar y gestionar reservas de espacios de juego de forma rápida y sencilla.|**Escenario 1:** Dado que tengo acceso al endpoint, cuando realizo una solicitud POST para reservar un espacio de juego, entonces el sistema crea una reserva con la información proporcionada. <br> **Escenario 2:** Dado que realizo una solicitud GET, entonces el sistema deberia devolverme la información de la reserva identificada.|   EP08           |
@@ -1000,16 +1004,10 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 |TS10|Agregar funcionalidad de recuperación de contraseña|Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios recuperen su contraseña en caso de olvido.|**Escenario 1:** Dado que un usuario solicita recuperar su contraseña mediante una solicitud POST al endpoint con el ingreso de sus datos brindados anteriormente, entonces el sistema muestra una ventana de recuperación válido. <br> **Escenario 2:** Dado que un usuario intenta recuperar su contraseña con datos incorrectos, entonces el sistema responde con un mensaje de error indicando que los datos no estan asociados a ninguna cuenta.|EP08  |
 |TS11|Gestiónar cuentas de usuario|Como desarrollador, necesito implementar endpoints en el API para permitir a los usuarios gestionar sus cuentas, incluyendo la actualización de información personal y la configuración de preferencias.|**Escenario 1:** Dado que un usuario envía una solicitud PUT al endpoint /api/user/account con datos actualizados, entonces el sistema actualiza la información de la cuenta del usuario según los datos proporcionados. <br> **Escenario 2:** Dado que un usuario realiza una solicitud DELETE al endpoint /api/user/account, entonces el sistema elimina la cuenta del usuario y todos los datos asociados.| EP08 |
 
-
-
-
 ## 3.3. Impact Mapping
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//impactmaping1.png" alt="UPC">
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//impactmaping2.png" alt="UPC">
-
-
-
 
 ## 3.4. Product Backlog
 
@@ -1025,8 +1023,8 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | 8      | US20          | Ver salas comunitarias                                | Como rentor quiero ver las salas comunitarias para unirme a una de ellas| 5            |
 | 9      | US21          | Crear una sala comunitaria                            | Como rentor quiero crear una sala para que otros jugadores puedan unirse a nuestra reserva | 5            |
 | 10     | TS07          | Seguridad y protección de Datos                       | Como desarrollador, quiero implementar medidas de seguridad y protección de datos para garantizar la confidencialidad y la integridad de la información del usuario.                                                                                        | 3            |
-| 11     | US09          | Visualizar características de los espacios de juego   | Como rentor quiero ver la información de los espacios de juego para conocer sus características | 3            |
-| 12     | US10          | Comparar características de los espacios de juego      | Como rentor quiero comparar los espacios de juego para conocer cuál me conviene más | 3            |
+| 11     | US09          | Visualizar espacios de juego   | Como rentor quiero ver los espacios de juego para conocerlos| 3            |
+| 12     | US10          | Visualizar características de los espacios de juego      | Como rentor quiero comparar los espacios de juego para conocer cuál me conviene más | 3            |
 | 13     | US11          | Aplicar filtros de búsqueda                           | Como rentor quiero aplicar filtros para encontrar espacios de juego según mi preferencia | 3            |
 | 14     | US14          | Ver reservas activas de un espacio de juego           | Como rentor quiero ver mis reservas activas para gestionarlas           | 3            |
 | 15     | US15          | Ver historial de reservas de espacios de juego        | Como rentor quiero ver mis reservas antiguas para visualizar su información | 3            |
@@ -1228,11 +1226,11 @@ Muestra un registro de las reservas anteriores del usuario, permitiéndoles revi
 
 ### 4.3.1. Landing Page Wireframe
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//Landing Page Wireframe.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//Landing Page Wireframe.jpg" alt="UPC">
 
 ### 4.3.2. Landing Page Mock-up
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//Landing Page Mock-Up.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//Landing Page Mock-Up.jpg" alt="UPC">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -1244,43 +1242,43 @@ Link del figma para ver todos los wireframes en el anexo <br>
 
 </div>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//wire1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//wire1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//wire2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//wire2.png" alt="UPC">
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 User goal 1: Login a la aplicacion web <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//usergoal1.png" alt="UPC">
 
 User goal 2: Ver información de los espacios de juego <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//usergoal2.png" alt="UPC">
 
 User goal 3: Reservar un espacio de juego <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//usergoal3.png" alt="UPC">
 
 User goal 4: Crear o unirse a una sala comunidad <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal4.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//usergoal4.png" alt="UPC">
 
 User goal 5: Editar perfil <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal5.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/developinforme//images//usergoal5.png" alt="UPC">
 
 User goal 6: Agregar tarjeta como metodo de pago <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal6.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//usergoal6.png" alt="UPC">
 
 User goal 7: Ver, editar o cancelar una reserva <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal7.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//usergoal7.png" alt="UPC">
 
 User goal 8: Cambiar de suscripcion <br>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//usergoal8.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//usergoal8.png" alt="UPC">
 
 ### 4.4.3. Web Applications Mock-ups
 
@@ -1290,31 +1288,31 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 </div>
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//mock1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//mock1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//mock2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//mock2.png" alt="UPC">
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
 <div style="text-align: justify;">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw2.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw3.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw3.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw4.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw4.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw5.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw5.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw6.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw6.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw7.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw7.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw8.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw8.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//uw9.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//uw9.png" alt="UPC">
 
 </div>
 
@@ -1322,10 +1320,15 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//proto1.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//proto1.png" alt="UPC">
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//informe//images//proto2.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//proto2.png" alt="UPC">
 
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//proto3.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//proto4.png" alt="UPC">
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//proto5.png" alt="UPC">
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1568,13 +1571,13 @@ Las directrices para el formato del código fuente y las convenciones de codific
 
 La implementación de un software abarca los pasos, procesos y actividades necesarios para poner a disposición de los usuarios que visiten nuestro sitio web una actualización o un sistema. La configuración para desplegar la solución de manera satisfactoria para cada uno de nuestros productos digitales se llevará a cabo a través de un servidor (Git), junto con el uso de GitHub. Esto implica que cada archivo .html y .css será subido a un repositorio, permitiendo la configuración de cualquier parte del código de nuestra página web. Posteriormente, se ejecutará en un servidor de prueba para verificar el correcto funcionamiento y detectar posibles errores en el código. El proceso de implementación de un software consta de tres fases principales: preparación, pruebas y despliegue.
 
-  ## 5.2. Landing Page, Services & Applications Implementation
+## 5.2. Landing Page, Services & Applications Implementation
   
   ### 5.2.1. Sprint 1
   
   #### 5.2.1.1. Sprint Planning 1
 
-  | **Sprint #** | Sprint 1 |
+  | **Sprint 1** | Sprint 1 |
 |---------------|----------|
 | **Sprint Planning Background** |  |
 | Date         | 2024-04-13 |
@@ -1582,10 +1585,10 @@ La implementación de un software abarca los pasos, procesos y actividades neces
 | Location     | Reunion virtual mediante videoconferencia. |
 | Prepared by | Mendez Lopez, Sebastian Alonso |
 | Attendees (to planning meeting) | Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias  |
-| **Sprint n - 1 Review Summary** | No hay resumen del sprint anterior, debido a que este es el primer sprint que se elabora. |
-| **Sprint n - 1 Retrospective Summary** | No hay retrospectiva del sprint anterior, debido a que este es el primer sprint que se elabora. |
+| **Sprint 0 Review Summary** | No hay resumen del sprint anterior, debido a que este es el primer sprint que se elabora. |
+| **Sprint 0 Retrospective Summary** | No hay retrospectiva del sprint anterior, debido a que este es el primer sprint que se elabora. |
 | **Sprint Goal & User Stories** | |
-| Sprint n Goal | La implementacion correcta de la primera version del landing page. Consideramos que, en una escala de medicion, hemos cumplido un 8. |
+| Sprint 1 Goal | La implementacion correcta de la primera version del landing page. Consideramos que, en una escala de medicion, hemos cumplido un 8. |
 | Sprint n Velocity | 5 |
 | Sum of Story Points | 5 |
 
@@ -1664,7 +1667,67 @@ Header:
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-  - No se utilizo ningun despliegue, debido a que el landing page no presenta evidencia de deployment por ser estatico.
+  - Se realizo el deployment en el servicio de Netlify. Enlace: 
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+- **Primera Seccion (header)**: Se implemento la distribucion del header y su transparencia con el fondo. (Sebastian Mendez)
+- **Segunda Seccion**: Se realizaron los layouts de la pagina. (Henry Centurion)
+- **Tercera Seccion**: Se implementaron imagenes y titulos respectivos en cada seccion. (John Atencio)
+- **Cuarta Seccion**: Se implementaron contenidos e informacion que poseen los cuerpos, reemplazando los Lorem Ipsum. (Francis Mamani)
+- **Footer**: Se realizo el pie de pagina junto a las ideas que esta posee. (Sebastian Frisancho)
+
+### 5.2.1. Sprint 2
+  
+  #### 5.2.1.1. Sprint Planning 2
+
+  | **Sprint 2** | Sprint 2 |
+|---------------|----------|
+| **Sprint Planning Background** |  |
+| Date         | 2024-04-26 |
+| Time          | 5:34 PM |
+| Location     | Reunion virtual mediante videoconferencia. |
+| Prepared by | Mendez Lopez, Sebastian Alonso |
+| Attendees (to planning meeting) | Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias  |
+| **Sprint 1 Review Summary** | Se realizo y actualizo cambios al landing page para mejorar su visualizacion y sobre todo el funcionamiento del responsive |
+| **Sprint 1 Retrospective Summary** | Debemos invertir un poco más de tiempo en realizar funcionalidades para seguir teniendo tiempo al momento de cumplir con la fecha programa del sprint |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal | La implementacion correcta de la primera version del front web applications|
+| Sprint 2 Velocity | 55 |
+| Sum of Story Points | 64 |
+
+  #### 5.2.1.2. Sprint Backlog 2
+  
+| **ID** | **Title** | **ID of Assignment** | **Title of Assignment** | **Description** | **Estimation (Hours)** | **Assigned by** | **Status** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | |  |||
+| | | | | |  |||
+| | | | | |  |||
+| | | | | |  |||
+| | | | | |  |||
+
+  #### 5.2.1.3. Development Evidence for Sprint Review
+| **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed On (Date)** |
+| --- | --- | --- | --- | --- | --- |
+| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication    | | feat: | | 03/05/2024 |
+  
+  #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+ - 
+
+  #### 5.2.1.5. Execution Evidence for Sprint Review
+
+ - Hemos aprovechado el sprint para trabajar de manera colaborativa, cumplir con nuestros objetivos, y mejorar tanto nuestros productos como nuestros procesos de trabajo.
+
+
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+  - Se realizo el deployment en el servicio de Netlify. Enlace: 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
