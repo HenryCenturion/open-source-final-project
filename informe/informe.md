@@ -1787,10 +1787,21 @@ Header:
 | github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | | feat: | | 03/05/2024 |
   
   #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+  Para el caso, emos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
 
-
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//testing1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//testing2.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//testing3.png" alt="UPC">
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion web, de tal manera que se evidencia algunas de las funcionalidades de esta misma.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute2.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute3.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute4.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute5.png" alt="UPC">
+
 
  #### 5.2.2.6. Services Documentation Evidence for Sprint Review
  Para el caso de servicios estamos simulando una api con json-server por lo que usaremos como base de datos momentanea. 
