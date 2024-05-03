@@ -75,13 +75,60 @@
 
 ### Student Outcome <br>
 
-<table><tr><th valign="top">Criterio especifico</th><th valign="top">Acciones realizadas</th><th valign="top">Conclusiones</th></tr>
-<tr><td valign="top">Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td><td valign="top">John Atencio: Realice el proyecto en general junto con mis compañeros aplicando comunicacion.</td><td rowspan="5" valign="mid">En nuestras conclusiones, hemos puesto énfasis en el valor y la importancia de la comunicación efectiva dentro de nuestro equipo. Este énfasis se ha centrado en la aplicación práctica de habilidades técnicas específicas que han demostrado ser fundamentales para mejorar nuestra interacción y colaboración. En primer lugar, hemos reconocido la necesidad de adaptabilidad en nuestra comunicación, lo que implica la capacidad de ajustar nuestro estilo y enfoque según el contexto y las preferencias individuales de nuestros compañeros. Esta adaptabilidad se refleja en la elección adecuada de los medios de comunicación, así como en la flexibilidad para modificar nuestra estrategia de comunicación cuando surgen nuevas circunstancias o necesidades. En segundo lugar, hemos enfatizado la importancia de la claridad en nuestros mensajes. Esto implica la habilidad de expresar nuestras ideas de manera concisa y comprensible, evitando ambigüedades y malentendidos. Para lograr esto, nos esforzamos por utilizar un lenguaje claro y directo, estructurando nuestra información de manera lógica y proporcionando ejemplos concretos cuando sea necesario para mejorar la comprensión. Por último, pero no menos importante, hemos destacado el valor de la transparencia en nuestras interacciones. Reconocemos que compartir información de manera abierta y honesta es fundamental para construir relaciones de confianza y fomentar un ambiente de trabajo colaborativo. Al mantener un flujo constante de información y estar receptivos a las opiniones y preocupaciones de los demás miembros del equipo, fortalecemos nuestra capacidad para trabajar juntos de manera efectiva hacia nuestros objetivos comunes.</td></tr>
-<tr><td valign="top">Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td><td valign="top">Henry Centurion: Colaboré con mis compañeros, para llevar a cabo el proyecto, haciendo hincapié en la comunicación efectiva en todas las etapas.</td></tr>
-<tr><td valign="top">Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td><td valign="top">Sebastian Frisancho: Trabajé con mis compañeros para completar el proyecto, destacando la importancia de una comunicación efectiva en cada fase del proceso.</td></tr>
-<tr><td valign="top">Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td><td valign="top">Francis Mamani: Colaboré con mis compañeros para finalizar el proyecto, resaltando la relevancia de una comunicación eficiente en todas las etapas del desarrollo.</td></tr>
-<tr><td valign="top">Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td><td valign="top">Sebastian Mendez: Trabajé junto a mis compañeros para concluir el proyecto, enfatizando la importancia de una comunicación efectiva en cada fase del proceso de desarrollo.</td></tr>
+<table>
+  <tr>
+    <th valign="top">Criterio específico</th>
+    <th valign="top">Acciones realizadas</th>
+    <th valign="top">Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="5" valign="top">Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td>
+    <td valign="top">
+      TB1: John Atencio: Realicé el proyecto en general junto con mis compañeros, aplicando comunicación. Desarrolle el modelo C4 junto con el diagrama de clases y base de datos
+      <br><br>
+      TP: John Atencio: Coordinar y organizar reuniones con el equipo para mejorar la comunicación y el flujo de información durante el desarrollo del proyecto.
+    </td>
+    <td rowspan="5" valign="middle">
+      En nuestras conclusiones, hemos puesto énfasis en el valor y la importancia de la comunicación efectiva dentro de nuestro equipo. Este énfasis se ha centrado en la aplicación práctica de habilidades técnicas específicas que han demostrado ser fundamentales para mejorar nuestra interacción y colaboración.
+      <br><br>
+      En primer lugar, hemos reconocido la necesidad de adaptabilidad en nuestra comunicación, lo que implica la capacidad de ajustar nuestro estilo y enfoque según el contexto y las preferencias individuales de nuestros compañeros. Esta adaptabilidad se refleja en la elección adecuada de los medios de comunicación, así como en la flexibilidad para modificar nuestra estrategia de comunicación cuando surgen nuevas circunstancias o necesidades.
+      <br><br>
+      En segundo lugar, hemos enfatizado la importancia de la claridad en nuestros mensajes. Esto implica la habilidad de expresar nuestras ideas de manera concisa y comprensible, evitando ambigüedades y malentendidos. Para lograr esto, nos esforzamos por utilizar un lenguaje claro y directo, estructurando nuestra información de manera lógica y proporcionando ejemplos concretos cuando sea necesario para mejorar la comprensión.
+      <br><br>
+      Por último, pero no menos importante, hemos destacado el valor de la transparencia en nuestras interacciones. Reconocemos que compartir información de manera abierta y honesta es fundamental para construir relaciones de confianza y fomentar un ambiente de trabajo colaborativo. Al mantener un flujo constante de información y estar receptivos a las opiniones y preocupaciones de los demás miembros del equipo, fortalecemos nuestra capacidad para trabajar juntos de manera efectiva hacia nuestros objetivos comunes.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      TB1: Henry Centurion: Con mis demas compañeros completamos el informe, en mi caso enfatice con las user stories
+      <br><br>
+      TP: Henry Centurion: He dirigido el ordenamiento del codigo para lograr el domain design.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      TB1: Sebastián Frisancho: Me encarge del figma para realizar el modelo visual de nuestra aplicación y como deseamos que luzca
+      <br><br>
+      TP: Sebastián Frisancho: Estuve viendo las partes del logeo y autorización el usuario
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      TB1: Francis Mamani: Organice y desarrolle las entrevistas para asi obtner los datos que necesitamos
+      <br><br>
+      TP: Francis Mamani: Estuve viendo la parte grafica de los componentes y así luzca mejor la interfaz
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      TB1: Sebastián Mendez: Me encargare de dirigir el trabajo juntando al equipo al igual que cuando desarrollamos el landing page
+      <br><br>
+      TP: Sebastián Mendez: Estuve desarrollando casi gran parte de los componentes y web front applications.
+    </td>
+  </tr>
 </table>
+
+
 
 
 ### Registro de versiones <br>
