@@ -659,8 +659,7 @@ Entrevista N°14:
 - **Edad:** 24 años
 - **Distrito:** San Juan de Lurigancho
 - **duración de la entrevista:**
-- **Resumen:**   
-
+- **Resumen:** Jefferson Alonso, estudiante de gastronomia, nos comenta que mantiene un pequeño negocio de billar. Como parte de sus funciones, explica que organizar el negocio es difícil, especialmente en lo que respecta a las reservas, ya que todo se realiza vía WhatsApp y resulta muy engorroso. Debido a ello, considera que una plataforma que gestione el alquiler de su local sería de gran ayuda. Además, nos brinda algunos consejos al respecto, como por ejemplo: Mostrar todos los servicios adicionales que ofrece el local, así como los precios de las mesas, la capacidad, los horarios de funcionamiento, la dirección y los tiempos de espera.
 Entrevista N°15:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado15.png" alt="UPC" width="400" height="300">
@@ -671,7 +670,7 @@ Entrevista N°15:
 - **Edad:** 23 años
 - **Distrito:** Lima
 - **duración de la entrevista:** 6:53 minutos
-- **Resumen:**  
+- **Resumen:**  Kevin Moscol compartió que su principal desafío radica en la gestión de los alquileres a través de WhatsApp, lo que resulta informal y poco eficiente. Expresó su interés en contar con una plataforma de reservas específica para salones de billar, lo que facilitaría enormemente la administración de su negocio. La implementación de esta plataforma no solo simplificaría la gestión de reservas, sino que también mejoraría la experiencia del cliente y aumentaría la eficiencia operativa del local de billar. Por último, él expresa su satisfacción con la idea, al recalcar que la información privada que manejaría la plataforma sería muy compensada con el servicio que estaría ofreciéndole tanto a él como propietario, como a sus clientes como consumidores.
 
 ### 2.2.3. Analisis de entrevistas
 
