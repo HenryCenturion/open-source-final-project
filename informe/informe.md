@@ -89,6 +89,7 @@
   | Versión | Fecha | Autor | Descripción de Modificación |
   |-|-|-|-|
   | 1.0 | 14-04-24 | Grupo Tecny | Completado los 5 capitulos del informe y la elaboracion de la primera version del landing page. |
+  | 2.0| 03-05-24 | Grupo Tecny | Correcciones anteriores y elaboracion de la primera version del front web application. |
 
 ### Capitulos <br>
   [Capitulo I - Introduction](#i-introduccion) <br>
@@ -297,52 +298,60 @@ Nuestra startup se encuentra ante el desafío crucial de garantizar la seguridad
 
 **Business Outcomes**
 
-1. Aumento significativo en el número de reservas mensuales, reflejando una mayor participación de los usuarios en actividades deportivas.
-2. Mejora en la satisfacción del cliente, medida a través de encuestas de retroalimentación y reseñas positivas en la plataforma.
-3. Incremento en la tasa de retención de usuarios, demostrando la fidelización de los clientes a largo plazo.
-4. Mayor visibilidad y reconocimiento de marca en la comunidad de aficionados del fútbol y billar de Lima Metropolitana.
-5. Reducción de la tasa de cancelación de reservas gracias a procesos de reserva más transparentes y flexibles.
-6. Incremento en la utilización de las instalaciones deportivas asociadas, lo que resulta en una mejor eficiencia y rentabilidad para los proveedores de canchas.
-7. Expansión de la base de usuarios a través de campañas de marketing efectivas y estrategias de adquisición de clientes.
-8. Establecimiento de asociaciones estratégicas con proveedores de servicios deportivos y organizaciones locales para aumentar la disponibilidad de opciones de reserva.
-9. Implementación de medidas de seguridad y protección de datos efectivas para garantizar la confianza de los usuarios en la plataforma.
-10. Generación de ingresos consistentes a través de comisiones por reservas y opciones de monetización adicionales, como publicidad y patrocinios.
-11. Contribución positiva al bienestar general de la comunidad al fomentar un estilo de vida activo y saludable entre los residentes de Lima Metropolitana.
+1. Reducir el tiempo de proceso de reserva en un 22%
+2. Aumentar las reservas de los espacios deportivos en un 13% en los próximos 6 meses
+3. Incrementar la satisfacción del cliente en un 15% en el próximo año, el cual se conocerá mediante encuestas
+4. Aumento significativo en el número de reservas mensuales, reflejando una mayor participación de los usuarios en actividades deportivas.
+5. Mejora en la satisfacción del cliente, medida a través de encuestas de retroalimentación y reseñas positivas en la plataforma.
+6. Incremento en la tasa de retención de usuarios, demostrando la fidelización de los clientes a largo plazo.
+7. Mayor visibilidad y reconocimiento de marca en la comunidad de aficionados del fútbol y billar de Lima Metropolitana.
+8. Reducción de la tasa de cancelación de reservas gracias a procesos de reserva más transparentes y flexibles.
+9. Incremento en la utilización de las instalaciones deportivas asociadas, lo que resulta en una mejor eficiencia y rentabilidad para los proveedores de canchas.
+10. Expansión de la base de usuarios a través de campañas de marketing efectivas y estrategias de adquisición de clientes.
+11. Establecimiento de asociaciones estratégicas con proveedores de servicios deportivos y organizaciones locales para aumentar la disponibilidad de opciones de reserva.
+12. Implementación de medidas de seguridad y protección de datos efectivas para garantizar la confianza de los usuarios en la plataforma.
+13. Generación de ingresos consistentes a través de comisiones por reservas y opciones de monetización adicionales, como publicidad y patrocinios.
+14. Contribución positiva al bienestar general de la comunidad al fomentar un estilo de vida activo y saludable entre los residentes de Lima Metropolitana.
 
 **User Outcomes**
-
-1. ¿Quién será nuestro usuario principal al reservar canchas de fútbol o mesas de billar en Lima Metropolitana? 
-   - Nuestro usuario principal puede ser un rupos de amigos o jugadores individuales que buscan reservar para partidos recreativos.
-
-2. ¿Dónde encajará nuestro producto en la vida diaria de nuestros usuarios?
+1. Los rentores ahorran su tiempo en el proceso de reserva debido a que no deben esperar la respuesta del propietario
+   
+3. Los propietarios obtienen más visibilidad de sus espacios de juego
+   
+4. ¿Quién será nuestro usuario principal al reservar canchas de fútbol o mesas de billar en Lima Metropolitana? 
+   - Nuestro usuario principal puede ser un rupos de amigos o jugadores individuales que buscan reservar para partidos recreativos
+     
+5. ¿Dónde encajará nuestro producto en la vida diaria de nuestros usuarios?
    - Nuestro producto encajará en la vida diaria de nuestros usuarios durante sus momentos de ocio, la planificación de eventos deportivos o de manera espontánea cuando deseen jugar.
 
-3. ¿Cuáles son los principales problemas que enfrentan nuestros usuarios al utilizar nuestro producto para reservar? ¿Cómo podemos abordar estos problemas para mejorar la experiencia del usuario?
+6. ¿Cuáles son los principales problemas que enfrentan nuestros usuarios al utilizar nuestro producto para reservar? ¿Cómo podemos abordar estos problemas para mejorar la experiencia del usuario?
    - Los problemas pueden incluir falta de disponibilidad de canchas o salones, dificultad para encontrar instalaciones adecuadas y procesos de reserva complicados. Podemos mejorar la experiencia del usuario asegurando la disponibilidad en tiempo real, simplificando el proceso de reserva y proporcionando información detallada sobre las instalaciones.
 
-4. ¿Cómo y con qué frecuencia nuestros usuarios usarán nuestro producto para reservar?
+7. ¿Cómo y con qué frecuencia nuestros usuarios usarán nuestro producto para reservar?
    - Nuestros usuarios pueden utilizar el producto principalmente durante los fines de semana o de manera ocasional para organizar partidos con amigos o equipos.
 
-5. ¿Qué características son consideradas imprescindibles por nuestros usuarios al reservar?
+8. ¿Qué características son consideradas imprescindibles por nuestros usuarios al reservar?
    - Características como la disponibilidad en tiempo real, facilidad de reserva, opciones de pago seguras y una variedad de instalaciones son aspectos prioritarios para nuestros usuarios.
 
-6. ¿Cómo debería visualmente nuestro producto para que sea atractivo y fácil de usar para nuestros usuarios?
+9. ¿Cómo debería visualmente nuestro producto para que sea atractivo y fácil de usar para nuestros usuarios?
    - Nuestro producto debe tener un diseño intuitivo, limpio y atractivo visualmente, con una interfaz fácil de navegar y características claramente identificables.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. Si simplificamos el proceso de reserva a través de una interfaz de usuario intuitiva y fácil de usar, entonces aumentaremos la tasa de conversión de visitantes a reservas.
-2. Si proporcionamos información detallada y actualizada sobre la disponibilidad, entonces reduciremos la frustración del usuario y aumentaremos la satisfacción.
-3. Si implementamos un sistema de notificaciones automáticas sobre la disponibilidad de canchas, entonces aumentaremos la probabilidad de que los usuarios completen una reserva.
-4. Si ofrecemos opciones de reserva flexibles, como horarios personalizados y servicios adicionales, entonces aumentaremos la retención de usuarios y fomentaremos la fidelidad.
-5. Si establecemos asociaciones con proveedores de servicios deportivos de alta calidad, entonces mejoraremos la reputación y confianza de nuestra plataforma entre los usuarios.
-6. Si optimizamos la experiencia de reserva para dispositivos móviles, entonces aumentaremos la conveniencia y accesibilidad para los usuarios que buscan reservar canchas mientras están en movimiento.
-7. Si permitimos que los usuarios califiquen y comenten sobre las instalaciones deportivas, entonces proporcionaremos información valiosa para otros usuarios y mejoraremos la transparencia en la plataforma.
-8. Si implementamos un sistema de recompensas o descuentos por reservas frecuentes, entonces incentivaremos la repetición de uso y la participación activa de los usuarios.
-9. Si realizamos pruebas en diferentes aspectos de la plataforma, como la disposición de la información o el diseño de los botones de reserva, entonces identificaremos las mejores prácticas para mejorar la experiencia del usuario.
-10. Si integramos un sistema de pago seguro y confiable, entonces aumentaremos la confianza de los usuarios y reduciremos la tasa de abandono durante el proceso de reserva.
-11. Si proporcionamos opciones de filtrado avanzadas, como búsqueda por ubicación, tipo de superficie de juego y servicios adicionales, entonces mejoraremos la relevancia de los resultados para los usuarios.
-12. Si optimizamos el proceso de reserva para que sea lo más rápido posible, con un mínimo de pasos necesarios, entonces reduciremos la fricción y aumentaremos la tasa de conversión de visitantes a reservas completadas.
+1. Creemos que reducir los tiempos de proceso de reserva en un 22% se logrará si las personas que juegan fútbol obtienen el beneficio de ahorrar su tiempo en el proceso de reserva al no tener que esperar la respuesta del propietario mediante una interfaz intuitiva y rápida que simplifique el proceso de reserva
+2. Creemos que aumentar las reservas de los espacios deportivos en un 13% en los próximos 6 meses se logrará si los propietarios de un espacio de juego obtienen el beneficio de mayor visibilidad de sus espacios de juego mediante la capacidad de agregar sus espacios de juego en la aplicación web para ser alquilados
+3. Si simplificamos el proceso de reserva a través de una interfaz de usuario intuitiva y fácil de usar, entonces aumentaremos la tasa de conversión de visitantes a reservas.
+4. Si proporcionamos información detallada y actualizada sobre la disponibilidad, entonces reduciremos la frustración del usuario y aumentaremos la satisfacción.
+5. Si implementamos un sistema de notificaciones automáticas sobre la disponibilidad de canchas, entonces aumentaremos la probabilidad de que los usuarios completen una reserva.
+6. Si ofrecemos opciones de reserva flexibles, como horarios personalizados y servicios adicionales, entonces aumentaremos la retención de usuarios y fomentaremos la fidelidad.
+7. Si establecemos asociaciones con proveedores de servicios deportivos de alta calidad, entonces mejoraremos la reputación y confianza de nuestra plataforma entre los usuarios.
+8. Si optimizamos la experiencia de reserva para dispositivos móviles, entonces aumentaremos la conveniencia y accesibilidad para los usuarios que buscan reservar canchas mientras están en movimiento.
+9. Si permitimos que los usuarios califiquen y comenten sobre las instalaciones deportivas, entonces proporcionaremos información valiosa para otros usuarios y mejoraremos la transparencia en la plataforma.
+10. Si implementamos un sistema de recompensas o descuentos por reservas frecuentes, entonces incentivaremos la repetición de uso y la participación activa de los usuarios.
+11. Si realizamos pruebas en diferentes aspectos de la plataforma, como la disposición de la información o el diseño de los botones de reserva, entonces identificaremos las mejores prácticas para mejorar la experiencia del usuario.
+12. Si integramos un sistema de pago seguro y confiable, entonces aumentaremos la confianza de los usuarios y reduciremos la tasa de abandono durante el proceso de reserva.
+13. Si proporcionamos opciones de filtrado avanzadas, como búsqueda por ubicación, tipo de superficie de juego y servicios adicionales, entonces mejoraremos la relevancia de los resultados para los usuarios.
+14. Si optimizamos el proceso de reserva para que sea lo más rápido posible, con un mínimo de pasos necesarios, entonces reduciremos la fricción y aumentaremos la tasa de conversión de visitantes a reservas completadas.
 
 #### 1.2.2.4. Lean UX Canvas
 <div style="text-align: justify;">
@@ -444,7 +453,7 @@ Estrategias:
 - ¿Cuál es tu nombre completo?
 - ¿Qué edad tienes?
 - ¿Cuál es tu género?
-- ¿De qué departamento del Perú eres?
+- ¿De qué distrito de Lima Metropolitana eres?
 - ¿Cuál es tu estado civil?
 - ¿Tienes profesión o estudias?
 - ¿Cómo suele ser tu día a día?
@@ -546,7 +555,7 @@ Entrevista N°5:
 
 Entrevista N°6:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado6.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado6.png" alt="UPC">
 
 - **Entrevistador:** Sebastian Frisancho
 - **Entrevistado:** Luis Diego Eyzaguirre
@@ -570,15 +579,27 @@ Entrevista N°7:
 
 Entrevista N°8:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado8.jpg" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado8.png" alt="UPC">
 
 - **Entrevistador:** John Atencio
 - **Entrevistado:** Rodrigo Salas
 - **Sexo:** Masculino
-- **Edad:** 22
+- **Edad:** 22 años
 - **Distrito:** San Juan de Lurigancho
-- **Duracion de la entrevista:** 8:12
+- **Duracion de la entrevista:** 8:12 minutos
 - **Resumen:** Rodrigo Salas, estudiante de administración, nos comenta que mantiene un negocio familiar de alquilar espacios de recreación en su mayoría canchas de futbol. En síntesis, Rodrigo explica que su mayor dificultad es administrar los horarios del espacio ya que en días de semana lo usa solo como cancha de futbol y en fines de semana o en la noche como lugar de fiestas infantiles o quinceañeros. Por esta razón, le sería útil una web con la que establezca sus horarios y sus precios.
+
+Entrevista N°9:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado9.png" alt="UPC">
+
+- **Entrevistador:** Sebastian Frisancho
+- **Entrevistado:** Rodrigo Reyes
+- **Sexo:** Masculino
+- **Edad:** 22 años
+- **Distrito:** San Miguel
+- **Duracion de la entrevista:** 7:35 minutos
+- **Resumen:** 
 
 Entrevista N°10:
 
@@ -604,6 +625,17 @@ Entrevista N°11:
 - **duración de la entrevista:** 7:50 minutos
 - **Resumen:**   Piero Alessandro nos comenta que es dueño de un centro de futbol, este nos comenta que su sueño de apertura ese local se remonta desde pequeño debido a que desea compartir ese espacio con sus allegados. No obstante este mismo presenta problemas últimamente debido a la demanda en ciertas fechas respecto al alquiler de su local, esto se debe mas que todo por la poca organización que dispone actualmente, gracias a ello el esta interesado en ampliar sus opciones de administración para que así pueda tener una mejor organización y que también pueda generar mas ingresos, desde su punto de vista una buena plataforma es la que tiene una muy buena conexión con el usuario, además de implementar ciertas opciones de recopilación de datos de sus usuarios.
 
+Entrevista N°12:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado12.png" alt="UPC">
+
+- **Entrevistador:** Sebastian Frisancho
+- **Entrevistado:** Sebastian Pinto
+- **Sexo:** Masculino
+- **Edad:** 21 años
+- **Distrito:** Lima
+- **duración de la entrevista:** 5:54 minutos
+- **Resumen:**  
 
 Entrevista N°13:
 
@@ -617,7 +649,29 @@ Entrevista N°13:
 - **duración de la entrevista:** 5:30 minutos
 - **Resumen:**   Franco de la cruz, es un estudiante de la carrera de ingeniería de sistemas y propietario de un salón de billar, este nos comenta que la apertura y gestión de un local de billar ha sido emocionante pero desafiante, motivados por la pasión por el juego y la creación de un espacio comunitario acogedor. Ofrecemos diversas mesas de billar, juegos adicionales y un bar para complementar la experiencia. La gestión manual de reservas es un desafío, especialmente en momentos de alta demanda. Buscamos implementar una plataforma de reserva en línea que sea fácil de usar, con horarios en tiempo real y opciones de pago seguras. Valoramos el acceso a datos para mejorar la toma de decisiones. La seguridad de la información del cliente es una preocupación importante, así como la necesidad de un soporte técnico eficiente y atención al cliente.
 
+Entrevista N°14:
 
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado14.png" alt="UPC" width="400" height="300">
+
+- **Entrevistador:** John Atencio
+- **Entrevistado:** Jefferson Alonso
+- **Sexo:** Masculino
+- **Edad:** 24 años
+- **Distrito:** San Juan de Lurigancho
+- **duración de la entrevista:**
+- **Resumen:**   
+
+Entrevista N°15:
+
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado15.png" alt="UPC" width="400" height="300">
+
+- **Entrevistador:** John Atencio
+- **Entrevistado:** Kevin Moscol
+- **Sexo:** Masculino
+- **Edad:** 23 años
+- **Distrito:** Lima
+- **duración de la entrevista:** 6:53 minutos
+- **Resumen:**  
 
 ### 2.2.3. Analisis de entrevistas
 
@@ -682,11 +736,11 @@ Esta sección se centrará en las necesidades y preocupaciones específicas iden
 
 |**Cuadro estadístico**||
 | :-: | :- |
-|**Métodos de reserva:**|El 42% de los entrevistados prefieren utilizar WhatsApp como método para realizar reservas, mientras que el 17% opta por las redes sociales del establecimiento y otro 17% considera útil una plataforma de reserva en línea. Esto significa que los métodos digitales abarcan el 76% de las preferencias, dejando un 24% para otros métodos de reserva.|
-|**Problemas comunes con las reservas:**|El 50% de los entrevistados reportan dificultades para encontrar horarios disponibles al momento de reservar, mientras que el 33% ha experimentado cancelaciones de reservas por parte del establecimiento. Además, un tercio de los entrevistados menciona la falta de disponibilidad de instalaciones, mientras que otro tercio señala la falta de organización en el proceso de reserva como problemas comunes.|
-|Necesidades de mejora en el proceso de reserva:|El 58% de los entrevistados expresan la necesidad de una plataforma que les permita ver los horarios disponibles en tiempo real. Además, el 50% destaca la importancia de una reserva rápida y sencilla. Por otro lado, un tercio de los encuestados menciona la importancia de conocer los precios y servicios ofrecidos, mientras que otro tercio sugiere incluir detalles sobre el estado de las instalaciones en la plataforma de reserva.|
-|**Preferencias sobre la plataforma de reserva:**|El 33% de los entrevistados valora la seguridad de los datos del cliente, mientras que otro 25% destaca la importancia de un soporte técnico eficiente. Además, otro 25% menciona la necesidad de opciones de pago seguras, y el restante 17% expresa interés en la recopilación de datos de usuarios para mejorar la experiencia y la gestión interna|
-|**Necesidades específicas según el tipo de establecimiento:**|El 50% de los entrevistados son propietarios o administradores de salones de billar, lo que sugiere una alta representación de este tipo de establecimiento en las entrevistas. Además, el 17% son propietarios de centros de fútbol, otro 17% alquilan canchas de fútbol, y el restante 16% son propietarios de locales de recreación con varias opciones de entretenimiento.|
+|**Métodos de reserva:**|El 81% de los entrevistados prefieren utilizar WhatsApp como método para realizar reservas, mientras que el 14% opta por las redes sociales del establecimiento y otro 5% considera útil una plataforma de reserva en línea. Esto significa que los métodos digitales abarcan el 100% de las preferencias.|
+|**Problemas comunes con las reservas:**|El 50% de los entrevistados reportan dificultades para encontrar horarios disponibles al momento de reservar. Por otro lado, el 33% ha experimentado cancelaciones de reservas por parte del establecimiento. Pero sobre todo, el 80% señala la falta de organización en el proceso de reserva como problemas comunes.|
+|Necesidades de mejora en el proceso de reserva:|El 81% de los entrevistados expresan la necesidad de una plataforma que les permita ver los horarios disponibles en tiempo real. Además, el 65% destaca la importancia de una reserva rápida y sencilla. Por otro lado, un 23% de los encuestados menciona la importancia de conocer los precios y servicios ofrecidos, mientras que un tercio sugiere incluir detalles sobre el estado de las instalaciones en la plataforma de reserva.|
+|**Preferencias sobre la plataforma de reserva:**|El 40% de los entrevistados valora la seguridad de los datos del cliente, mientras que otro 25% destaca la importancia de un soporte técnico eficiente. Además, otro 25% menciona la necesidad de opciones de pago seguras, y un 10% expresa interés en la recopilación de datos de usuarios para mejorar la experiencia y la gestión interna|
+|**Necesidades específicas según el tipo de establecimiento:**|El 59% de los usuarios propietarios tienen canchas de futbol mientras que el otro 41 tienen salones de billar|
 
 
 </div>
