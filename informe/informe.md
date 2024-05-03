@@ -1815,7 +1815,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-  - Se realizo el deployment en el servicio de Netlify. Enlace: 
+  - Se realizo el deployment en el servicio de D´taquito. Enlace: https://dtaquito-front-web.netlify.app/ 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -1988,3 +1988,6 @@ https://dtaquito-landing-page.netlify.app/
 
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project
+
+Enlace al deploy del web aplication:
+https://dtaquito-front-web.netlify.app/
