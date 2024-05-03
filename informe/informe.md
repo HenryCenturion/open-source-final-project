@@ -223,10 +223,19 @@
       - 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review) <br>
       - 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review) <br>
       - 5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) <br>
+    - 5.2.1. [Sprint 2](#522-sprint-2) <br>
+      - 5.2.1.1. [Sprint Planning 2](#5221-sprint-planning-2) <br>
+      - 5.2.1.2. [Sprint Backlog 2](#5222-sprint-backlog-2) <br>
+      - 5.2.1.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+      - 5.2.1.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+      - 5.2.1.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+      - 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+      - 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+      - 5.2.1.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
   - 5.3. [Validation Interviews](#53-validation-interviews) <br>
     - 5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas) <br>
     - 5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas) <br>
-    - 5.3.3. [Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas) <br>
+    - 5.3.3. [Evaluaciones segun heuristicas](#533-evaluaciones-segun-heuristicas) <br>
   - 5.4. [Video About-the-Product](#54-video-about-the-product) <br>
   
   [Conclusiones](#conclusiones)<br>
@@ -1715,7 +1724,7 @@ Header:
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-  - Se realizo el deployment en el servicio de Netlify. Enlace: 
+  - Se realizo el deployment en el servicio de Netlify. Enlace: https://dtaquito-landing-page.netlify.app/  
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -1725,9 +1734,9 @@ Header:
 - **Cuarta Seccion**: Se implementaron contenidos e informacion que poseen los cuerpos, reemplazando los Lorem Ipsum. (Francis Mamani)
 - **Footer**: Se realizo el pie de pagina junto a las ideas que esta posee. (Sebastian Frisancho)
 
-### 5.2.1. Sprint 2
+### 5.2.2. Sprint 2
   
-  #### 5.2.1.1. Sprint Planning 2
+  #### 5.2.2.1. Sprint Planning 2
 
   | **Sprint 2** | Sprint 2 |
 |---------------|----------|
@@ -1744,7 +1753,7 @@ Header:
 | Sprint 2 Velocity | 55 |
 | Sum of Story Points | 64 |
 
-  #### 5.2.1.2. Sprint Backlog 2
+  #### 5.2.2.2. Sprint Backlog 2
   
 | **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
 | ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
@@ -1772,30 +1781,26 @@ Header:
 | US08 | Borrar un método de pago               | T22                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Doing |
 
 
-  #### 5.2.1.3. Development Evidence for Sprint Review
+  #### 5.2.2.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed On (Date)** |
 | --- | --- | --- | --- | --- | --- |
 | github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | | feat: | | 03/05/2024 |
   
-  #### 5.2.1.4. Testing Suite Evidence for Sprint Review
+  #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 
 
-  #### 5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+ #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 
 
-
-
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-
-
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
   - Se realizo el deployment en el servicio de Netlify. Enlace: 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 - **Mejoramiento de lógica y desarrollo de componentes en la API simulada:** Se optimizaron los métodos de la API simulada, mejorando la lógica interna para aumentar la eficiencia. Además, se desarrollaron varios componentes nuevos para enriquecer las funcionalidades existentes. (Sebastián Mendez)
 - **Ordenamiento de directorios y estructuración según Domain-Driven Design (DDD):** Se reestructuraron los directorios del proyecto de acuerdo con los principios de Domain-Driven Design (DDD), lo que facilitó la organización y el acceso a los recursos. (Henry Centurion)
@@ -1960,6 +1965,9 @@ https://miro.com/app/board/uXjVKUmcOCw=/?share_link_id=98435150377
 
 Enlace a figma:
 https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=0%3A1&mode=design&t=K3kzNMJ1UGVbxDsc-1
+
+Enlace al deploy del landing page:
+https://dtaquito-landing-page.netlify.app/
 
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project
