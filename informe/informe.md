@@ -651,7 +651,7 @@ de canchas dentro de su zona, a su vez nos comenta que hay tenido que esperar au
 
 Entrevista N°10:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado10.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado-101.png" alt="UPC">
 
 - **Entrevistador:** Francis Mamani
 - **Entrevistado:** Jose Saico
@@ -663,7 +663,7 @@ Entrevista N°10:
 
 Entrevista N°11:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado11.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado-111.png" alt="UPC">
 
 - **Entrevistador:** Francis Mamani
 - **Entrevistado:** Piero Alessandro
@@ -687,7 +687,7 @@ Entrevista N°12:
 
 Entrevista N°13:
 
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado13.png" alt="UPC" width="400" height="300">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado-131.png" alt="UPC" width="400" height="300">
 
 - **Entrevistador:** Francis Mamani
 - **Entrevistado:** Franco de la Cruz
