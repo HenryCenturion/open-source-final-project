@@ -599,7 +599,8 @@ Entrevista N°9:
 - **Edad:** 22 años
 - **Distrito:** San Miguel
 - **Duracion de la entrevista:** 7:35 minutos
-- **Resumen:** 
+- **Resumen:** Rodrigo Reyes es un estudiante de medicina. En su dia a dia durante la semana inicia levantandose temprano para ir al hospital, por la tarde tiene clases, y en noche va al gym o sigue estudiando, los fines de semana va al gym o si se coordina con sus amigos juega futbol. Con respeto al futbol,él suele jugar con una frecuencia de 1-2 días al mes, por lo que se le considera jugador regular. Sin embargo, en Lima el desconoce locales de futbol, nos comenta que conoce un par pero fuera de su zona, por la poca publicidad y visibilidad que estas tienen. Él nos comenta que el tiempo que se demora aproximadamente para hacer el proceso de busqueda y reserva se demora aproximadante 1 hora. Tambien le gustaria que se implemente una aplicacion donde se amplie la visibilidad 
+de canchas dentro de su zona, a su vez nos comenta que hay tenido que esperar aun habiendo hecho la reserva. Para una mejorar reserva el quisiera poder visualizar sus horarios disponibles.
 
 Entrevista N°10:
 
@@ -635,7 +636,7 @@ Entrevista N°12:
 - **Edad:** 21 años
 - **Distrito:** Lima
 - **duración de la entrevista:** 5:54 minutos
-- **Resumen:**  
+- **Resumen:** Sebastian Pinto es un estudiante universitario. En su dia a dia durante la semana inicia levantandose temprano para ir al clases, por la tarde suele tenerlas libres pero ayuda en la casa, y en noche se queda estudiando o jugando videojuegos, los fines de semana si se coordina con sus amigos juega futbol. Con respeto al futbol, él suele jugar con una frecuencia de 3-4 veces al mes, por lo que se le considera jugador regular. Sin embargo, en Lima el desconoce locales de futbol por la poca publicidad y visibilidad que estas tienen. Él nos comenta que el tiempo que se demora aproximadamente para hacer el proceso de busqueda y reserva es significativo, ya que si alguien no tiene el contacto deben buscar por redes sociales y llamar para preguntar la disponibilidad. Al no estar satisfecho con la disponibilidad de sus canchas a experimentado tener que dejar de jugar por este problema. Le gustaria que se implemente una app donde se junten los anuncions de canchas en redes sociales para que se amplie la visibilidad de canchas dentro de su zona. Para una mejorar reserva el quisiera poder visualizar sus horarios disponibles. 
 
 Entrevista N°13:
 
