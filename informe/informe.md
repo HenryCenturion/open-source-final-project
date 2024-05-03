@@ -1796,11 +1796,14 @@ Header:
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion web, de tal manera que se evidencia algunas de las funcionalidades de esta misma.
 
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute6.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute7.png" alt="UPC">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute1.png" alt="UPC">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute2.png" alt="UPC">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute3.png" alt="UPC">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute4.png" alt="UPC">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execute5.png" alt="UPC">
+
 
 
  #### 5.2.2.6. Services Documentation Evidence for Sprint Review
