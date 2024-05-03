@@ -1699,26 +1699,44 @@ Header:
 
   #### 5.2.1.2. Sprint Backlog 2
   
-| **ID** | **Title** | **ID of Assignment** | **Title of Assignment** | **Description** | **Estimation (Hours)** | **Assigned by** | **Status** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| | | | | |  |||
-| | | | | |  |||
-| | | | | |  |||
-| | | | | |  |||
-| | | | | |  |||
+| **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
+| ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
+| US13 | Reservar un espacio de juego                  | T01                 | Crear lógica para reservar espacio de juego | Implementar lógica para reservar espacio de juego usando Angular. | 10                            | H. Centurion      | Done |
+| US12 | Ver horarios de los espacios de juego    | T02                 | Crear lógica para mostrar horarios          | Crear lógica para mostrar horarios usando Angular. | 5                            | S. Frisancho     | Done    |
+| US16 | Cancelar una reserva de un espacio de juego | T03                 | Crear lógica para cancelar reserva         | Desarrollar lógica para cancelar reserva usando Angular. | 3                            | J. Atencio         | Done         |
+| US09 | Visualizar los espacios de juego          | T04                 | Crear lógica para visualizar espacios       | Crear lógica para visualizar espacios usando Angular. | 4                            | S. Mendez         | Done    |
+| US10 | Visualizar características de los espacios de juego | T05                 | Crear lógica para mostrar características | Crear lógica para mostrar características usando Angular. | 6                            | F. Mamani       | Done |
+| US11 | Aplicar filtros de búsqueda                 | T06                 | Crear lógica para aplicar filtros           | Desarrollar lógica para aplicar filtros usando Angular. | 2                            | H. Centurion      | Done    |
+| US14 | Ver reservas activas de un espacio de juego | T07                 | Crear lógica para mostrar reservas activas | Crear lógica para mostrar reservas activas usando Angular. | 5                            | S. Frisancho     | Done         |
+| US15 | Ver historial de reservas de espacios de juego | T08                 | Crear lógica para mostrar historial de reservas | Desarrollar lógica para mostrar historial de reservas usando Angular. | 6                            | J. Atencio         | Done    |
+| US17 | Ver una suscripción                        | T09                 | Crear lógica para mostrar suscripción      | Desarrollar lógica para mostrar suscripción usando Angular. | 3                            | S. Mendez         | To-do         |
+| US18 | Adquirir una suscripción                 | T10                 | Crear lógica para adquirir suscripción      | Desarrollar lógica para adquirir suscripción usando Angular. | 4                            | F. Mamani       | To-do    |
+| US19 | Cancelar una suscripción              | T11                 | Crear lógica para cancelar suscripción      | Desarrollar lógica para cancelar suscripción usando Angular. | 2                            | H. Centurion      | To-do         |
+| US28 | Añadir un espacio de juego              | T12                 | Crear lógica para añadir espacio de juego | Desarrollar lógica para añadir espacio de juego usando Angular. | 8                            | S. Frisancho     | Done |
+| US01 | Registro de cuenta de rentor            | T13                 | Crear lógica para registro de rentor        | Desarrollar lógica para registro de rentor usando Angular. | 4                            | J. Atencio         | Done    |
+| US02 | Inicio de sesión de cuenta              | T14                 | Crear lógica para inicio de sesión         | Desarrollar lógica para inicio de sesión usando Angular. | 3                            | S. Mendez         | Done    |
+| US29 | Editar un espacio de juego               | T15                 | Crear lógica para editar espacio de juego | Desarrollar lógica para editar espacio de juego usando Angular. | 3                           | F. Mamani       | Done |
+| US03 | Ver perfil de rentor                         | T16                 | Crear lógica para mostrar perfil de rentor | Crear lógica para mostrar perfil de rentor usando Angular. | 2                            | H. Centurion      | Done    |
+| US04 | Editar perfil de rentor                      | T17                 | Crear lógica para editar perfil de rentor  | Desarrollar lógica para editar perfil de rentor usando Angular. | 4                            | S. Frisancho     | Done         |
+| US06 | Visualizar tarjetas como método de pago | T18                 | Crear lógica para visualizar tarjetas       | Desarrollar lógica para visualizar tarjetas usando Angular. | 3                            | J. Atencio         | Doing    |
+| US07 | Agregar una tarjeta como método de pago | T19                 | Crear lógica para agregar tarjeta          | Desarrollar lógica para agregar tarjeta usando Angular. | 3                            | S. Mendez         | Doing |
+| US30 | Eliminar un espacio de juego             | T20                 | Crear lógica para eliminar espacio de juego | Desarrollar lógica para eliminar espacio de juego usando Angular. | 2                           | F. Mamani       | Done         |
+| US05 | Editar tarjeta como método de pago     | T21                 | Crear lógica para editar tarjeta             | Desarrollar lógica para editar tarjeta usando Angular. | 2                            | H. Centurion      | Doing    |
+| US08 | Borrar un método de pago               | T22                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Doing |
+
 
   #### 5.2.1.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed On (Date)** |
 | --- | --- | --- | --- | --- | --- |
-| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication    | | feat: | | 03/05/2024 |
+| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | | feat: | | 03/05/2024 |
   
   #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
- - 
+
 
   #### 5.2.1.5. Execution Evidence for Sprint Review
 
- - Hemos aprovechado el sprint para trabajar de manera colaborativa, cumplir con nuestros objetivos, y mejorar tanto nuestros productos como nuestros procesos de trabajo.
+
 
 
 
@@ -1732,11 +1750,11 @@ Header:
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-- **Primera Seccion (header)**: Se implemento la distribucion del header y su transparencia con el fondo. (Sebastian Mendez)
-- **Segunda Seccion**: Se realizaron los layouts de la pagina. (Henry Centurion)
-- **Tercera Seccion**: Se implementaron imagenes y titulos respectivos en cada seccion. (John Atencio)
-- **Cuarta Seccion**: Se implementaron contenidos e informacion que poseen los cuerpos, reemplazando los Lorem Ipsum. (Francis Mamani)
-- **Footer**: Se realizo el pie de pagina junto a las ideas que esta posee. (Sebastian Frisancho)
+- **Mejoramiento de lógica y desarrollo de componentes en la API simulada:** Se optimizaron los métodos de la API simulada, mejorando la lógica interna para aumentar la eficiencia. Además, se desarrollaron varios componentes nuevos para enriquecer las funcionalidades existentes. (Sebastián Mendez)
+- **Ordenamiento de directorios y estructuración según Domain-Driven Design (DDD):** Se reestructuraron los directorios del proyecto de acuerdo con los principios de Domain-Driven Design (DDD), lo que facilitó la organización y el acceso a los recursos. (Henry Centurion)
+- **Desarrollo de diversos componentes, encabezado y pie de página:** Se trabajó en el desarrollo de múltiples componentes, incluyendo mejoras en el encabezado y el pie de página, para proporcionar una interfaz más atractiva y coherente. (John Atencio)
+- **Diseño y optimización de la interfaz de usuario en los componentes:** Se mejoraron los diseños de los componentes, optimizando la interfaz de usuario para ofrecer una experiencia más intuitiva y agradable. (Francis Mamani)
+- **Implementación del sistema de inicio de sesión y validaciones:** Se implementó el sistema de inicio de sesión con validaciones robustas, garantizando la seguridad y la integridad de los datos de los usuarios. (Sebastián Frisancho)
 
 ## 5.3. Validation Interviews
 
