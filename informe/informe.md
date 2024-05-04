@@ -1570,8 +1570,14 @@ Class MesaDeBillar
   - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop"
   - Además de las ramas predeterminadas, como grupo hemos creado la rama de tipo document el cual es para uso exclusivo del manejo de información del informe
     
-      - document/informe
+      - document/caratula
+      - document/capitulo-1
+      - document/capitulo-2
+      - document/capitulo-3
+      - document/capitulo-4
+      - document/capitulo-5
       - feature/landing-page
+      - feature/front-web-application
       
    - Estas han sido creadas con el proposito de dividir el trabajo en los 5 capitulos junto con la caratula, anexos y el landing page de acuerdo a las historias de usuario creadas.
    - Las ramas externas creadas son hijas de la rama "develop", por lo que, al culminar con el trabajo en la etapa de desarrollo, estas se uniran mediante el Pull Request para asi tener todo el informe en un solo documento.
@@ -1581,7 +1587,7 @@ Class MesaDeBillar
 </p>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//git.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//GitFlow.png" alt="UPC">
 </p>
 
   ### 5.1.3. Source Code Style Guide & Conventions
