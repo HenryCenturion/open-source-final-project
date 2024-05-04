@@ -1784,7 +1784,8 @@ Header:
   #### 5.2.2.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed On (Date)** |
 | --- | --- | --- | --- | --- | --- |
-| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | | feat: | | 03/05/2024 |
+| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | e39d79e| feat: Create frontend folder
+| Empthy| 03/05/2024 |
   
   #### 5.2.2.4. Testing Suite Evidence for Sprint Review
   Para el caso, emos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
@@ -1815,7 +1816,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-  - Se realizo el deployment en el servicio de D´taquito. Enlace: https://dtaquito-front-web.netlify.app/ 
+  - Se realizo el deployment en el servicio de D´taquito. Enlace: https://tf-open-source.netlify.app/
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -1986,8 +1987,10 @@ https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=
 Enlace al deploy del landing page:
 https://dtaquito-landing-page.netlify.app/
 
+Enlace al deploy del web aplication:
+https://tf-open-source.netlify.app/
+
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project
 
-Enlace al deploy del web aplication:
-https://dtaquito-front-web.netlify.app/
+
