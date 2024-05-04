@@ -1,0 +1,53 @@
+<div class="column gap-1">
+  <!-- Add Product Button -->
+  <button
+    type="button"
+    pButton
+    icon="pi pi-plus"
+    (click)="toggleAddPopup()"
+    label="Add Product"
+    class="add-product-btn"
+    *ngIf="loggedUser && loggedUser?.role !== 'R'"
+  ></button>
+  <select [(ngModel)]="searchOrSortOption" (ngModelChange)="searchOrSort()">
+    <option value="search">Buscar por nombre</option>
+    <option value="priceHigh">Precio: Mayor a Menor</option>
+    <option value="priceLow">Precio: Menor a Mayor</option>
+  </select>
+
+  <!-- Este campo de entrada solo se mostrará cuando 'searchOrSortOption' sea 'search' -->
+  <input *ngIf="searchOrSortOption === 'search'" [(ngModel)]="searchTerm" placeholder="Escribe el nombre aquí">
+
+  <!-- Products Section -->
+  <div class="row wrap gap-2 space-between">
+    <app-product
+      *ngFor="let product of filterProducts()"
+      [product]="product"
+      (edit)="toggleEditPopup($event)"
+      (delete)="toggleDeletePopup($event)"
+    ></app-product>
+
+  </div>
+  <!-- Paginator -->
+  <p-paginator
+    [rows]="rows"
+    [totalRecords]="totalRecords"
+    [rowsPerPageOptions]="[6, 12, 20]"
+    (onPageChange)="onPageChange($event)"
+    #paginator
+  ></p-paginator>
+</div>
+
+<!-- Edit Product -->
+<app-edit-popup
+  [product]="selectedProduct"
+  [(display)]="displayEditPopup"
+  (confirm)="onConfirmEdit($event)"
+  header="Edit Product"
+></app-edit-popup>
+<!-- Add Product -->
+<app-edit-popup
+  [(display)]="displayAddPopup"
+  (confirm)="onConfirmAdd($event)"
+  header="Add Product"
+></app-edit-popup>
