@@ -232,15 +232,24 @@
       - 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review) <br>
       - 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review) <br>
       - 5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) <br>
-    - 5.2.1. [Sprint 2](#522-sprint-2) <br>
-      - 5.2.1.1. [Sprint Planning 2](#5221-sprint-planning-2) <br>
-      - 5.2.1.2. [Sprint Backlog 2](#5222-sprint-backlog-2) <br>
-      - 5.2.1.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
-      - 5.2.1.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
-      - 5.2.1.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
-      - 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
-      - 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
-      - 5.2.1.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
+    - 5.2.2. [Sprint 2](#522-sprint-2) <br>
+      - 5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-2) <br>
+      - 5.2.2.2. [Sprint Backlog 2](#5222-sprint-backlog-2) <br>
+      - 5.2.2.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+      - 5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+      - 5.2.2.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+      - 5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+      - 5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+      - 5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
+    - 5.2.3. [Sprint 3](#522-sprint-3) <br>
+      - 5.2.3.1. [Sprint Planning 2](#5221-sprint-planning-3) <br>
+      - 5.2.3.2. [Sprint Backlog 2](#5222-sprint-backlog-3) <br>
+      - 5.2.3.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+      - 5.2.3.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+      - 5.2.3.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+      - 5.2.3.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+      - 5.2.3.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+      - 5.2.3.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
   - 5.3. [Validation Interviews](#53-validation-interviews) <br>
     - 5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas) <br>
     - 5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas) <br>
@@ -1102,7 +1111,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | 21     | US22          | Unirse a una sala comunitaria                   | Como rentor quiero unirme a una sala comunitaria para jugar con otros jugadores |3|
 | 22     | US01          | Registro de cuenta de rentor                   | Como rentor deseo registrarme para tener una cuenta | 3   |
 | 23     | US02          | Inicio de sesión de cuenta                   | Como rentor deseo poder ingresar a mi cuenta para usarla |3  |
-| 24| TS04| implementar endpoints para la gestión de roles y permisos de usuario | Como desarrollador, necesito implementar endpoints en el API para administrar roles y permisos de usuario, permitiendo controlar de manera eficiente los accesos y acciones permitidas dentro de la plataforma| 3 |
+| 24     | TS04          | implementar endpoints para la gestión de roles y permisos de usuario | Como desarrollador, necesito implementar endpoints en el API para administrar roles y permisos de usuario, permitiendo controlar de manera eficiente los accesos y acciones permitidas dentro de la plataforma| 3 |
 | 25     | TS03          | Gestionar calificaciones y comentarios de usuarios    | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan calificar y dejar comentarios sobre los espacios de juego ocupados | 2            |
 | 26     | US31          | Administrar horarios                                  | Como propietario de un espacio de juego quiero administrar los horarios de mis espacios de juego para conocer sus detalles | 2            |
 | 27     | US29          | Editar un espacio de juego                            | Como propietario de un espacio de juego quiero editar mi local a la aplicación web para modificar información del espacio de juego | 2            |
@@ -1110,7 +1119,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | 29     | TS09          | Implementar funcionalidad de inicio de sesión seguro  | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios inicien sesión de forma segura en la plataforma. | 2            |
 | 30     | TS10          | Agregar funcionalidad de recuperación de contraseña   | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios recuperen su contraseña en caso de olvido. | 2            |
 | 31     | US03          | Ver perfil de rentor  | Como rentor quiero acceder a mi perfil para ver mis datos personales | 2            |
-|32     | US04          | Editar perfil de rentor            |Como rentor deseo acceder a mi perfil para editar mis datos personales | 2            |
+| 32     | US04          | Editar perfil de rentor            |Como rentor deseo acceder a mi perfil para editar mis datos personales | 2            |
 | 33     | US06          | Visualizar tarjetas como método de pago                   | Como rentor quiero visualizar mis tarjetas registradas para gestionarlas| 2            |
 | 34     | US07          | Agregar una tarjeta como método de pago                  | Como rentor quiero agregar mi tarjeta para pagar mis reservas | 2            |
 | 35     | US30          | Eliminar un espacio de juego                          | Como propietario de un espacio de juego quiero eliminar mi local de la aplicación web para que no se visualice más | 1            |
@@ -1780,20 +1789,20 @@ Header:
 | US11 | Aplicar filtros de búsqueda                 | T06                 | Crear lógica para aplicar filtros           | Desarrollar lógica para aplicar filtros usando Angular. | 2                            | H. Centurion      | Done    |
 | US14 | Ver reservas activas de un espacio de juego | T07                 | Crear lógica para mostrar reservas activas | Crear lógica para mostrar reservas activas usando Angular. | 5                            | S. Frisancho     | Done         |
 | US15 | Ver historial de reservas de espacios de juego | T08                 | Crear lógica para mostrar historial de reservas | Desarrollar lógica para mostrar historial de reservas usando Angular. | 6                            | J. Atencio         | Done    |
-| US17 | Ver una suscripción                        | T09                 | Crear lógica para mostrar suscripción      | Desarrollar lógica para mostrar suscripción usando Angular. | 3                            | S. Mendez         | To-do         |
-| US18 | Adquirir una suscripción                 | T10                 | Crear lógica para adquirir suscripción      | Desarrollar lógica para adquirir suscripción usando Angular. | 4                            | F. Mamani       | To-do    |
-| US19 | Cancelar una suscripción              | T11                 | Crear lógica para cancelar suscripción      | Desarrollar lógica para cancelar suscripción usando Angular. | 2                            | H. Centurion      | To-do         |
+| US17 | Ver una suscripción                        | T09                 | Crear lógica para mostrar suscripción      | Desarrollar lógica para mostrar suscripción usando Angular. | 3                            | S. Mendez         | Done        |
+| US18 | Adquirir una suscripción                 | T10                 | Crear lógica para adquirir suscripción      | Desarrollar lógica para adquirir suscripción usando Angular. | 4                            | F. Mamani       | Done    |
+| US19 | Cancelar una suscripción              | T11                 | Crear lógica para cancelar suscripción      | Desarrollar lógica para cancelar suscripción usando Angular. | 2                            | H. Centurion      | Done        |
 | US28 | Añadir un espacio de juego              | T12                 | Crear lógica para añadir espacio de juego | Desarrollar lógica para añadir espacio de juego usando Angular. | 8                            | S. Frisancho     | Done |
 | US01 | Registro de cuenta de rentor            | T13                 | Crear lógica para registro de rentor        | Desarrollar lógica para registro de rentor usando Angular. | 4                            | J. Atencio         | Done    |
 | US02 | Inicio de sesión de cuenta              | T14                 | Crear lógica para inicio de sesión         | Desarrollar lógica para inicio de sesión usando Angular. | 3                            | S. Mendez         | Done    |
 | US29 | Editar un espacio de juego               | T15                 | Crear lógica para editar espacio de juego | Desarrollar lógica para editar espacio de juego usando Angular. | 3                           | F. Mamani       | Done |
 | US03 | Ver perfil de rentor                         | T16                 | Crear lógica para mostrar perfil de rentor | Crear lógica para mostrar perfil de rentor usando Angular. | 2                            | H. Centurion      | Done    |
 | US04 | Editar perfil de rentor                      | T17                 | Crear lógica para editar perfil de rentor  | Desarrollar lógica para editar perfil de rentor usando Angular. | 4                            | S. Frisancho     | Done         |
-| US06 | Visualizar tarjetas como método de pago | T18                 | Crear lógica para visualizar tarjetas       | Desarrollar lógica para visualizar tarjetas usando Angular. | 3                            | J. Atencio         | Doing    |
-| US07 | Agregar una tarjeta como método de pago | T19                 | Crear lógica para agregar tarjeta          | Desarrollar lógica para agregar tarjeta usando Angular. | 3                            | S. Mendez         | Doing |
+| US06 | Visualizar tarjetas como método de pago | T18                 | Crear lógica para visualizar tarjetas       | Desarrollar lógica para visualizar tarjetas usando Angular. | 3                            | J. Atencio         | Done    |
+| US07 | Agregar una tarjeta como método de pago | T19                 | Crear lógica para agregar tarjeta          | Desarrollar lógica para agregar tarjeta usando Angular. | 3                            | S. Mendez         | Done |
 | US30 | Eliminar un espacio de juego             | T20                 | Crear lógica para eliminar espacio de juego | Desarrollar lógica para eliminar espacio de juego usando Angular. | 2                           | F. Mamani       | Done         |
-| US05 | Editar tarjeta como método de pago     | T21                 | Crear lógica para editar tarjeta             | Desarrollar lógica para editar tarjeta usando Angular. | 2                            | H. Centurion      | Doing    |
-| US08 | Borrar un método de pago               | T22                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Doing |
+| US05 | Editar tarjeta como método de pago     | T21                 | Crear lógica para editar tarjeta             | Desarrollar lógica para editar tarjeta usando Angular. | 2                            | H. Centurion      | Done    |
+| US08 | Borrar un método de pago               | T22                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Done |
 
 
   #### 5.2.2.3. Development Evidence for Sprint Review
@@ -1803,7 +1812,7 @@ Header:
 | Empthy| 03/05/2024 |
   
   #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-  Para el caso, emos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
+  Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
 
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//testing1.png" alt="UPC">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//testing2.png" alt="UPC">
@@ -1840,6 +1849,24 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 - **Desarrollo de diversos componentes, encabezado y pie de página:** Se trabajó en el desarrollo de múltiples componentes, incluyendo mejoras en el encabezado y el pie de página, para proporcionar una interfaz más atractiva y coherente. (John Atencio)
 - **Diseño y optimización de la interfaz de usuario en los componentes:** Se mejoraron los diseños de los componentes, optimizando la interfaz de usuario para ofrecer una experiencia más intuitiva y agradable. (Francis Mamani)
 - **Implementación del sistema de inicio de sesión y validaciones:** Se implementó el sistema de inicio de sesión con validaciones robustas, garantizando la seguridad y la integridad de los datos de los usuarios. (Sebastián Frisancho)
+
+### 5.2.3. Sprint 3
+  #### 5.2.3.1. Sprint Planning 3
+
+  #### 5.2.3.2. Sprint Backlog 3
+  
+  #### 5.2.3.3. Development Evidence for Sprint Review
+  
+  #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+  #### 5.2.3.5. Execution Evidence for Sprint Review
+  
+  #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+  
+  #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+  
+  #### 5.2.3.8. Team Collaboration Insights during Sprint
+
 
 ## 5.3. Validation Interviews
 
