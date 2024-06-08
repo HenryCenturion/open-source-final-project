@@ -87,6 +87,8 @@
       TB1: John Atencio: Realicé el proyecto en general junto con mis compañeros, aplicando comunicación. Desarrolle el modelo C4 junto con el diagrama de clases y base de datos
       <br><br>
       TP: John Atencio: Coordinar y organizar reuniones con el equipo para mejorar la comunicación y el flujo de información durante el desarrollo del proyecto.
+      <br><br>
+      TB2: John Atencio: Implementé presentaciones para mostrar el progreso del proyecto y recibí retroalimentación de los interesados.
     </td>
     <td rowspan="5" valign="middle">
       En nuestras conclusiones, hemos puesto énfasis en el valor y la importancia de la comunicación efectiva dentro de nuestro equipo. Este énfasis se ha centrado en la aplicación práctica de habilidades técnicas específicas que han demostrado ser fundamentales para mejorar nuestra interacción y colaboración.
@@ -103,20 +105,26 @@
       TB1: Henry Centurion: Con mis demas compañeros completamos el informe, en mi caso enfatice con las user stories
       <br><br>
       TP: Henry Centurion: He dirigido el ordenamiento del codigo para lograr el domain design.
+      <br><br>
+      TB2: Henry Centurion: Coordiné la revisión de código entre pares para asegurar la calidad y consistencia del proyecto.
     </td>
   </tr>
   <tr>
     <td valign="top">
       TB1: Sebastián Frisancho: Me encarge del figma para realizar el modelo visual de nuestra aplicación y como deseamos que luzca
       <br><br>
-      TP: Sebastián Frisancho: Estuve viendo las partes del logeo y autorización el usuario
+      TP: Sebastián Frisancho: Estuve viendo las partes del logeo y autorización el usuario.
+      <br><br>
+      TB2: Sebastián Frisancho: Realicé pruebas de usuario para evaluar y mejorar la experiencia del usuario en la interfaz gráfica.
     </td>
   </tr>
   <tr>
     <td valign="top">
       TB1: Francis Mamani: Organice y desarrolle las entrevistas para asi obtner los datos que necesitamos
       <br><br>
-      TP: Francis Mamani: Estuve viendo la parte grafica de los componentes y así luzca mejor la interfaz
+      TP: Francis Mamani: Estuve viendo la parte grafica de los componentes y así luzca mejor la interfaz.
+      <br><br>
+      TB2: Francis Mamani: Analicé los resultados de las entrevistas para refinar los requisitos y mejorar el diseño de la interfaz.
     </td>
   </tr>
   <tr>
@@ -124,10 +132,11 @@
       TB1: Sebastián Mendez: Me encargare de dirigir el trabajo juntando al equipo al igual que cuando desarrollamos el landing page
       <br><br>
       TP: Sebastián Mendez: Estuve desarrollando casi gran parte de los componentes y web front applications.
+      <br><br>
+      TB2: Sebastián Mendez: Facilitó sesiones de retroalimentación para evaluar el progreso y ajustar la dirección del proyecto según las necesidades del equipo.
     </td>
   </tr>
 </table>
-
 
 
 
