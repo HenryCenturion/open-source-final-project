@@ -1858,29 +1858,50 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 | **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
 | ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
 |TS02|Gestionar reservas de espacios de juego|T01|Implementar endpoints para gestionar reservas de espacios de juego|Implementar endpoints en el API para que los usuarios gestionen reservas de espacios de juego.|10|S. Mendez|Done|
-|TS01|Obtener información de espacios de juego disponibles|T02|Implementar endpoint para obtener información de espacios de juego disponibles|Implementar un endpoint en el API para obtener información sobre los espacios 5de juego disponibles.|5|H. Centurion|Done|
-|TS11|Gestionar cuentas de usuario|T03|Implementar endpoints para gestionar cuentas de usuario|Implementar endpoints en el API para que los usuarios gestionen sus cuentas y preferencias.|3|S. Frisancho|Done|
-|TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T04|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|Done|
-|TS06|Validación de datos de entrada|T05|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|Done|
-|TS09|Implementar funcionalidad de inicio de sesión seguro|T06|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|Done|
-|TS05|Procesar pagos de forma segura y confiable|T07|Implementar endpoints para procesar pagos de forma segura|Implementar endpoints en el API para procesar pagos de forma segura.|5|H. Centurion|Done|
-|TS08|Sistema de alertas de disponibilidad|T08|Implementar sistema de alertas de disponibilidad|Implementar un sistema de alertas para informar a los usuarios sobre cambios en la disponibilidad.|5|S. Frisancho|To-Do|
-|TS07|Seguridad y protección de datos|T09|Implementar medidas de seguridad y protección de datos|Implementar medidas de seguridad para proteger la información del usuario.|3|J. Atencio|To-Do|
-|TS10|Agregar funcionalidad de recuperación de contraseña|T10|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|To-Do|
-|TS03|Gestionar calificaciones y comentarios de usuarios|T11|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|2|S. Mendez|To-Do|
+|TS01|Gestionar información de los espacios de juego|T01|Implementar endpoint para obtener información de espacios de juego disponibles|Implementar un endpoint en el API para obtener información sobre los espacios de juego disponibles.|5|H. Centurion|Done|
+|TS11|Gestionar cuentas de usuario|T01|Implementar endpoints para gestionar cuentas de usuario|Implementar endpoints en el API para que los usuarios gestionen sus cuentas y preferencias.|3|S. Frisancho|Done|
+|TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T01|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|To-Do|
+|TS06|Validación de datos de entrada|T01|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|To-Do|
+|TS09|Implementar funcionalidad de inicio de sesión seguro|T01|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|To-Do|
+|TS05|Gestión de método de pago|T01|Implementar endpoints para procesar pagos de forma segura|Implementar endpoints en el API para procesar pagos de forma segura.|5|H. Centurion|Done|
+|TS08|Gestión de suscripciones|T01|Implementar sistema de subscripciones|Implementar endpoints en el API para gestionar las subscripciones dentro de la app.|5|S. Frisancho|Done|
+|TS07|Seguridad y protección de datos|T01|Implementar medidas de seguridad y protección de datos|Implementar medidas de seguridad para proteger la información del usuario.|3|J. Atencio|To-Do|
+|TS10|Agregar funcionalidad de recuperación de contraseña|T01|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|To-Do|
+|TS03|Gestionar calificaciones y comentarios de usuarios|T01|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|2|S. Mendez|Doing|
   
   #### 5.2.3.3. Development Evidence for Sprint Review
-  
+
+  | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
+  |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | ebdbd1e                                 | Initial commit       | Empty | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Implement TS01       | Add plan section in landing-page for visitor visual | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 66e031b                                 | feat: Implement TS02       | Implemented the members section | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | bced3d2                                 | feat: Implement TS05       | Add arrow | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 9c82028                                 | feat: Implement TS08       | Add footer icons | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 9c84728                                 | feat: Implement TS11       | Add footer icons | 09/06/2024 |
   
   #### 5.2.3.4. Testing Suite Evidence for Sprint Review
   Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
 
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test2.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test3.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test4.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test5.png" alt="UPC">
+
   #### 5.2.3.5. Execution Evidence for Sprint Review
   Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution2.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution3.png" alt="UPC">
   
   #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
   Para el caso, ya hemos implementado los datos de nuestra aplicacion en la base de datos, usando una base de datos relacional con la herramienta mySQL, para poder ver nuestros campos, ademas desarrollamos nuestro backend con el lenguaje java.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql2.png" alt="UPC">
   
   #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
