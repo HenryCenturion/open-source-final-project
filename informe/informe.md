@@ -1883,25 +1883,25 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
   #### 5.2.3.4. Testing Suite Evidence for Sprint Review
   Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
 
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test1.png" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test2.png" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test3.png" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test4.png" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test5.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test2.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test3.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test4.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test5.PNG" alt="UPC">
 
   #### 5.2.3.5. Execution Evidence for Sprint Review
   Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
 
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution1.png" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution2.png" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution3.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution2.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution3.PNG" alt="UPC">
   
   #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
   Para el caso, ya hemos implementado los datos de nuestra aplicacion en la base de datos, usando una base de datos relacional con la herramienta mySQL, para poder ver nuestros campos, ademas desarrollamos nuestro backend con el lenguaje java.
 
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql1.png" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql2.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql2.PNG" alt="UPC">
   
   #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
