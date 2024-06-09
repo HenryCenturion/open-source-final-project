@@ -88,7 +88,7 @@
       <br><br>
       TP: John Atencio: Coordinar y organizar reuniones con el equipo para mejorar la comunicación y el flujo de información durante el desarrollo del proyecto.
       <br><br>
-      TB2: John Atencio: Implementé presentaciones para mostrar el progreso del proyecto y recibí retroalimentación de los interesados.
+      TB2: John Atencio: Implementé servicios y APIs, y presenté el progreso del proyecto, recibiendo retroalimentación de los interesados para mejorar la funcionalidad backend.
     </td>
     <td rowspan="5" valign="middle">
       En nuestras conclusiones, hemos puesto énfasis en el valor y la importancia de la comunicación efectiva dentro de nuestro equipo. Este énfasis se ha centrado en la aplicación práctica de habilidades técnicas específicas que han demostrado ser fundamentales para mejorar nuestra interacción y colaboración.
@@ -106,7 +106,7 @@
       <br><br>
       TP: Henry Centurion: He dirigido el ordenamiento del codigo para lograr el domain design.
       <br><br>
-      TB2: Henry Centurion: Coordiné la revisión de código entre pares para asegurar la calidad y consistencia del proyecto.
+      TB2: Henry Centurion: Coordiné la revisión de código entre pares para asegurar la calidad y consistencia del código backend del proyecto.
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@
       <br><br>
       TP: Sebastián Frisancho: Estuve viendo las partes del logeo y autorización el usuario.
       <br><br>
-      TB2: Sebastián Frisancho: Realicé pruebas de usuario para evaluar y mejorar la experiencia del usuario en la interfaz gráfica.
+      TB2: Sebastián Frisancho: Realicé pruebas de integración y rendimiento para evaluar y optimizar el funcionamiento del backend.
     </td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@
       <br><br>
       TP: Francis Mamani: Estuve viendo la parte grafica de los componentes y así luzca mejor la interfaz.
       <br><br>
-      TB2: Francis Mamani: Analicé los resultados de las entrevistas para refinar los requisitos y mejorar el diseño de la interfaz.
+      TB2: Francis Mamani: Analicé los resultados de las entrevistas para refinar los requisitos y mejorar la arquitectura del sistema y la estructura de la base de datos.
     </td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@
       <br><br>
       TP: Sebastián Mendez: Estuve desarrollando casi gran parte de los componentes y web front applications.
       <br><br>
-      TB2: Sebastián Mendez: Facilitó sesiones de retroalimentación para evaluar el progreso y ajustar la dirección del proyecto según las necesidades del equipo.
+      TB2: Sebastián Mendez: Facilitó sesiones de retroalimentación para evaluar el progreso y desarrolle gran parte del backend.
     </td>
   </tr>
 </table>
