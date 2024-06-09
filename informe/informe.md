@@ -1850,8 +1850,8 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 |**Sprint 3 Retrospective Summary**|Debemos invertir un poco más de tiempo en realizar funcionalidades para seguir teniendo tiempo al momento de cumplir con la fecha programa del sprint|
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|La implementación de la primera versión del backend|
-|Sprint 3 Velocity|30|
-|Sum of Story Points|27|
+|Sprint 3 Velocity|26|
+|Sum of Story Points|35|
 
   #### 5.2.3.2. Sprint Backlog 3
 
@@ -1874,11 +1874,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
   | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
   |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
   | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | ebdbd1e                                 | Initial commit       | Empty | 09/06/2024 |
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Implement TS01       | Add plan section in landing-page for visitor visual | 09/06/2024 |
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 66e031b                                 | feat: Implement TS02       | Implemented the members section | 09/06/2024 |
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | bced3d2                                 | feat: Implement TS05       | Add arrow | 09/06/2024 |
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 9c82028                                 | feat: Implement TS08       | Add footer icons | 09/06/2024 |
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 9c84728                                 | feat: Implement TS11       | Add footer icons | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Upload services-web folder       | Folder for the files of the web services first version | 09/06/2024 |
   
   #### 5.2.3.4. Testing Suite Evidence for Sprint Review
   Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
