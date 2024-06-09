@@ -1808,8 +1808,8 @@ Header:
   #### 5.2.2.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed On (Date)** |
 | --- | --- | --- | --- | --- | --- |
-| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | e39d79e| feat: Create frontend folder
-| Empthy| 03/05/2024 |
+| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | e39d79e| feat: Create frontend folder| Empthy| 03/05/2024 |
+
   
   #### 5.2.2.4. Testing Suite Evidence for Sprint Review
   Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
@@ -1853,19 +1853,65 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 ### 5.2.3. Sprint 3
   #### 5.2.3.1. Sprint Planning 3
 
+  |Sprint 3|Sprint 3|
+| :-: | :-: |
+|Sprint Planning Background||
+|Date|2024-06-1|
+|Time|2:23 PM|
+|Location|Reunion virtual mediante videoconferencia.|
+|Prepared by|Mendez Lopez, Sebastian Alonso|
+|Attendees (to planning meeting)|Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias|
+|**Sprint 3 Review Summary**|Se realizo y actualizo cambios al frontend, completando así por completo el proyecto y sobre todo implementando los demás user stories.|
+|**Sprint 3 Retrospective Summary**|Debemos invertir un poco más de tiempo en realizar funcionalidades para seguir teniendo tiempo al momento de cumplir con la fecha programa del sprint|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|La implementación de la primera versión del backend|
+|Sprint 3 Velocity|30|
+|Sum of Story Points|27|
+
   #### 5.2.3.2. Sprint Backlog 3
+
+| **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
+| ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
+|TS02|Gestionar reservas de espacios de juego|T01|Implementar endpoints para gestionar reservas de espacios de juego|Implementar endpoints en el API para que los usuarios gestionen reservas de espacios de juego.|10|S. Mendez|Done|
+|TS01|Obtener información de espacios de juego disponibles|T02|Implementar endpoint para obtener información de espacios de juego disponibles|Implementar un endpoint en el API para obtener información sobre los espacios 5de juego disponibles.|5|H. Centurion|Done|
+|TS11|Gestionar cuentas de usuario|T03|Implementar endpoints para gestionar cuentas de usuario|Implementar endpoints en el API para que los usuarios gestionen sus cuentas y preferencias.|3|S. Frisancho|Done|
+|TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T04|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|Done|
+|TS06|Validación de datos de entrada|T05|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|Done|
+|TS09|Implementar funcionalidad de inicio de sesión seguro|T06|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|Done|
+|TS05|Procesar pagos de forma segura y confiable|T07|Implementar endpoints para procesar pagos de forma segura|Implementar endpoints en el API para procesar pagos de forma segura.|5|H. Centurion|Done|
+|TS08|Sistema de alertas de disponibilidad|T08|Implementar sistema de alertas de disponibilidad|Implementar un sistema de alertas para informar a los usuarios sobre cambios en la disponibilidad.|5|S. Frisancho|To-Do|
+|TS07|Seguridad y protección de datos|T09|Implementar medidas de seguridad y protección de datos|Implementar medidas de seguridad para proteger la información del usuario.|3|J. Atencio|To-Do|
+|TS10|Agregar funcionalidad de recuperación de contraseña|T10|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|To-Do|
+|TS03|Gestionar calificaciones y comentarios de usuarios|T11|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|2|S. Mendez|To-Do|
   
   #### 5.2.3.3. Development Evidence for Sprint Review
   
+  
   #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+  Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
 
   #### 5.2.3.5. Execution Evidence for Sprint Review
+  Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
   
   #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+  Para el caso, ya hemos implementado los datos de nuestra aplicacion en la base de datos, usando una base de datos relacional con la herramienta mySQL, para poder ver nuestros campos, ademas desarrollamos nuestro backend con el lenguaje java.
   
   #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace:
   
   #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+  - **Refinamiento de requisitos y mejora de la arquitectura del sistema:** Se analizaron los resultados de las entrevistas para refinar los requisitos del backend, mejorando la arquitectura del sistema y la estructura de la base de datos. (Francis Mamani)
+
+  - **Pruebas de integración y optimización del rendimiento:** Se realizaron pruebas de integración y rendimiento en el backend para evaluar y optimizar su funcionamiento, garantizando una experiencia de usuario fluida y eficiente. (Sebastián Frisancho)
+
+  - **Revisión de código y aseguramiento de calidad:** Se coordinó la revisión de código entre pares, enfocándose en asegurar la calidad y consistencia del código backend del proyecto, y facilitando sesiones de retroalimentación técnica. (Henry Centurion)
+
+  - **Implementación de servicios y APIs, y presentación del progreso:** Se implementaron servicios y APIs críticos, presentando el progreso del proyecto en reuniones de sprint y recibiendo retroalimentación de los interesados para mejorar la funcionalidad y eficiencia del backend. (John Atencio)
+
+  - **Mejoramiento de lógica y desarrollo de componentes en la API:** Se optimizaron los métodos de la API, mejorando la lógica interna para aumentar la eficiencia. Además, se desarrollaron varios componentes nuevos para enriquecer las funcionalidades existentes del backend. (Sebastián Méndez)
 
 
 ## 5.3. Validation Interviews
@@ -1961,7 +2007,6 @@ Los problemas seran puntuados tomando en cuenta la siguiente escala de severidad
 - **Recomendación:** Se sugiere, mejorar la sección que explica la misión de la aplicación para hacerla más explícita y fácilmente comprensible para los usuarios.
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Euristica3.png" width="450" height="300" alt="UPC">
 
-
 - **Problema #4:** Falta de amigabilidad visual con el público objetivo.
 - **Severidad:** 3
 - **Heurística violada:** Diseño estético y minimalista
@@ -1991,7 +2036,7 @@ En las siguientes secciones, exploraremos en detalle las conclusiones extraídas
 - La popularidad arraigada del fútbol y el creciente interés en el billar en Lima Metropolitana indican un mercado potencialmente vasto para D'Taquito. Nuestros estudios de mercado revelaron que una gran cantidad de personas, aproximadamente el 71.8% según nuestras encuestas, juegan fútbol al menos una vez a la semana. Además, un porcentaje significativo de estos jugadores expresó interés en la reserva de canchas sintéticas, lo que subraya aún más la demanda latente en el mercado. El hecho de que el 89.6% de los encuestados estén dispuestos a utilizar una plataforma digital para agilizar las reservas confirma la necesidad y el potencial de una solución como D'Taquito en el mercado.
 - D'Taquito se distingue en el mercado por ofrecer una experiencia de usuario superior y una solución integral para la reserva de instalaciones deportivas. Nuestra plataforma web ofrece una interfaz intuitiva y fácil de usar, permitiendo a los usuarios encontrar y reservar instalaciones desde cualquier dispositivo con acceso a Internet. La amplitud de opciones disponibles, combinada con información detallada sobre cada instalación, como fotos e instalaciones disponibles, resalta la propuesta de valor de D'Taquito. Además, la integración de opciones de pago seguro garantiza transacciones confiables y sin complicaciones para nuestros usuarios.
 - La plataforma de D'Taquito se centra en mejorar significativamente la experiencia del usuario al proporcionar una amplia gama de opciones de canchas y salones disponibles en diferentes ubicaciones. Nuestro objetivo es facilitar a los usuarios la búsqueda y reserva de instalaciones deportivas de manera rápida y sencilla. Además, la información detallada sobre cada instalación, combinada con opciones de pago seguro integradas, garantiza que los usuarios puedan tomar decisiones informadas y realizar transacciones de forma confiable a través de nuestra plataforma.Reconocemos que el éxito a largo plazo de D'Taquito depende de nuestra capacidad para adaptarnos y mejorar constantemente para satisfacer las necesidades cambiantes de nuestros usuarios. Planeamos expandirnos más allá de Lima Metropolitana y explorar oportunidades en otras ciudades y países. Además, estamos comprometidos con la mejora continua de nuestra plataforma, mediante la integración de nuevas características, la optimización para dispositivos móviles y la implementación de retroalimentación de los usuarios para garantizar que D'Taquito siga siendo líder en el mercado de reserva de instalaciones deportivas.
-
+- El backend de D'Taquito se ha creado para hacer que reservar espacios deportivos sea rápido y seguro. Nos hemos centrado en garantizar la protección de los datos de los usuarios y en ofrecer una experiencia fluida, incluso en momentos de mucha demanda. Con sistemas de alertas y validación de datos, buscamos mejorar aún más la confiabilidad de la plataforma. Además, estamos comprometidos a seguir mejorando y adaptando nuestro backend para satisfacer las necesidades de los usuarios y mantenernos a la vanguardia. Como equipo, nos esforzamos por ofrecer la mejor experiencia posible mientras D'Taquito sigue creciendo.
 
 # Bibliografia
 
