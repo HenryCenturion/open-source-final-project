@@ -1901,7 +1901,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
   
   #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace:
+  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace: https://dtaquito-back.azurewebsites.net/api/v1/{llamado_de_apis} (Ver anexos)
   
   #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2080,7 +2080,7 @@ Enlace al deploy del web aplication:
 https://tf-open-source.netlify.app/
 
 Enlace al deploy del web service:
-https://dtaquito-backend-production.app.railway.app/ (Insertar endpoints)
+https://dtaquito-back.azurewebsites.net/api/v1/users, suscriptions, reservations, sport-spaces, payments   (Insertar endpoints) (Probar con postman o swagger)
 
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project
