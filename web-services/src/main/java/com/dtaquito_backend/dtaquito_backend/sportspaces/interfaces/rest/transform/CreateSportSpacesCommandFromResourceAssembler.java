@@ -1,0 +1,11 @@
+package com.dtaquito_backend.dtaquito_backend.sportspaces.interfaces.rest.transform;
+
+import com.dtaquito_backend.dtaquito_backend.sportspaces.domain.model.commands.CreateSportSpacesCommand;
+import com.dtaquito_backend.dtaquito_backend.sportspaces.interfaces.rest.resources.CreateSportSpacesResource;
+
+public class CreateSportSpacesCommandFromResourceAssembler {
+
+    public static CreateSportSpacesCommand toCommandFromResource(CreateSportSpacesResource resource) {
+        return new CreateSportSpacesCommand(resource.name(),resource.imageUrl(), resource.price(), resource.description(), resource.userId(), resource.startTime(), resource.endTime());
+    }
+}
