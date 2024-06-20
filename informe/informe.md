@@ -1942,7 +1942,7 @@ Entrevista N°1:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado1.png" alt="UPC">
 
-- **Entrevistador:** Henry Centurion
+- **Entrevistador:** Sebastian Mendez
 - **Entrevistado:** Patrizio Mere
 - **Sexo:** Masculino
 - **Edad:** 19 años
@@ -1955,8 +1955,8 @@ Entrevista N°2:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//enrique.png" alt="UPC">
 
-- **Entrevistador:** Enrique Alarcon
-- **Entrevistado:** Henry Centurion
+- **Entrevistador:** Henry Centurion
+- **Entrevistado:** Enrique Alarcon
 - **Sexo:** Masculino
 - **Edad:** 19 años
 - **Distrito:** Lima
