@@ -1396,7 +1396,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-<img src="https://github.com/HenryCenturion/open-source-final-project/blob/13f33de46772af97f952ceb0a12e32f5903d019e/images/structurizr-86931-Contexto.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-context-1.png" alt="UPC">
 
 </div>
 
@@ -1404,7 +1404,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-<img src="https://github.com/HenryCenturion/open-source-final-project/blob/13f33de46772af97f952ceb0a12e32f5903d019e/images/structurizr-86931-Contenedor%20(1).png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-container-1.png" alt="UPC">
 
 </div>
 
@@ -1413,7 +1413,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-<img src="https://github.com/HenryCenturion/open-source-final-project/blob/13f33de46772af97f952ceb0a12e32f5903d019e/images/structurizr-86931-API%20Rest%20Component%20Diagram.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-components-1.png" alt="UPC">
 
 </div>
 
