@@ -1767,27 +1767,27 @@ Header:
 | **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
 | ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
 | US13 | Reservar un espacio de juego                  | T01                 | Crear lógica para reservar espacio de juego | Implementar lógica para reservar espacio de juego usando Angular. | 10                            | H. Centurion      | Done |
-| US12 | Ver horarios de los espacios de juego    | T02                 | Crear lógica para mostrar horarios          | Crear lógica para mostrar horarios usando Angular. | 5                            | S. Frisancho     | Done    |
-| US16 | Cancelar una reserva de un espacio de juego | T03                 | Crear lógica para cancelar reserva         | Desarrollar lógica para cancelar reserva usando Angular. | 3                            | J. Atencio         | Done         |
-| US09 | Visualizar los espacios de juego          | T04                 | Crear lógica para visualizar espacios       | Crear lógica para visualizar espacios usando Angular. | 4                            | S. Mendez         | Done    |
-| US10 | Visualizar características de los espacios de juego | T05                 | Crear lógica para mostrar características | Crear lógica para mostrar características usando Angular. | 6                            | F. Mamani       | Done |
-| US11 | Aplicar filtros de búsqueda                 | T06                 | Crear lógica para aplicar filtros           | Desarrollar lógica para aplicar filtros usando Angular. | 2                            | H. Centurion      | Done    |
-| US14 | Ver reservas activas de un espacio de juego | T07                 | Crear lógica para mostrar reservas activas | Crear lógica para mostrar reservas activas usando Angular. | 5                            | S. Frisancho     | Done         |
-| US15 | Ver historial de reservas de espacios de juego | T08                 | Crear lógica para mostrar historial de reservas | Desarrollar lógica para mostrar historial de reservas usando Angular. | 6                            | J. Atencio         | Done    |
-| US17 | Ver una suscripción                        | T09                 | Crear lógica para mostrar suscripción      | Desarrollar lógica para mostrar suscripción usando Angular. | 3                            | S. Mendez         | Done        |
-| US18 | Adquirir una suscripción                 | T10                 | Crear lógica para adquirir suscripción      | Desarrollar lógica para adquirir suscripción usando Angular. | 4                            | F. Mamani       | Done    |
-| US19 | Cancelar una suscripción              | T11                 | Crear lógica para cancelar suscripción      | Desarrollar lógica para cancelar suscripción usando Angular. | 2                            | H. Centurion      | Done        |
-| US28 | Añadir un espacio de juego              | T12                 | Crear lógica para añadir espacio de juego | Desarrollar lógica para añadir espacio de juego usando Angular. | 8                            | S. Frisancho     | Done |
-| US01 | Registro de cuenta de rentor            | T13                 | Crear lógica para registro de rentor        | Desarrollar lógica para registro de rentor usando Angular. | 4                            | J. Atencio         | Done    |
-| US02 | Inicio de sesión de cuenta              | T14                 | Crear lógica para inicio de sesión         | Desarrollar lógica para inicio de sesión usando Angular. | 3                            | S. Mendez         | Done    |
-| US29 | Editar un espacio de juego               | T15                 | Crear lógica para editar espacio de juego | Desarrollar lógica para editar espacio de juego usando Angular. | 3                           | F. Mamani       | Done |
-| US03 | Ver perfil de rentor                         | T16                 | Crear lógica para mostrar perfil de rentor | Crear lógica para mostrar perfil de rentor usando Angular. | 2                            | H. Centurion      | Done    |
-| US04 | Editar perfil de rentor                      | T17                 | Crear lógica para editar perfil de rentor  | Desarrollar lógica para editar perfil de rentor usando Angular. | 4                            | S. Frisancho     | Done         |
-| US06 | Visualizar tarjetas como método de pago | T18                 | Crear lógica para visualizar tarjetas       | Desarrollar lógica para visualizar tarjetas usando Angular. | 3                            | J. Atencio         | Done    |
-| US07 | Agregar una tarjeta como método de pago | T19                 | Crear lógica para agregar tarjeta          | Desarrollar lógica para agregar tarjeta usando Angular. | 3                            | S. Mendez         | Done |
-| US30 | Eliminar un espacio de juego             | T20                 | Crear lógica para eliminar espacio de juego | Desarrollar lógica para eliminar espacio de juego usando Angular. | 2                           | F. Mamani       | Done         |
-| US05 | Editar tarjeta como método de pago     | T21                 | Crear lógica para editar tarjeta             | Desarrollar lógica para editar tarjeta usando Angular. | 2                            | H. Centurion      | Done    |
-| US08 | Borrar un método de pago               | T22                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Done |
+| US12 | Ver horarios de los espacios de juego    | T01                | Crear lógica para mostrar horarios          | Crear lógica para mostrar horarios usando Angular. | 5                            | S. Frisancho     | Done    |
+| US16 | Cancelar una reserva de un espacio de juego | T01                 | Crear lógica para cancelar reserva         | Desarrollar lógica para cancelar reserva usando Angular. | 3                            | J. Atencio         | Done         |
+| US09 | Visualizar los espacios de juego          | T01                 | Crear lógica para visualizar espacios       | Crear lógica para visualizar espacios usando Angular. | 4                            | S. Mendez         | Done    |
+| US10 | Visualizar características de los espacios de juego | T01                 | Crear lógica para mostrar características | Crear lógica para mostrar características usando Angular. | 6                            | F. Mamani       | Done |
+| US11 | Aplicar filtros de búsqueda                 | T01                 | Crear lógica para aplicar filtros           | Desarrollar lógica para aplicar filtros usando Angular. | 2                            | H. Centurion      | Done    |
+| US14 | Ver reservas activas de un espacio de juego | T01                 | Crear lógica para mostrar reservas activas | Crear lógica para mostrar reservas activas usando Angular. | 5                            | S. Frisancho     | Done         |
+| US15 | Ver historial de reservas de espacios de juego | T01                 | Crear lógica para mostrar historial de reservas | Desarrollar lógica para mostrar historial de reservas usando Angular. | 6                            | J. Atencio         | Done    |
+| US17 | Ver una suscripción                        | T01                 | Crear lógica para mostrar suscripción      | Desarrollar lógica para mostrar suscripción usando Angular. | 3                            | S. Mendez         | Done        |
+| US18 | Adquirir una suscripción                 | T01                 | Crear lógica para adquirir suscripción      | Desarrollar lógica para adquirir suscripción usando Angular. | 4                            | F. Mamani       | Done    |
+| US19 | Cancelar una suscripción              | T01                 | Crear lógica para cancelar suscripción      | Desarrollar lógica para cancelar suscripción usando Angular. | 2                            | H. Centurion      | Done        |
+| US28 | Añadir un espacio de juego              | T01                 | Crear lógica para añadir espacio de juego | Desarrollar lógica para añadir espacio de juego usando Angular. | 8                            | S. Frisancho     | Done |
+| US01 | Registro de cuenta de rentor            | T01                 | Crear lógica para registro de rentor        | Desarrollar lógica para registro de rentor usando Angular. | 4                            | J. Atencio         | Done    |
+| US02 | Inicio de sesión de cuenta              | T01                 | Crear lógica para inicio de sesión         | Desarrollar lógica para inicio de sesión usando Angular. | 3                            | S. Mendez         | Done    |
+| US29 | Editar un espacio de juego               | T01                 | Crear lógica para editar espacio de juego | Desarrollar lógica para editar espacio de juego usando Angular. | 3                           | F. Mamani       | Done |
+| US03 | Ver perfil de rentor                         | T01                 | Crear lógica para mostrar perfil de rentor | Crear lógica para mostrar perfil de rentor usando Angular. | 2                            | H. Centurion      | Done    |
+| US04 | Editar perfil de rentor                      | T01                 | Crear lógica para editar perfil de rentor  | Desarrollar lógica para editar perfil de rentor usando Angular. | 4                            | S. Frisancho     | Done         |
+| US06 | Visualizar tarjetas como método de pago | T01                 | Crear lógica para visualizar tarjetas       | Desarrollar lógica para visualizar tarjetas usando Angular. | 3                            | J. Atencio         | Done    |
+| US07 | Agregar una tarjeta como método de pago | T01                 | Crear lógica para agregar tarjeta          | Desarrollar lógica para agregar tarjeta usando Angular. | 3                            | S. Mendez         | Done |
+| US30 | Eliminar un espacio de juego             | T01                 | Crear lógica para eliminar espacio de juego | Desarrollar lógica para eliminar espacio de juego usando Angular. | 2                           | F. Mamani       | Done         |
+| US05 | Editar tarjeta como método de pago     | T01                 | Crear lógica para editar tarjeta             | Desarrollar lógica para editar tarjeta usando Angular. | 2                            | H. Centurion      | Done    |
+| US08 | Borrar un método de pago               | T01                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Done |
 
 
   #### 5.2.2.3. Development Evidence for Sprint Review
@@ -1851,7 +1851,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|La implementación de la primera versión del backend|
 |Sprint 3 Velocity|26|
-|Sum of Story Points|35|
+|Sum of Story Points|40|
 
   #### 5.2.3.2. Sprint Backlog 3
 
