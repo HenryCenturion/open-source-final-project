@@ -1547,7 +1547,7 @@ Class MesaDeBillar
 
 <div style="text-align: justify;">
   
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//diagrama_bd.png" alt="UPC">  
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//diagrama-base-de-datos.png" alt="UPC">
 </div>
 
 # V. Product Design
