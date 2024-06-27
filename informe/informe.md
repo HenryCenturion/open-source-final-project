@@ -157,6 +157,7 @@
   | 1.0 | 14-04-24 | Grupo Tecny | Completado los 5 capitulos del informe y la elaboracion de la primera version del landing page. |
   | 2.0| 03-05-24 | Grupo Tecny | Correcciones anteriores y elaboracion de la primera version del front web application. |
   | 3.0| 03-05-24 | Grupo Tecny | Correcciones anteriores y elaboracion de la primera version del web services. |
+  | 4.0| 27-06-24 | Grupo Tecny | Correcciones anteriores y artefactos en versión final. |
 
 ### Capitulos <br>
   [Capitulo I - Introduction](#i-introduccion) <br>
@@ -1042,9 +1043,9 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | :-: | :-: | :-: | :-: | :-: |
 |US01|Registro de cuenta de usuario|Como usuario rentor o propietario deseo registrarme para tener una cuenta en la aplicación web D'Taquito|<p>***Escenario 1: Registro de cuenta exitoso***</p><p></p><p>Dado que el usuario rentor o propietario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación crea la cuenta para el usuario</p><p>Y la aplicación web redirecciona al usuario al login</p><p></p><p>***Escenario 2: Registro de cuenta fallido por insertar datos incorrectos***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta incompletos e incorrectos en los campos: nombre, teléfono, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web solicita que se corrijan los campos con la información correcta</p><p></p><p>***Escenario 3: Registro de cuenta fallido por un correo ya registrado***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un correo en uso</p>|EP01|
 |US02|Inicio de sesión de cuenta|Como usuario rentor o propietario deseo poder ingresar a mi cuenta para usar de las funcionalidades de la aplicación web D'Taquito|<p>***Escenario 1: Éxito al iniciar sesión***</p><p></p><p>Dado que el usuario se encuentra registrado en la aplicación web </p><p>Y el usuario se encuentra en la pestaña de inicio de sesión</p><p>Cuando el usuario escriba correctamente su correo y su contraseña</p><p>Y haga clic en el botón "iniciar sesión"</p><p>Entonces la aplicación web llevará al usuario a la página principal</p><p></p><p>***Escenario 2: Error al iniciar sesión***</p><p></p><p>Dado que el usuario se encuentra registrado en la aplicación web </p><p>Y el usuario se encuentra en la pestaña de inicio de sesión</p><p>Cuando el usuario escriba incorrectamente su correo y/o su contraseña</p><p>Y haga clic en el botón "iniciar sesión"</p><p>Entonces la aplicación web notifica que ocurrió un error en los datos proporcionados</p><p>Y solicita al usuario ingresar sus datos correctos</p>|EP01|
-|US03|Ver perfil de usuario|Como usuario rentor o propietario quiero acceder a mi perfil para visualizar mis datos personales|<p>***Escenario 1: Acceso a perfil***</p><p></p><p>Dado que el usuario se encuentra en la página principal</p><p>Cuando el usuario da clic al botón "Mi cuenta" en la parte del encabezado</p><p>Y da clic en "Mi perfil"</p><p>Entonces, la aplicación muestra la información de perfil del usuario</p>|EP01|
+|US03|Ver perfil de usuario|Como usuario rentor o propietario quiero acceder a mi perfil para visualizar mis datos personales|<p>***Escenario 1: Acceso a perfil***</p><p></p><p>Dado que el usuario se encuentra logueado y en la página principal</p><p>Cuando el usuario da clic al botón "Mi cuenta" en la parte del encabezado</p><p>Y da clic en "Mi perfil"</p><p>Entonces, la aplicación muestra la información de perfil del usuario</p>|EP01|
 |US04|Editar perfil de usuario|Como usuario rentor o propietario deseo acceder a mi perfil para editar mis datos personales|<p>***Escenario 1: Edición de información correcta***</p><p></p><p>Dado que el usuario está dentro de la sección “Mi Perfil”</p><p>Y da clic en el botón "Editar perfil"</p><p>Cuando el usuario edita correctamente su información completa</p><p>Y da clic en el botón “Confirmar”</p><p>Entonces la aplicación web actualiza la información del usuario.</p><p></p><p>***Escenario 2: Edición de información incorrecta***</p><p></p><p>Dado que el usuario está dentro de la sección “Mi Perfil”</p><p>Y da clic en el boton "Editar perfil"</p><p>Cuando el usuario edita incorrectamente su información completa</p><p>Y da clic en el botón “Editar”</p><p>Entonces la aplicación muestra un error al editar.</p>|EP01|
-|US05|Visualizar tarjeta como método de pago|Como usuario rentor quiero visualizar mis tarjetas registradas para gestionarlas|<p>***Escenario 1: Ver información de pago***</p><p></p><p>Dado que el usuario rentor está en la página principal</p><p>Cuando el usuario rentor da clic a su ícono en la esquina superior de la aplicación web</p><p>Y selecciona la opción “Mi cuenta”<p>Y da clic en </p>Método de pago</p><p>Entonces la aplicación web muestra la información de pago del usuario rentor</p>|EP02|
+|US05|Visualizar tarjeta como método de pago|Como usuario rentor o propietario quiero visualizar mi tarjeta registrada para gestionarla|<p>***Escenario 1: Ver información de pago***</p><p></p><p>Dado que el usuario rentor o propietario está en la página principal</p><p>Cuando el usuario rentor da clic al botón "Mi cuenta"</p><p>Y selecciona la opción “Mi cuenta”<p>Y da clic en </p>Método de pago</p><p>Entonces la aplicación web muestra la información de pago del usuario rentor</p>|EP02|
 |US06|Agregar una tarjeta como método de pago|Como usuario quiero agregar mi tarjeta para pagar mis reservas|<p>***Escenario 1: Éxito al agregar tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta”</p><p>Cuando el usuario rentor introduce correctamente sus credenciales (nombre del dueño, nombre del banco, número de tarjeta, fecha de expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web agrega la información de pago del usuario rentor.</p><p></p><p>***Escenario 2: Error al agregar tarjeta por datos incorrectos***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta”</p><p>Cuando el usuario rentor introduce incorrectamente sus credenciales (nombre del dueño, nombre del banco, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un error en los datos ingresados</p><p>Y el usuario rentor debe corregir los campos necesarios</p><p></p><p>***Escenario 3: Error al agregar tarjeta por exceso de registros***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta</p><p>Cuando el usuario introduce correctamente sus credenciales (nombre del dueño, nombre del banco, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un método de pago, que solo puede tener registrado uno</p>|EP02|
 |US07|Editar tarjeta como método de pago|Como usuario rentor quiero editar la información de mi tarjeta para actualizar mis datos financieros|<p>***Escenario 1: Éxito al editar información de la tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y selecciona una tarjeta existente</p><p>Y da clic en “Editar”</p><p>Cuando el usuario rentor introduce correctamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web actualiza la información de pago del usuario rentor.</p><p></p><p>***Escenario 2: Error al editar información de la tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y selecciona una tarjeta</p><p>Y da clic en “Editar”</p><p>Cuando el usuario rentor introduce incorrectamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un error por ingresar datos incorrectos</p><p>Y el usuario rentor debe corregir los campos necesarios</p>|EP02|
 |US08|Borrar un método de pago|Como usuario rentor quiero borrar una tarjeta para que ya no esté disponible|<p>***Escenario 1: Borrar tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Cuando el usuario rentor selecciona una tarjeta existente</p><p>Y da clic en “Borrar”</p><p>Entonces la aplicación web elimina el método de pago de la información de pago del usuario rentor</p><p></p>|EP02|
@@ -1870,7 +1871,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|La implementación de la primera versión del backend|
 |Sprint 3 Velocity|26|
-|Sum of Story Points|40|
+|Sum of Story Points|41|
 
   #### 5.2.3.2. Sprint Backlog 3
 
@@ -1945,51 +1946,52 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 |Location|Reunion virtual mediante videoconferencia.|
 |Prepared by|Mendez Lopez, Sebastian Alonso|
 |Attendees (to planning meeting)|Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias|
-|**Sprint 3 Review Summary**|Se realizo en su mayoria lo planeado del desarrollo del backend, implementando en gran parte las user stories propuestas.|
+|**Sprint 3 Review Summary**|Se realizo en su mayoria lo planeado del desarrollo del backend, implementando en gran parte las technical stories propuestas.|
 |**Sprint 3 Retrospective Summary**|Debemos tener mejor organizacion, para asi poder completar e implementar las user stories restantes en nuestro sprint.|
 |**Sprint Goal & User Stories**||
-|Sprint 4 Goal|La implementación de la segunda versión del backend y de el IAM.|
-|Sprint 4 Velocity||
-|Sum of Story Points||
+|Sprint 4 Goal|La implementación de la versión final del backend y de el IAM.|
+|Sprint 4 Velocity|10|
+|Sum of Story Points|15|
 
   #### 5.2.4.2. Sprint Backlog 4
 
 | **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
 | ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
-|TS02|Gestionar reservas de espacios de juego|T01|Implementar endpoints para gestionar reservas de espacios de juego|Implementar endpoints en el API para que los usuarios gestionen reservas de espacios de juego.|10|S. Mendez|Done|
-|TS01|Gestionar información de los espacios de juego|T01|Implementar endpoint para obtener información de espacios de juego disponibles|Implementar un endpoint en el API para obtener información sobre los espacios de juego disponibles.|5|H. Centurion|Done|
-|TS11|Gestionar cuentas de usuario|T01|Implementar endpoints para gestionar cuentas de usuario|Implementar endpoints en el API para que los usuarios gestionen sus cuentas y preferencias.|3|S. Frisancho|Done|
+
 |TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T01|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|Done|
 |TS06|Validación de datos de entrada|T01|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|Done|
 |TS09|Implementar funcionalidad de inicio de sesión seguro|T01|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|Done|
-|TS05|Gestión de método de pago|T01|Implementar endpoints para procesar pagos de forma segura|Implementar endpoints en el API para procesar pagos de forma segura.|5|H. Centurion|Done|
-|TS08|Gestión de suscripciones|T01|Implementar sistema de subscripciones|Implementar endpoints en el API para gestionar las subscripciones dentro de la app.|5|S. Frisancho|Done|
 |TS07|Seguridad y protección de datos|T01|Implementar medidas de seguridad y protección de datos|Implementar medidas de seguridad para proteger la información del usuario.|3|J. Atencio|Done|
-|TS10|Agregar funcionalidad de recuperación de contraseña|T01|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|Done|
-|TS03|Gestionar calificaciones y comentarios de usuarios|T01|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|2|S. Mendez|Done|
+|TS10|Agregar funcionalidad de recuperación de contraseña|T01|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|To-Do|
+|TS03|Gestionar calificaciones y comentarios de usuarios|T01|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|3|S. Mendez|To-Do|
   
   #### 5.2.4.3. Development Evidence for Sprint Review
 
   | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
   |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
   | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | ebdbd1e                                 | Initial commit       | Empty | 09/06/2024 |
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Upload services-web folder       | Folder for the files of the web services first version | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Upload services-web folder       | New techincal stories for the backend | 09/06/2024 |
   
   #### 5.2.4.4. Testing Suite Evidence for Sprint Review
   Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
 
-
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test2.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test3.PNG" alt="UPC">
 
   #### 5.2.4.5. Execution Evidence for Sprint Review
   Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
 
- 
+   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution2.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution3.PNG" alt="UPC">
   
   #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
   Para el caso, ya hemos implementado los datos de nuestra aplicacion en la base de datos, usando una base de datos relacional con la herramienta mySQL, para poder ver nuestros campos, ademas desarrollamos nuestro backend con el lenguaje java.
 
-  
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql2.PNG" alt="UPC">
   
   #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
