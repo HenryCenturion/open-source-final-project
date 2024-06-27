@@ -1957,7 +1957,6 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 
 | **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
 | ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
-
 |TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T01|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|Done|
 |TS06|Validación de datos de entrada|T01|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|Done|
 |TS09|Implementar funcionalidad de inicio de sesión seguro|T01|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|Done|
