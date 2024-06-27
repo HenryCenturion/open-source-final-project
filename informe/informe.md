@@ -89,6 +89,8 @@
       TP: John Atencio: Coordinar y organizar reuniones con el equipo para mejorar la comunicación y el flujo de información durante el desarrollo del proyecto.
       <br><br>
       TB2: John Atencio: Implementé servicios y APIs, y presenté el progreso del proyecto, recibiendo retroalimentación de los interesados para mejorar la funcionalidad backend.
+      <br><br>
+      TF: John Atencio: Realicé revisiones exhaustivas de los servicios y APIs implementados, presentando el progreso del proyecto en las reuniones finales. La retroalimentación recibida de los interesados se utilizó para perfeccionar y optimizar la funcionalidad del backend.
     </td>
     <td rowspan="5" valign="middle">
       En nuestras conclusiones, hemos puesto énfasis en el valor y la importancia de la comunicación efectiva dentro de nuestro equipo. Este énfasis se ha centrado en la aplicación práctica de habilidades técnicas específicas que han demostrado ser fundamentales para mejorar nuestra interacción y colaboración.
@@ -107,6 +109,8 @@
       TP: Henry Centurion: He dirigido el ordenamiento del codigo para lograr el domain design.
       <br><br>
       TB2: Henry Centurion: Coordiné la revisión de código entre pares para asegurar la calidad y consistencia del código backend del proyecto.
+      <br><br>
+      TF: Henry Centurion:  Coordiné la revisión de código entre el grupo para asegurar la máxima calidad y consistencia en el código backend, contribuyendo a la robustez y fiabilidad del sistema.
     </td>
   </tr>
   <tr>
@@ -116,6 +120,8 @@
       TP: Sebastián Frisancho: Estuve viendo las partes del logeo y autorización el usuario.
       <br><br>
       TB2: Sebastián Frisancho: Realicé pruebas de integración y rendimiento para evaluar y optimizar el funcionamiento del backend.
+      <br><br>
+      TF: Sebastián Frisancho: Realicé pruebas exhaustivas de integración y rendimiento, evaluando y optimizando el funcionamiento del backend para garantizar una experiencia de usuario óptima y eficiente.
     </td>
   </tr>
   <tr>
@@ -125,6 +131,8 @@
       TP: Francis Mamani: Estuve viendo la parte grafica de los componentes y así luzca mejor la interfaz.
       <br><br>
       TB2: Francis Mamani: Analicé los resultados de las entrevistas para refinar los requisitos y mejorar la arquitectura del sistema y la estructura de la base de datos.
+      <br><br>
+      TF: Francis Mamani: Analicé detalladamente los resultados de las entrevistas para refinar los requisitos, mejorando tanto la arquitectura del sistema como la estructura de la base de datos, asegurando una base sólida para el backend.
     </td>
   </tr>
   <tr>
@@ -134,6 +142,8 @@
       TP: Sebastián Mendez: Estuve desarrollando casi gran parte de los componentes y web front applications.
       <br><br>
       TB2: Sebastián Mendez: Facilitó sesiones de retroalimentación para evaluar el progreso y desarrolle gran parte del backend.
+      <br><br>
+      TF: Sebastián Mendez: Facilité sesiones de retroalimentación para evaluar el progreso y desarrollé gran parte del backend. Además, implementé el sistema de Gestión de Identidades y Accesos (IAM) para fortalecer la seguridad y el control de acceso del sistema.
     </td>
   </tr>
 </table>
@@ -243,14 +253,23 @@
       - 5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
       - 5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
     - 5.2.3. [Sprint 3](#522-sprint-3) <br>
-      - 5.2.3.1. [Sprint Planning 2](#5221-sprint-planning-3) <br>
-      - 5.2.3.2. [Sprint Backlog 2](#5222-sprint-backlog-3) <br>
+      - 5.2.3.1. [Sprint Planning 3](#5221-sprint-planning-3) <br>
+      - 5.2.3.2. [Sprint Backlog 3](#5222-sprint-backlog-3) <br>
       - 5.2.3.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
       - 5.2.3.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
       - 5.2.3.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
       - 5.2.3.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
       - 5.2.3.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
       - 5.2.3.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
+    - 5.2.4. [Sprint 4](#522-sprint-3) <br>
+      - 5.2.4.1. [Sprint Planning 4](#5221-sprint-planning-3) <br>
+      - 5.2.4.2. [Sprint Backlog 4](#5222-sprint-backlog-3) <br>
+      - 5.2.4.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+      - 5.2.4.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+      - 5.2.4.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+      - 5.2.4.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+      - 5.2.4.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+      - 5.2.4.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
   - 5.3. [Validation Interviews](#53-validation-interviews) <br>
     - 5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas) <br>
     - 5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas) <br>
