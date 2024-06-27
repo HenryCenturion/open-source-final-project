@@ -1915,6 +1915,94 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 
   - **Mejoramiento de lógica y desarrollo de componentes en la API:** Se optimizaron los métodos de la API, mejorando la lógica interna para aumentar la eficiencia. Además, se desarrollaron varios componentes nuevos para enriquecer las funcionalidades existentes del backend. (Sebastián Méndez)
 
+### 5.2.4. Sprint 4
+  #### 5.2.4.1. Sprint Planning 4
+
+  |Sprint 4|Sprint 4|
+| :-: | :-: |
+|Sprint Planning Background||
+|Date|2024-06-06|
+|Time|6:45 PM|
+|Location|Reunion virtual mediante videoconferencia.|
+|Prepared by|Mendez Lopez, Sebastian Alonso|
+|Attendees (to planning meeting)|Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias|
+|**Sprint 3 Review Summary**|Se realizo en su mayoria lo planeado del desarrollo del backend, implementando en gran parte las user stories propuestas.|
+|**Sprint 3 Retrospective Summary**|Debemos tener mejor organizacion, para asi poder completar e implementar las user stories restantes en nuestro sprint.|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|La implementación de la segunda versión del backend y de el IAM.|
+|Sprint 4 Velocity||
+|Sum of Story Points||
+
+  #### 5.2.4.2. Sprint Backlog 4
+
+| **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
+| ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
+|TS02|Gestionar reservas de espacios de juego|T01|Implementar endpoints para gestionar reservas de espacios de juego|Implementar endpoints en el API para que los usuarios gestionen reservas de espacios de juego.|10|S. Mendez|Done|
+|TS01|Gestionar información de los espacios de juego|T01|Implementar endpoint para obtener información de espacios de juego disponibles|Implementar un endpoint en el API para obtener información sobre los espacios de juego disponibles.|5|H. Centurion|Done|
+|TS11|Gestionar cuentas de usuario|T01|Implementar endpoints para gestionar cuentas de usuario|Implementar endpoints en el API para que los usuarios gestionen sus cuentas y preferencias.|3|S. Frisancho|Done|
+|TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T01|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|To-Do|
+|TS06|Validación de datos de entrada|T01|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|To-Do|
+|TS09|Implementar funcionalidad de inicio de sesión seguro|T01|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|To-Do|
+|TS05|Gestión de método de pago|T01|Implementar endpoints para procesar pagos de forma segura|Implementar endpoints en el API para procesar pagos de forma segura.|5|H. Centurion|Done|
+|TS08|Gestión de suscripciones|T01|Implementar sistema de subscripciones|Implementar endpoints en el API para gestionar las subscripciones dentro de la app.|5|S. Frisancho|Done|
+|TS07|Seguridad y protección de datos|T01|Implementar medidas de seguridad y protección de datos|Implementar medidas de seguridad para proteger la información del usuario.|3|J. Atencio|To-Do|
+|TS10|Agregar funcionalidad de recuperación de contraseña|T01|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|To-Do|
+|TS03|Gestionar calificaciones y comentarios de usuarios|T01|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|2|S. Mendez|Doing|
+  
+  #### 5.2.4.3. Development Evidence for Sprint Review
+
+  | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
+  |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | ebdbd1e                                 | Initial commit       | Empty | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Upload services-web folder       | Folder for the files of the web services first version | 09/06/2024 |
+  
+  #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+  Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
+
+
+
+  #### 5.2.4.5. Execution Evidence for Sprint Review
+  Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
+
+ 
+  
+  #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+  Para el caso, ya hemos implementado los datos de nuestra aplicacion en la base de datos, usando una base de datos relacional con la herramienta mySQL, para poder ver nuestros campos, ademas desarrollamos nuestro backend con el lenguaje java.
+
+  
+  
+  #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace: https://dtaquito-backend.azurewebsites.net/api/v1/{llamado_de_apis} (Ver anexos)
+  
+  #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+**Refinamiento de requisitos y mejora de la arquitectura del sistema:** Se completó el análisis de los resultados de las entrevistas para refinar los requisitos del backend, mejorando la arquitectura del sistema y la estructura de la base de datos. (Francis Mamani)
+
+**Pruebas de integración y optimización del rendimiento:** Se llevaron a cabo pruebas exhaustivas de integración y rendimiento en el backend, evaluando y optimizando su funcionamiento para garantizar una experiencia de usuario fluida y eficiente. (Sebastián Frisancho)
+
+**Revisión de código y aseguramiento de calidad:** Se coordinó una revisión exhaustiva de código entre pares, asegurando la calidad y consistencia del código backend del proyecto, y facilitando sesiones de retroalimentación técnica para mejoras continuas. (Henry Centurion)
+
+**Implementación de servicios y APIs, y presentación del progreso:** Se implementaron todos los servicios y APIs críticos, presentando continuamente el progreso del proyecto en reuniones de sprint y recibiendo retroalimentación de los interesados para perfeccionar la funcionalidad y eficiencia del backend. (John Atencio)
+
+**Mejoramiento de lógica y desarrollo de componentes en la API:** Se optimizaron los métodos de la API, mejorando la lógica interna para maximizar la eficiencia. Además, se desarrollaron e integraron nuevos componentes para enriquecer las funcionalidades existentes del backend. (Sebastián Méndez)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 5.3. Validation Interviews
 
