@@ -2172,7 +2172,7 @@ Enlace al deploy del web aplication:
 https://tf-open-source.netlify.app/
 
 Enlace al deploy del web service:
-https://dtaquito-backend.azurewebsites.net/api/v1/users, suscriptions, reservations, sport-spaces, payments   (Insertar endpoints) (Probar con postman o swagger)
+https://dtaquito-backend.azurewebsites.net/swagger-ui/index.html
 
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project
