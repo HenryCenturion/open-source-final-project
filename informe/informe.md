@@ -1981,7 +1981,8 @@ Enlace a figma:
 https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=0%3A1&mode=design&t=K3kzNMJ1UGVbxDsc-1
 
 Enlace al deploy del landing page:
-https://landing-page-dtaquito.netlify.app/
+https://dtaquito-new-landing-page.netlify.app/
+
 
 Enlace al deploy del web aplication:
 https://tf-open-source.netlify.app/
