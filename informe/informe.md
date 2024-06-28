@@ -1981,9 +1981,8 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
   #### 5.2.4.5. Execution Evidence for Sprint Review
   Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
 
-   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution1.PNG" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution2.PNG" alt="UPC">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution3.PNG" alt="UPC">
+   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Swager1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Swager2.png" alt="UPC">
   
   #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
