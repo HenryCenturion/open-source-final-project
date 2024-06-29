@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "tf-frontend": {
+    "tf-open-source": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/tf-frontend",
+            "outputPath": "dist/tf-open-source",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -59,10 +59,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "tf-frontend:build:production"
+              "buildTarget": "tf-open-source:build:production"
             },
             "development": {
-              "buildTarget": "tf-frontend:build:development"
+              "buildTarget": "tf-open-source:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -70,7 +70,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "tf-frontend:build"
+            "buildTarget": "tf-open-source:build"
           }
         },
         "test": {
@@ -96,6 +96,6 @@
     }
   },
   "cli": {
-    "analytics": "74700f84-355d-49de-9695-3ab7d138b1f2"
+    "analytics": false
   }
 }

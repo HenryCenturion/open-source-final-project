@@ -88,7 +88,9 @@
       <br><br>
       TP: John Atencio: Coordinar y organizar reuniones con el equipo para mejorar la comunicación y el flujo de información durante el desarrollo del proyecto.
       <br><br>
-      TB2: John Atencio: Implementé presentaciones para mostrar el progreso del proyecto y recibí retroalimentación de los interesados.
+      TB2: John Atencio: Implementé servicios y APIs, y presenté el progreso del proyecto, recibiendo retroalimentación de los interesados para mejorar la funcionalidad backend.
+      <br><br>
+      TF: John Atencio: Realicé revisiones exhaustivas de los servicios y APIs implementados, presentando el progreso del proyecto en las reuniones finales. La retroalimentación recibida de los interesados se utilizó para perfeccionar y optimizar la funcionalidad del backend.
     </td>
     <td rowspan="5" valign="middle">
       En nuestras conclusiones, hemos puesto énfasis en el valor y la importancia de la comunicación efectiva dentro de nuestro equipo. Este énfasis se ha centrado en la aplicación práctica de habilidades técnicas específicas que han demostrado ser fundamentales para mejorar nuestra interacción y colaboración.
@@ -106,7 +108,9 @@
       <br><br>
       TP: Henry Centurion: He dirigido el ordenamiento del codigo para lograr el domain design.
       <br><br>
-      TB2: Henry Centurion: Coordiné la revisión de código entre pares para asegurar la calidad y consistencia del proyecto.
+      TB2: Henry Centurion: Coordiné la revisión de código entre pares para asegurar la calidad y consistencia del código backend del proyecto.
+      <br><br>
+      TF: Henry Centurion:  Coordiné la revisión de código entre el grupo para asegurar la máxima calidad y consistencia en el código backend, contribuyendo a la robustez y fiabilidad del sistema.
     </td>
   </tr>
   <tr>
@@ -116,6 +120,8 @@
       TP: Sebastián Frisancho: Estuve viendo las partes del logeo y autorización el usuario.
       <br><br>
       TB2: Sebastián Frisancho: Realicé pruebas de usuario para evaluar y mejorar la experiencia del usuario en la interfaz gráfica.
+      <br><br>
+      TF: Sebastián Frisancho: Realicé pruebas exhaustivas de integración y rendimiento, evaluando y optimizando el funcionamiento del backend para garantizar una experiencia de usuario óptima y eficiente.
     </td>
   </tr>
   <tr>
@@ -125,6 +131,8 @@
       TP: Francis Mamani: Estuve viendo la parte grafica de los componentes y así luzca mejor la interfaz.
       <br><br>
       TB2: Francis Mamani: Analicé los resultados de las entrevistas para refinar los requisitos y mejorar el diseño de la interfaz.
+      <br><br>
+      TF: Francis Mamani: Analicé detalladamente los resultados de las entrevistas para refinar los requisitos, mejorando tanto la arquitectura del sistema como la estructura de la base de datos, asegurando una base sólida para el backend.
     </td>
   </tr>
   <tr>
@@ -134,9 +142,11 @@
       TP: Sebastián Mendez: Estuve desarrollando casi gran parte de los componentes y web front applications.
       <br><br>
       TB2: Sebastián Mendez: Facilitó sesiones de retroalimentación para evaluar el progreso y desarrolle gran parte del backend.
+      <br><br>
+      TF: Sebastián Mendez: Facilité sesiones de retroalimentación para evaluar el progreso y desarrollé gran parte del backend. Además, implementé el sistema de Gestión de Identidades y Accesos (IAM) para fortalecer la seguridad y el control de acceso del sistema.
+    </td>
   </tr>
 </table>
-
 
 ### Registro de versiones <br>
 
@@ -145,6 +155,7 @@
   | 1.0 | 14-04-24 | Grupo Tecny | Completado los 5 capitulos del informe y la elaboracion de la primera version del landing page. |
   | 2.0| 03-05-24 | Grupo Tecny | Correcciones anteriores y elaboracion de la primera version del front web application. |
   | 3.0| 03-05-24 | Grupo Tecny | Correcciones anteriores y elaboracion de la primera version del web services. |
+  | 4.0| 27-06-24 | Grupo Tecny | Correcciones anteriores y artefactos en versión final. |
 
 ### Capitulos <br>
   [Capitulo I - Introduction](#i-introduccion) <br>
@@ -231,15 +242,33 @@
       - 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review) <br>
       - 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review) <br>
       - 5.2.1.8. [Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint) <br>
-    - 5.2.1. [Sprint 2](#522-sprint-2) <br>
-      - 5.2.1.1. [Sprint Planning 2](#5221-sprint-planning-2) <br>
-      - 5.2.1.2. [Sprint Backlog 2](#5222-sprint-backlog-2) <br>
-      - 5.2.1.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
-      - 5.2.1.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
-      - 5.2.1.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
-      - 5.2.1.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
-      - 5.2.1.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
-      - 5.2.1.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
+    - 5.2.2. [Sprint 2](#522-sprint-2) <br>
+      - 5.2.2.1. [Sprint Planning 2](#5221-sprint-planning-2) <br>
+      - 5.2.2.2. [Sprint Backlog 2](#5222-sprint-backlog-2) <br>
+      - 5.2.2.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+      - 5.2.2.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+      - 5.2.2.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+      - 5.2.2.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+      - 5.2.2.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+      - 5.2.2.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
+    - 5.2.3. [Sprint 3](#522-sprint-3) <br>
+      - 5.2.3.1. [Sprint Planning 3](#5221-sprint-planning-3) <br>
+      - 5.2.3.2. [Sprint Backlog 3](#5222-sprint-backlog-3) <br>
+      - 5.2.3.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+      - 5.2.3.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+      - 5.2.3.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+      - 5.2.3.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+      - 5.2.3.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+      - 5.2.3.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
+    - 5.2.4. [Sprint 4](#522-sprint-3) <br>
+      - 5.2.4.1. [Sprint Planning 4](#5221-sprint-planning-3) <br>
+      - 5.2.4.2. [Sprint Backlog 4](#5222-sprint-backlog-3) <br>
+      - 5.2.4.3. [Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review) <br>
+      - 5.2.4.4. [Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review) <br>
+      - 5.2.4.5. [Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review) <br>
+      - 5.2.4.6. [Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review) <br>
+      - 5.2.4.7. [Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review) <br>
+      - 5.2.4.8. [Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint) <br>
   - 5.3. [Validation Interviews](#53-validation-interviews) <br>
     - 5.3.1. [Diseño de Entrevistas](#531-diseño-de-entrevistas) <br>
     - 5.3.2. [Registro de Entrevistas](#532-registro-de-entrevistas) <br>
@@ -940,10 +969,6 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//asowner.jpg" alt="UPC">
 
-</div>
-
-## 2.4. Ubiquitous Language
-
 <div style="text-align: justify;">
 
 - **Reservacion**:
@@ -1016,9 +1041,9 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | :-: | :-: | :-: | :-: | :-: |
 |US01|Registro de cuenta de usuario|Como usuario rentor o propietario deseo registrarme para tener una cuenta en la aplicación web D'Taquito|<p>***Escenario 1: Registro de cuenta exitoso***</p><p></p><p>Dado que el usuario rentor o propietario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación crea la cuenta para el usuario</p><p>Y la aplicación web redirecciona al usuario al login</p><p></p><p>***Escenario 2: Registro de cuenta fallido por insertar datos incorrectos***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta incompletos e incorrectos en los campos: nombre, teléfono, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web solicita que se corrijan los campos con la información correcta</p><p></p><p>***Escenario 3: Registro de cuenta fallido por un correo ya registrado***</p><p></p><p>Dado que el usuario se encuentra en la pantalla de registro de cuenta</p><p>Cuando el usuario ingresa los datos de su registro de cuenta completos y correctos en los campos: nombre, correo electrónico, contraseña y rol</p><p>Y hace clic en el botón “Registrarse”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un correo en uso</p>|EP01|
 |US02|Inicio de sesión de cuenta|Como usuario rentor o propietario deseo poder ingresar a mi cuenta para usar de las funcionalidades de la aplicación web D'Taquito|<p>***Escenario 1: Éxito al iniciar sesión***</p><p></p><p>Dado que el usuario se encuentra registrado en la aplicación web </p><p>Y el usuario se encuentra en la pestaña de inicio de sesión</p><p>Cuando el usuario escriba correctamente su correo y su contraseña</p><p>Y haga clic en el botón "iniciar sesión"</p><p>Entonces la aplicación web llevará al usuario a la página principal</p><p></p><p>***Escenario 2: Error al iniciar sesión***</p><p></p><p>Dado que el usuario se encuentra registrado en la aplicación web </p><p>Y el usuario se encuentra en la pestaña de inicio de sesión</p><p>Cuando el usuario escriba incorrectamente su correo y/o su contraseña</p><p>Y haga clic en el botón "iniciar sesión"</p><p>Entonces la aplicación web notifica que ocurrió un error en los datos proporcionados</p><p>Y solicita al usuario ingresar sus datos correctos</p>|EP01|
-|US03|Ver perfil de usuario|Como usuario rentor o propietario quiero acceder a mi perfil para visualizar mis datos personales|<p>***Escenario 1: Acceso a perfil***</p><p></p><p>Dado que el usuario se encuentra en la página principal</p><p>Cuando el usuario da clic al botón "Mi cuenta" en la parte del encabezado</p><p>Y da clic en "Mi perfil"</p><p>Entonces, la aplicación muestra la información de perfil del usuario</p>|EP01|
+|US03|Ver perfil de usuario|Como usuario rentor o propietario quiero acceder a mi perfil para visualizar mis datos personales|<p>***Escenario 1: Acceso a perfil***</p><p></p><p>Dado que el usuario se encuentra logueado y en la página principal</p><p>Cuando el usuario da clic al botón "Mi cuenta" en la parte del encabezado</p><p>Y da clic en "Mi perfil"</p><p>Entonces, la aplicación muestra la información de perfil del usuario</p>|EP01|
 |US04|Editar perfil de usuario|Como usuario rentor o propietario deseo acceder a mi perfil para editar mis datos personales|<p>***Escenario 1: Edición de información correcta***</p><p></p><p>Dado que el usuario está dentro de la sección “Mi Perfil”</p><p>Y da clic en el botón "Editar perfil"</p><p>Cuando el usuario edita correctamente su información completa</p><p>Y da clic en el botón “Confirmar”</p><p>Entonces la aplicación web actualiza la información del usuario.</p><p></p><p>***Escenario 2: Edición de información incorrecta***</p><p></p><p>Dado que el usuario está dentro de la sección “Mi Perfil”</p><p>Y da clic en el boton "Editar perfil"</p><p>Cuando el usuario edita incorrectamente su información completa</p><p>Y da clic en el botón “Editar”</p><p>Entonces la aplicación muestra un error al editar.</p>|EP01|
-|US05|Visualizar tarjeta como método de pago|Como usuario rentor quiero visualizar mis tarjetas registradas para gestionarlas|<p>***Escenario 1: Ver información de pago***</p><p></p><p>Dado que el usuario rentor está en la página principal</p><p>Cuando el usuario rentor da clic a su ícono en la esquina superior de la aplicación web</p><p>Y selecciona la opción “Mi cuenta”<p>Y da clic en </p>Método de pago</p><p>Entonces la aplicación web muestra la información de pago del usuario rentor</p>|EP02|
+|US05|Visualizar tarjeta como método de pago|Como usuario rentor o propietario quiero visualizar mi tarjeta registrada para gestionarla|<p>***Escenario 1: Ver información de pago***</p><p></p><p>Dado que el usuario rentor o propietario está en la página principal</p><p>Cuando el usuario rentor da clic al botón "Mi cuenta"</p><p>Y selecciona la opción “Mi cuenta”<p>Y da clic en </p>Método de pago</p><p>Entonces la aplicación web muestra la información de pago del usuario rentor</p>|EP02|
 |US06|Agregar una tarjeta como método de pago|Como usuario quiero agregar mi tarjeta para pagar mis reservas|<p>***Escenario 1: Éxito al agregar tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta”</p><p>Cuando el usuario rentor introduce correctamente sus credenciales (nombre del dueño, nombre del banco, número de tarjeta, fecha de expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web agrega la información de pago del usuario rentor.</p><p></p><p>***Escenario 2: Error al agregar tarjeta por datos incorrectos***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta”</p><p>Cuando el usuario rentor introduce incorrectamente sus credenciales (nombre del dueño, nombre del banco, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un error en los datos ingresados</p><p>Y el usuario rentor debe corregir los campos necesarios</p><p></p><p>***Escenario 3: Error al agregar tarjeta por exceso de registros***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y da clic en “Agregar tarjeta</p><p>Cuando el usuario introduce correctamente sus credenciales (nombre del dueño, nombre del banco, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un mensaje de error indicando que ya existe un método de pago, que solo puede tener registrado uno</p>|EP02|
 |US07|Editar tarjeta como método de pago|Como usuario rentor quiero editar la información de mi tarjeta para actualizar mis datos financieros|<p>***Escenario 1: Éxito al editar información de la tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y selecciona una tarjeta existente</p><p>Y da clic en “Editar”</p><p>Cuando el usuario rentor introduce correctamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web actualiza la información de pago del usuario rentor.</p><p></p><p>***Escenario 2: Error al editar información de la tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Y selecciona una tarjeta</p><p>Y da clic en “Editar”</p><p>Cuando el usuario rentor introduce incorrectamente sus credenciales (nombre, número de tarjeta, expiración de la tarjeta y ccv)</p><p>Y da clic en “Guardar”</p><p>Entonces la aplicación web muestra un error por ingresar datos incorrectos</p><p>Y el usuario rentor debe corregir los campos necesarios</p>|EP02|
 |US08|Borrar un método de pago|Como usuario rentor quiero borrar una tarjeta para que ya no esté disponible|<p>***Escenario 1: Borrar tarjeta***</p><p></p><p>Dado que el usuario rentor está en la página de información de pago</p><p>Cuando el usuario rentor selecciona una tarjeta existente</p><p>Y da clic en “Borrar”</p><p>Entonces la aplicación web elimina el método de pago de la información de pago del usuario rentor</p><p></p>|EP02|
@@ -1052,7 +1077,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | TS05 | Gestión de método de pago | Como desarrollador, necesito implementar endpoints en el API para gestionar métodos de pago de forma segura y confiable dentro de la plataforma.| **Escenario 1:** Dado que tengo acceso al endpoint `/api/v1/payments/<id>`, cuando realizo una solicitud GET para obtener un método de pago por ID, entonces el sistema me devuelve la información del método de pago con el ID especificado.<br> **Escenario 2:** Dado que tengo acceso al endpoint `/api/v1/payments/user/<userId>`, cuando realizo una solicitud GET para obtener un método de pago por ID de usuario (userId), entonces el sistema me devuelve la información del método de pago asociado a ese usuario.<br> **Escenario 3:** Dado que tengo acceso al endpoint `/api/v1/payments`, cuando realizo una solicitud POST para agregar un nuevo método de pago, entonces el sistema crea un nuevo método de pago con la información proporcionada.<br> **Escenario 4:** Dado que tengo acceso al endpoint `/api/v1/payments/<id>`, cuando realizo una solicitud PUT con los datos actualizados, entonces el sistema actualiza la información del método de pago con el ID especificado. | EP08  |
 |TS06|Validación de datos de entrada|Implementar validación de datos de entrada en los endpoints de la API para garantizar la integridad y consistencia de la información. |**Escenario 1:** Dado que se recibe una solicitud con datos de entrada, cuando se verifica el formato del correo electrónico, la contraseña y otros campos requeridos, entonces el sistema acepta la solicitud si los datos son válidos. <br> **Escenario 2:** Dado que se recibe una solicitud con datos de entrada no válidos, cuando se maneja adecuadamente el error y se proporciona una respuesta clara indicando el problema, entonces el usuario recibe retroalimentación sobre los errores en sus datos.|  EP08            |
 |TS07|Seguridad y protección de Datos|Como desarrollador, Quiero implementar medidas de seguridad y protección de datos Para garantizar la confidencialidad y la integridad de la información del usuario|**Escenario 1:** Dado que tengo acceso a la API de seguridad de datos Cuando un usuario proporciona información personal durante el proceso de registro o reserva Entonces la información se cifra de forma segura y se almacena en la base de datos de manera protegida contra accesos no autorizados. <br> **Escenario 2:** Dado que tengo acceso a la API de seguridad de datos Cuando un usuario realiza transacciones de pago en la aplicación Entonces se utilizan métodos de cifrado seguros para proteger la información financiera del usuario durante la transferencia de datos.|EP08  |
-| TS08 | Gestión de suscripciones    | Como desarrollador, quiero implementar un sistema de gestión de suscripciones para informar a los usuarios cuando se liberan nuevas instalaciones o cuando hay cambios en la disponibilidad de reservas existentes.| **Escenario 1:** Dado que tengo acceso al endpoint `/api/v1/suscriptions/<id>`, cuando realizo una solicitud GET para obtener una suscripción por ID, entonces el sistema me devuelve la información de la suscripción con el ID especificado.<br> **Escenario 2:** Dado que tengo acceso al endpoint `/api/v1/suscriptions/user/<userId>`, cuando realizo una solicitud GET para obtener una suscripción por ID del usuario (userId), entonces el sistema me devuelve la información de la suscripción asociada a ese usuario.<br> **Escenario 3:** Dado que tengo acceso al endpoint `/api/v1/suscriptions/<id>`, cuando realizo una solicitud PUT con los datos actualizados, entonces el sistema actualiza la información de la suscripción con el ID especificado. | EP08  |
+| TS08 | Gestión de suscripciones    | Como desarrollador, quiero implementar un sistema de gestión de suscripciones para que los usuario pueden mejorar sus cuentas| **Escenario 1:** Dado que tengo acceso al endpoint `/api/v1/suscriptions/<id>`, cuando realizo una solicitud GET para obtener una suscripción por ID, entonces el sistema me devuelve la información de la suscripción con el ID especificado.<br> **Escenario 2:** Dado que tengo acceso al endpoint `/api/v1/suscriptions/user/<userId>`, cuando realizo una solicitud GET para obtener una suscripción por ID del usuario (userId), entonces el sistema me devuelve la información de la suscripción asociada a ese usuario.<br> **Escenario 3:** Dado que tengo acceso al endpoint `/api/v1/suscriptions/<id>`, cuando realizo una solicitud PUT con los datos actualizados, entonces el sistema actualiza la información de la suscripción con el ID especificado. | EP08  |
 |TS09|Implementar funcionalidad de inicio de sesión seguro|Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios inicien sesión de forma segura en la plataforma.|**Escenario 1:** Dado que un usuario envía una solicitud POST al endpoint /api/login con credenciales válidas, entonces el sistema autentica al usuario y devuelve un token de acceso válido. <br> **Escenario 2:** Dado que un usuario intenta iniciar sesión con credenciales inválidas, entonces el sistema responde con un mensaje de error indicando que las credenciales son incorrectas. | EP08 |
 |TS10|Agregar funcionalidad de recuperación de contraseña|Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios recuperen su contraseña en caso de olvido.|**Escenario 1:** Dado que un usuario solicita recuperar su contraseña mediante una solicitud POST al endpoint con el ingreso de sus datos brindados anteriormente, entonces el sistema muestra una ventana de recuperación válido. <br> **Escenario 2:** Dado que un usuario intenta recuperar su contraseña con datos incorrectos, entonces el sistema responde con un mensaje de error indicando que los datos no estan asociados a ninguna cuenta.|EP08  |
 | TS11 | Gestionar cuentas de usuario | Como desarrollador, necesito implementar endpoints en el API para permitir a los usuarios gestionar sus cuentas, incluyendo la actualización de información personal y la configuración de preferencias.| **Escenario 1:** Dado que tengo acceso al endpoint `/api/v1/users/<id>`, cuando realizo una solicitud GET para obtener un usuario por ID, entonces el sistema me devuelve la información del usuario con el ID especificado.<br> **Escenario 2:** Dado que tengo acceso al endpoint `/api/v1/users`, cuando realizo una solicitud GET con el correo y la contraseña, entonces el sistema me devuelve la información del usuario correspondiente.<br> **Escenario 3:** Dado que tengo acceso al endpoint `/api/v1/users/<id>`, cuando realizo una solicitud PUT con los datos actualizados, entonces el sistema actualiza la información del usuario con el ID especificado.<br> **Escenario 4:** Dado que tengo acceso al endpoint `/api/v1/users`, cuando realizo una solicitud POST para agregar un nuevo usuario, entonces el sistema crea un nuevo usuario con la información proporcionada. | EP08  |
@@ -1069,9 +1094,9 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | 1      | TS02          | Gestionar reservas de espacios de juego               | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan realizar y gestionar reservas de espacios de juego de forma rápida y sencilla.                                                                                    | 8            |
 | 2      | US13          | Reservar un espacio de juego                          | Como rentor quiero reservar un espacio de juego para divertirme jugando  | 8            |
 | 3      | US12          | Ver horarios de los espacios de juego                 | Como rentor quiero ver la disponibilidad de los espacios de juego para elegir | 5            |
-| 4      | TS01          | Obtener información de espacios de juego disponibles | Como desarrollador, necesito implementar un endpoint en el API para obtener información sobre los espacios de juego disponibles en diferentes ubicaciones.                                                                                                    | 5            |
-| 5      | TS05          | Procesar pagos de forma segura y confiable            | Como desarrollador, necesito implementar endpoints en el API para procesar pagos de forma segura y confiable dentro de la plataforma.                                                                                                                       | 5            |
-| 6      | TS08          | Sistema de alertas de disponibilidad                  | Como desarrollador, quiero implementar un sistema de alertas de disponibilidad para informar a los usuarios cuando se liberan nuevas instalaciones o cuando hay cambios en la disponibilidad de reservas existentes.                                      | 5            |
+| 4      | TS01          | Gestionar información de espacios de juego| Como desarrollador, necesito implementar un endpoint en el API para obtener información sobre los espacios de juego                                                                                                  | 5            |
+| 5      | TS05          | Gestionar metodos de pago           | Como desarrollador, necesito implementar endpoints en el API para procesar pagos de forma segura y confiable dentro de la plataforma.                                                                                                                       | 5            |
+| 6      | TS08          | Gestión de suscripciones                  | Como desarrollador, quiero implementar un sistema de gestión de suscripciones para que los usuario pueden mejorar sus cuentas                                      | 5            |
 | 7      | US16          | Cancelar una reserva de un espacio de juego           | Como rentor quiero cancelar una reserva para ya no tener que asistir    | 5            |
 | 8      | US20          | Ver salas comunitarias                                | Como rentor quiero ver las salas comunitarias para unirme a una de ellas| 5            |
 | 9      | US21          | Crear una sala comunitaria                            | Como rentor quiero crear una sala para que otros jugadores puedan unirse a nuestra reserva | 5            |
@@ -1089,7 +1114,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | 21     | US22          | Unirse a una sala comunitaria                   | Como rentor quiero unirme a una sala comunitaria para jugar con otros jugadores |3|
 | 22     | US01          | Registro de cuenta de rentor                   | Como rentor deseo registrarme para tener una cuenta | 3   |
 | 23     | US02          | Inicio de sesión de cuenta                   | Como rentor deseo poder ingresar a mi cuenta para usarla |3  |
-| 24| TS04| implementar endpoints para la gestión de roles y permisos de usuario | Como desarrollador, necesito implementar endpoints en el API para administrar roles y permisos de usuario, permitiendo controlar de manera eficiente los accesos y acciones permitidas dentro de la plataforma| 3 |
+| 24     | TS04          | implementar endpoints para la gestión de roles y permisos de usuario | Como desarrollador, necesito implementar endpoints en el API para administrar roles y permisos de usuario, permitiendo controlar de manera eficiente los accesos y acciones permitidas dentro de la plataforma| 3 |
 | 25     | TS03          | Gestionar calificaciones y comentarios de usuarios    | Como desarrollador, necesito implementar endpoints en el API para que los usuarios puedan calificar y dejar comentarios sobre los espacios de juego ocupados | 2            |
 | 26     | US31          | Administrar horarios                                  | Como propietario de un espacio de juego quiero administrar los horarios de mis espacios de juego para conocer sus detalles | 2            |
 | 27     | US29          | Editar un espacio de juego                            | Como propietario de un espacio de juego quiero editar mi local a la aplicación web para modificar información del espacio de juego | 2            |
@@ -1097,7 +1122,7 @@ Las necesidades principales que hemos encontrado en nuestros segmentos objetivos
 | 29     | TS09          | Implementar funcionalidad de inicio de sesión seguro  | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios inicien sesión de forma segura en la plataforma. | 2            |
 | 30     | TS10          | Agregar funcionalidad de recuperación de contraseña   | Como desarrollador, necesito implementar un endpoint en el API para permitir que los usuarios recuperen su contraseña en caso de olvido. | 2            |
 | 31     | US03          | Ver perfil de rentor  | Como rentor quiero acceder a mi perfil para ver mis datos personales | 2            |
-|32     | US04          | Editar perfil de rentor            |Como rentor deseo acceder a mi perfil para editar mis datos personales | 2            |
+| 32     | US04          | Editar perfil de rentor            |Como rentor deseo acceder a mi perfil para editar mis datos personales | 2            |
 | 33     | US06          | Visualizar tarjetas como método de pago                   | Como rentor quiero visualizar mis tarjetas registradas para gestionarlas| 2            |
 | 34     | US07          | Agregar una tarjeta como método de pago                  | Como rentor quiero agregar mi tarjeta para pagar mis reservas | 2            |
 | 35     | US30          | Eliminar un espacio de juego                          | Como propietario de un espacio de juego quiero eliminar mi local de la aplicación web para que no se visualice más | 1            |
@@ -1389,7 +1414,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-<img src="https://github.com/HenryCenturion/open-source-final-project/blob/f5a249ebe392cc6fe8e721f45837744ada413d4e/informe/images/new-context.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-context-1.png" alt="UPC">
 
 </div>
 
@@ -1397,7 +1422,8 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-<img src="https://github.com/HenryCenturion/open-source-final-project/blob/f5a249ebe392cc6fe8e721f45837744ada413d4e/informe/images/new-container.png" alt="UPC">
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-container-1.png" alt="UPC">
+
 
 </div>
 
@@ -1406,8 +1432,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <div style="text-align: justify;">
 
-<img src="https://github.com/HenryCenturion/open-source-final-project/blob/f5a249ebe392cc6fe8e721f45837744ada413d4e/informe/images/new-components.png" alt="UPC">
-
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-components-1.png" alt="UPC">
 </div>
 
 ## 4.7. Software Object-Oriented Design
@@ -1540,7 +1565,7 @@ Class MesaDeBillar
 
 <div style="text-align: justify;">
   
-<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//diagrama_bd.png" alt="UPC">  
+<img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//diagrama-base-de-datos.png" alt="UPC">
 </div>
 
 # V. Product Design
@@ -1566,8 +1591,14 @@ Class MesaDeBillar
   - En la parte del GitFlow, estamos utilizando las ramas "main" y el "develop"
   - Además de las ramas predeterminadas, como grupo hemos creado la rama de tipo document el cual es para uso exclusivo del manejo de información del informe
     
-      - document/informe
+      - document/caratula
+      - document/capitulo-1
+      - document/capitulo-2
+      - document/capitulo-3
+      - document/capitulo-4
+      - document/capitulo-5
       - feature/landing-page
+      - feature/front-web-application
       
    - Estas han sido creadas con el proposito de dividir el trabajo en los 5 capitulos junto con la caratula, anexos y el landing page de acuerdo a las historias de usuario creadas.
    - Las ramas externas creadas son hijas de la rama "develop", por lo que, al culminar con el trabajo en la etapa de desarrollo, estas se uniran mediante el Pull Request para asi tener todo el informe en un solo documento.
@@ -1577,7 +1608,7 @@ Class MesaDeBillar
 </p>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//git.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//GitFlow.png" alt="UPC">
 </p>
 
   ### 5.1.3. Source Code Style Guide & Conventions
@@ -1754,37 +1785,37 @@ Header:
 | **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
 | ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
 | US13 | Reservar un espacio de juego                  | T01                 | Crear lógica para reservar espacio de juego | Implementar lógica para reservar espacio de juego usando Angular. | 10                            | H. Centurion      | Done |
-| US12 | Ver horarios de los espacios de juego    | T02                 | Crear lógica para mostrar horarios          | Crear lógica para mostrar horarios usando Angular. | 5                            | S. Frisancho     | Done    |
-| US16 | Cancelar una reserva de un espacio de juego | T03                 | Crear lógica para cancelar reserva         | Desarrollar lógica para cancelar reserva usando Angular. | 3                            | J. Atencio         | Done         |
-| US09 | Visualizar los espacios de juego          | T04                 | Crear lógica para visualizar espacios       | Crear lógica para visualizar espacios usando Angular. | 4                            | S. Mendez         | Done    |
-| US10 | Visualizar características de los espacios de juego | T05                 | Crear lógica para mostrar características | Crear lógica para mostrar características usando Angular. | 6                            | F. Mamani       | Done |
-| US11 | Aplicar filtros de búsqueda                 | T06                 | Crear lógica para aplicar filtros           | Desarrollar lógica para aplicar filtros usando Angular. | 2                            | H. Centurion      | Done    |
-| US14 | Ver reservas activas de un espacio de juego | T07                 | Crear lógica para mostrar reservas activas | Crear lógica para mostrar reservas activas usando Angular. | 5                            | S. Frisancho     | Done         |
-| US15 | Ver historial de reservas de espacios de juego | T08                 | Crear lógica para mostrar historial de reservas | Desarrollar lógica para mostrar historial de reservas usando Angular. | 6                            | J. Atencio         | Done    |
-| US17 | Ver una suscripción                        | T09                 | Crear lógica para mostrar suscripción      | Desarrollar lógica para mostrar suscripción usando Angular. | 3                            | S. Mendez         | To-do         |
-| US18 | Adquirir una suscripción                 | T10                 | Crear lógica para adquirir suscripción      | Desarrollar lógica para adquirir suscripción usando Angular. | 4                            | F. Mamani       | To-do    |
-| US19 | Cancelar una suscripción              | T11                 | Crear lógica para cancelar suscripción      | Desarrollar lógica para cancelar suscripción usando Angular. | 2                            | H. Centurion      | To-do         |
-| US28 | Añadir un espacio de juego              | T12                 | Crear lógica para añadir espacio de juego | Desarrollar lógica para añadir espacio de juego usando Angular. | 8                            | S. Frisancho     | Done |
-| US01 | Registro de cuenta de rentor            | T13                 | Crear lógica para registro de rentor        | Desarrollar lógica para registro de rentor usando Angular. | 4                            | J. Atencio         | Done    |
-| US02 | Inicio de sesión de cuenta              | T14                 | Crear lógica para inicio de sesión         | Desarrollar lógica para inicio de sesión usando Angular. | 3                            | S. Mendez         | Done    |
-| US29 | Editar un espacio de juego               | T15                 | Crear lógica para editar espacio de juego | Desarrollar lógica para editar espacio de juego usando Angular. | 3                           | F. Mamani       | Done |
-| US03 | Ver perfil de rentor                         | T16                 | Crear lógica para mostrar perfil de rentor | Crear lógica para mostrar perfil de rentor usando Angular. | 2                            | H. Centurion      | Done    |
-| US04 | Editar perfil de rentor                      | T17                 | Crear lógica para editar perfil de rentor  | Desarrollar lógica para editar perfil de rentor usando Angular. | 4                            | S. Frisancho     | Done         |
-| US06 | Visualizar tarjetas como método de pago | T18                 | Crear lógica para visualizar tarjetas       | Desarrollar lógica para visualizar tarjetas usando Angular. | 3                            | J. Atencio         | Doing    |
-| US07 | Agregar una tarjeta como método de pago | T19                 | Crear lógica para agregar tarjeta          | Desarrollar lógica para agregar tarjeta usando Angular. | 3                            | S. Mendez         | Doing |
-| US30 | Eliminar un espacio de juego             | T20                 | Crear lógica para eliminar espacio de juego | Desarrollar lógica para eliminar espacio de juego usando Angular. | 2                           | F. Mamani       | Done         |
-| US05 | Editar tarjeta como método de pago     | T21                 | Crear lógica para editar tarjeta             | Desarrollar lógica para editar tarjeta usando Angular. | 2                            | H. Centurion      | Doing    |
-| US08 | Borrar un método de pago               | T22                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Doing |
+| US12 | Ver horarios de los espacios de juego    | T01                | Crear lógica para mostrar horarios          | Crear lógica para mostrar horarios usando Angular. | 5                            | S. Frisancho     | Done    |
+| US16 | Cancelar una reserva de un espacio de juego | T01                 | Crear lógica para cancelar reserva         | Desarrollar lógica para cancelar reserva usando Angular. | 3                            | J. Atencio         | Done         |
+| US09 | Visualizar los espacios de juego          | T01                 | Crear lógica para visualizar espacios       | Crear lógica para visualizar espacios usando Angular. | 4                            | S. Mendez         | Done    |
+| US10 | Visualizar características de los espacios de juego | T01                 | Crear lógica para mostrar características | Crear lógica para mostrar características usando Angular. | 6                            | F. Mamani       | Done |
+| US11 | Aplicar filtros de búsqueda                 | T01                 | Crear lógica para aplicar filtros           | Desarrollar lógica para aplicar filtros usando Angular. | 2                            | H. Centurion      | Done    |
+| US14 | Ver reservas activas de un espacio de juego | T01                 | Crear lógica para mostrar reservas activas | Crear lógica para mostrar reservas activas usando Angular. | 5                            | S. Frisancho     | Done         |
+| US15 | Ver historial de reservas de espacios de juego | T01                 | Crear lógica para mostrar historial de reservas | Desarrollar lógica para mostrar historial de reservas usando Angular. | 6                            | J. Atencio         | Done    |
+| US17 | Ver una suscripción                        | T01                 | Crear lógica para mostrar suscripción      | Desarrollar lógica para mostrar suscripción usando Angular. | 3                            | S. Mendez         | Done        |
+| US18 | Adquirir una suscripción                 | T01                 | Crear lógica para adquirir suscripción      | Desarrollar lógica para adquirir suscripción usando Angular. | 4                            | F. Mamani       | Done    |
+| US19 | Cancelar una suscripción              | T01                 | Crear lógica para cancelar suscripción      | Desarrollar lógica para cancelar suscripción usando Angular. | 2                            | H. Centurion      | Done        |
+| US28 | Añadir un espacio de juego              | T01                 | Crear lógica para añadir espacio de juego | Desarrollar lógica para añadir espacio de juego usando Angular. | 8                            | S. Frisancho     | Done |
+| US01 | Registro de cuenta de rentor            | T01                 | Crear lógica para registro de rentor        | Desarrollar lógica para registro de rentor usando Angular. | 4                            | J. Atencio         | Done    |
+| US02 | Inicio de sesión de cuenta              | T01                 | Crear lógica para inicio de sesión         | Desarrollar lógica para inicio de sesión usando Angular. | 3                            | S. Mendez         | Done    |
+| US29 | Editar un espacio de juego               | T01                 | Crear lógica para editar espacio de juego | Desarrollar lógica para editar espacio de juego usando Angular. | 3                           | F. Mamani       | Done |
+| US03 | Ver perfil de rentor                         | T01                 | Crear lógica para mostrar perfil de rentor | Crear lógica para mostrar perfil de rentor usando Angular. | 2                            | H. Centurion      | Done    |
+| US04 | Editar perfil de rentor                      | T01                 | Crear lógica para editar perfil de rentor  | Desarrollar lógica para editar perfil de rentor usando Angular. | 4                            | S. Frisancho     | Done         |
+| US06 | Visualizar tarjetas como método de pago | T01                 | Crear lógica para visualizar tarjetas       | Desarrollar lógica para visualizar tarjetas usando Angular. | 3                            | J. Atencio         | Done    |
+| US07 | Agregar una tarjeta como método de pago | T01                 | Crear lógica para agregar tarjeta          | Desarrollar lógica para agregar tarjeta usando Angular. | 3                            | S. Mendez         | Done |
+| US30 | Eliminar un espacio de juego             | T01                 | Crear lógica para eliminar espacio de juego | Desarrollar lógica para eliminar espacio de juego usando Angular. | 2                           | F. Mamani       | Done         |
+| US05 | Editar tarjeta como método de pago     | T01                 | Crear lógica para editar tarjeta             | Desarrollar lógica para editar tarjeta usando Angular. | 2                            | H. Centurion      | Done    |
+| US08 | Borrar un método de pago               | T01                 | Crear lógica para borrar método de pago    | Desarrollar lógica para borrar método de pago usando Angular. | 2                            | S. Frisancho     | Done |
 
 
   #### 5.2.2.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit ID** | **Commit Message** | **Commit Message Body** | **Committed On (Date)** |
 | --- | --- | --- | --- | --- | --- |
-| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | e39d79e| feat: Create frontend folder
-| Empthy| 03/05/2024 |
+| github.com/HenryCenturion/open-source-final-project| feature/front-web-aplication  | e39d79e| feat: Create frontend folder| Empthy| 03/05/2024 |
+
   
   #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-  Para el caso, emos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
+  Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
 
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//testing1.png" alt="UPC">
   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//testing2.png" alt="UPC">
@@ -1822,6 +1853,157 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 - **Diseño y optimización de la interfaz de usuario en los componentes:** Se mejoraron los diseños de los componentes, optimizando la interfaz de usuario para ofrecer una experiencia más intuitiva y agradable. (Francis Mamani)
 - **Implementación del sistema de inicio de sesión y validaciones:** Se implementó el sistema de inicio de sesión con validaciones robustas, garantizando la seguridad y la integridad de los datos de los usuarios. (Sebastián Frisancho)
 
+### 5.2.3. Sprint 3
+  #### 5.2.3.1. Sprint Planning 3
+
+  |Sprint 3|Sprint 3|
+| :-: | :-: |
+|Sprint Planning Background||
+|Date|2024-06-1|
+|Time|2:23 PM|
+|Location|Reunion virtual mediante videoconferencia.|
+|Prepared by|Mendez Lopez, Sebastian Alonso|
+|Attendees (to planning meeting)|Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias|
+|**Sprint 3 Review Summary**|Se realizo y actualizo cambios al frontend, completando así por completo el proyecto y sobre todo implementando los demás user stories.|
+|**Sprint 3 Retrospective Summary**|Debemos invertir un poco más de tiempo en realizar funcionalidades para seguir teniendo tiempo al momento de cumplir con la fecha programa del sprint|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|La implementación de la primera versión del backend|
+|Sprint 3 Velocity|26|
+|Sum of Story Points|41|
+
+  #### 5.2.3.2. Sprint Backlog 3
+
+| **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
+| ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
+|TS02|Gestionar reservas de espacios de juego|T01|Implementar endpoints para gestionar reservas de espacios de juego|Implementar endpoints en el API para que los usuarios gestionen reservas de espacios de juego.|10|S. Mendez|Done|
+|TS01|Gestionar información de los espacios de juego|T01|Implementar endpoint para obtener información de espacios de juego disponibles|Implementar un endpoint en el API para obtener información sobre los espacios de juego disponibles.|5|H. Centurion|Done|
+|TS11|Gestionar cuentas de usuario|T01|Implementar endpoints para gestionar cuentas de usuario|Implementar endpoints en el API para que los usuarios gestionen sus cuentas y preferencias.|3|S. Frisancho|Done|
+|TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T01|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|To-Do|
+|TS06|Validación de datos de entrada|T01|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|To-Do|
+|TS09|Implementar funcionalidad de inicio de sesión seguro|T01|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|To-Do|
+|TS05|Gestión de método de pago|T01|Implementar endpoints para procesar pagos de forma segura|Implementar endpoints en el API para procesar pagos de forma segura.|5|H. Centurion|Done|
+|TS08|Gestión de suscripciones|T01|Implementar sistema de subscripciones|Implementar endpoints en el API para gestionar las subscripciones dentro de la app.|5|S. Frisancho|Done|
+|TS07|Seguridad y protección de datos|T01|Implementar medidas de seguridad y protección de datos|Implementar medidas de seguridad para proteger la información del usuario.|3|J. Atencio|To-Do|
+|TS10|Agregar funcionalidad de recuperación de contraseña|T01|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|To-Do|
+|TS03|Gestionar calificaciones y comentarios de usuarios|T01|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|2|S. Mendez|Doing|
+  
+  #### 5.2.3.3. Development Evidence for Sprint Review
+
+  | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
+  |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | ebdbd1e                                 | Initial commit       | Empty | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Upload services-web folder       | Folder for the files of the web services first version | 09/06/2024 |
+  
+  #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+  Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test2.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test3.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test4.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test5.PNG" alt="UPC">
+
+  #### 5.2.3.5. Execution Evidence for Sprint Review
+  Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution2.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//execution3.PNG" alt="UPC">
+  
+  #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+  Para el caso, ya hemos implementado los datos de nuestra aplicacion en la base de datos, usando una base de datos relacional con la herramienta mySQL, para poder ver nuestros campos, ademas desarrollamos nuestro backend con el lenguaje java.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql2.PNG" alt="UPC">
+  
+  #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace: https://dtaquito-backend.azurewebsites.net/api/v1/{llamado_de_apis} (Ver anexos)
+  
+  #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+  - **Refinamiento de requisitos y mejora de la arquitectura del sistema:** Se analizaron los resultados de las entrevistas para refinar los requisitos del backend, mejorando la arquitectura del sistema y la estructura de la base de datos. (Francis Mamani)
+
+  - **Pruebas de integración y optimización del rendimiento:** Se realizaron pruebas de integración y rendimiento en el backend para evaluar y optimizar su funcionamiento, garantizando una experiencia de usuario fluida y eficiente. (Sebastián Frisancho)
+
+  - **Revisión de código y aseguramiento de calidad:** Se coordinó la revisión de código entre pares, enfocándose en asegurar la calidad y consistencia del código backend del proyecto, y facilitando sesiones de retroalimentación técnica. (Henry Centurion)
+
+  - **Implementación de servicios y APIs, y presentación del progreso:** Se implementaron servicios y APIs críticos, presentando el progreso del proyecto en reuniones de sprint y recibiendo retroalimentación de los interesados para mejorar la funcionalidad y eficiencia del backend. (John Atencio)
+
+  - **Mejoramiento de lógica y desarrollo de componentes en la API:** Se optimizaron los métodos de la API, mejorando la lógica interna para aumentar la eficiencia. Además, se desarrollaron varios componentes nuevos para enriquecer las funcionalidades existentes del backend. (Sebastián Méndez)
+
+### 5.2.4. Sprint 4
+  #### 5.2.4.1. Sprint Planning 4
+
+  |Sprint 4|Sprint 4|
+| :-: | :-: |
+|Sprint Planning Background||
+|Date|2024-06-06|
+|Time|6:45 PM|
+|Location|Reunion virtual mediante videoconferencia.|
+|Prepared by|Mendez Lopez, Sebastian Alonso|
+|Attendees (to planning meeting)|Mendez Lopez, Sebastian Alonso / Atencio Castillo, John Alexis / Centurion Quintana, Henry Manuel / Mamani Silva, Francis Daniel / Frisancho Levano, Sebastian Mathias|
+|**Sprint 3 Review Summary**|Se realizo en su mayoria lo planeado del desarrollo del backend, implementando en gran parte las technical stories propuestas.|
+|**Sprint 3 Retrospective Summary**|Debemos tener mejor organizacion, para asi poder completar e implementar las user stories restantes en nuestro sprint.|
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|La implementación de la versión final del backend y de el IAM.|
+|Sprint 4 Velocity|10|
+|Sum of Story Points|15|
+
+  #### 5.2.4.2. Sprint Backlog 4
+
+| **ID** | **Title**                                        | **ID of Assignment** | **Title of Assignment**                              | **Description**                                             | **Estimation (Hours)** | **Assigned by** | **Status**    |
+| ---   | ----------------------------------------------- | ------------------- | ---------------------------------------------- | ---------------------------------------------------- | --------------------- | --------------- | ------------ |
+|TS04|Implementar endpoints para la gestión de roles y permisos de usuario|T01|Implementar endpoints para gestionar roles y permisos de usuario|Implementar endpoints en el API para administrar roles y permisos de usuario.|3|J. Atencio|Done|
+|TS06|Validación de datos de entrada|T01|Implementar validación de datos de entrada en los endpoints|Implementar validación de datos de entrada en los endpoints de la API.|2|F. Mamani|Done|
+|TS09|Implementar funcionalidad de inicio de sesión seguro|T01|Implementar endpoint para inicio de sesión seguro|Implementar un endpoint en el API para que los usuarios inicien sesión de forma segura.|2|S. Mendez|Done|
+|TS07|Seguridad y protección de datos|T01|Implementar medidas de seguridad y protección de datos|Implementar medidas de seguridad para proteger la información del usuario.|3|J. Atencio|Done|
+|TS10|Agregar funcionalidad de recuperación de contraseña|T01|Implementar endpoint para recuperación de contraseña|Implementar un endpoint en el API para la recuperación de contraseña.|2|F. Mamani|To-Do|
+|TS03|Gestionar calificaciones y comentarios de usuarios|T01|Implementar endpoints para gestionar calificaciones y comentarios de usuarios|Implementar endpoints en el API para que los usuarios califiquen y dejen comentarios sobre los espacios de juego.|3|S. Mendez|To-Do|
+  
+  #### 5.2.4.3. Development Evidence for Sprint Review
+
+  | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
+  |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-services    | 5f14bed                                 | Update frontend and backend code      | Empty | 29/06/2024 |
+  
+  #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+  Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test2.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//test3.PNG" alt="UPC">
+
+  #### 5.2.4.5. Execution Evidence for Sprint Review
+  Para el caso, estamos evidenciando la ejecucion correcta de nuestro backend, de tal manera que se evidencia algunas de las funcionalidades de esta misma, al igual que la realizacion de algunos querys.
+
+   <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Swager1.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Swager2.png" alt="UPC">
+  
+  #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+  Para el caso, ya hemos implementado los datos de nuestra aplicacion en la base de datos, usando una base de datos relacional con la herramienta mySQL, para poder ver nuestros campos, ademas desarrollamos nuestro backend con el lenguaje java.
+
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql1.PNG" alt="UPC">
+  <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//mysql2.PNG" alt="UPC">
+  
+  #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace: https://dtaquito-backend.azurewebsites.net/swagger-ui/index.html#/ (Ver anexos)
+  
+  #### 5.2.4.8. Team Collaboration Insights during Sprint
+
+**Refinamiento de requisitos y mejora de la arquitectura del sistema:** Se completó el análisis de los resultados de las entrevistas para refinar los requisitos del backend, mejorando la arquitectura del sistema y la estructura de la base de datos. (Francis Mamani)
+
+**Pruebas de integración y optimización del rendimiento:** Se llevaron a cabo pruebas exhaustivas de integración y rendimiento en el backend, evaluando y optimizando su funcionamiento para garantizar una experiencia de usuario fluida y eficiente. (Sebastián Frisancho)
+
+**Revisión de código y aseguramiento de calidad:** Se coordinó una revisión exhaustiva de código entre pares, asegurando la calidad y consistencia del código backend del proyecto, y facilitando sesiones de retroalimentación técnica para mejoras continuas. (Henry Centurion)
+
+**Implementación de servicios y APIs, y presentación del progreso:** Se implementaron todos los servicios y APIs críticos, presentando continuamente el progreso del proyecto en reuniones de sprint y recibiendo retroalimentación de los interesados para perfeccionar la funcionalidad y eficiencia del backend. (John Atencio)
+
+**Mejoramiento de lógica y desarrollo de componentes en la API:** Se optimizaron los métodos de la API, mejorando la lógica interna para maximizar la eficiencia. Además, se desarrollaron e integraron nuevos componentes para enriquecer las funcionalidades existentes del backend. (Sebastián Méndez)
+
 ## 5.3. Validation Interviews
 
   ### 5.3.1. Diseño de Entrevistas
@@ -1848,7 +2030,7 @@ Entrevista N°1:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//entrevistado1.png" alt="UPC">
 
-- **Entrevistador:** Henry Centurion
+- **Entrevistador:** Sebastian Mendez
 - **Entrevistado:** Patrizio Mere
 - **Sexo:** Masculino
 - **Edad:** 19 años
@@ -1861,8 +2043,8 @@ Entrevista N°2:
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//enrique.png" alt="UPC">
 
-- **Entrevistador:** Enrique Alarcon
-- **Entrevistado:** Henry Centurion
+- **Entrevistador:** Henry Centurion
+- **Entrevistado:** Enrique Alarcon
 - **Sexo:** Masculino
 - **Edad:** 19 años
 - **Distrito:** Lima
@@ -1915,7 +2097,6 @@ Los problemas seran puntuados tomando en cuenta la siguiente escala de severidad
 - **Recomendación:** Se sugiere, mejorar la sección que explica la misión de la aplicación para hacerla más explícita y fácilmente comprensible para los usuarios.
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project//develop//informe//images//Euristica3.png" width="450" height="300" alt="UPC">
 
-
 - **Problema #4:** Falta de amigabilidad visual con el público objetivo.
 - **Severidad:** 3
 - **Heurística violada:** Diseño estético y minimalista
@@ -1945,7 +2126,7 @@ En las siguientes secciones, exploraremos en detalle las conclusiones extraídas
 - La popularidad arraigada del fútbol y el creciente interés en el billar en Lima Metropolitana indican un mercado potencialmente vasto para D'Taquito. Nuestros estudios de mercado revelaron que una gran cantidad de personas, aproximadamente el 71.8% según nuestras encuestas, juegan fútbol al menos una vez a la semana. Además, un porcentaje significativo de estos jugadores expresó interés en la reserva de canchas sintéticas, lo que subraya aún más la demanda latente en el mercado. El hecho de que el 89.6% de los encuestados estén dispuestos a utilizar una plataforma digital para agilizar las reservas confirma la necesidad y el potencial de una solución como D'Taquito en el mercado.
 - D'Taquito se distingue en el mercado por ofrecer una experiencia de usuario superior y una solución integral para la reserva de instalaciones deportivas. Nuestra plataforma web ofrece una interfaz intuitiva y fácil de usar, permitiendo a los usuarios encontrar y reservar instalaciones desde cualquier dispositivo con acceso a Internet. La amplitud de opciones disponibles, combinada con información detallada sobre cada instalación, como fotos e instalaciones disponibles, resalta la propuesta de valor de D'Taquito. Además, la integración de opciones de pago seguro garantiza transacciones confiables y sin complicaciones para nuestros usuarios.
 - La plataforma de D'Taquito se centra en mejorar significativamente la experiencia del usuario al proporcionar una amplia gama de opciones de canchas y salones disponibles en diferentes ubicaciones. Nuestro objetivo es facilitar a los usuarios la búsqueda y reserva de instalaciones deportivas de manera rápida y sencilla. Además, la información detallada sobre cada instalación, combinada con opciones de pago seguro integradas, garantiza que los usuarios puedan tomar decisiones informadas y realizar transacciones de forma confiable a través de nuestra plataforma.Reconocemos que el éxito a largo plazo de D'Taquito depende de nuestra capacidad para adaptarnos y mejorar constantemente para satisfacer las necesidades cambiantes de nuestros usuarios. Planeamos expandirnos más allá de Lima Metropolitana y explorar oportunidades en otras ciudades y países. Además, estamos comprometidos con la mejora continua de nuestra plataforma, mediante la integración de nuevas características, la optimización para dispositivos móviles y la implementación de retroalimentación de los usuarios para garantizar que D'Taquito siga siendo líder en el mercado de reserva de instalaciones deportivas.
-
+- El backend de D'Taquito se ha creado para hacer que reservar espacios deportivos sea rápido y seguro. Nos hemos centrado en garantizar la protección de los datos de los usuarios y en ofrecer una experiencia fluida, incluso en momentos de mucha demanda. Con sistemas de alertas y validación de datos, buscamos mejorar aún más la confiabilidad de la plataforma. Además, estamos comprometidos a seguir mejorando y adaptando nuestro backend para satisfacer las necesidades de los usuarios y mantenernos a la vanguardia. Como equipo, nos esforzamos por ofrecer la mejor experiencia posible mientras D'Taquito sigue creciendo.
 
 # Bibliografia
 
@@ -1981,11 +2162,13 @@ Enlace a figma:
 https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=0%3A1&mode=design&t=K3kzNMJ1UGVbxDsc-1
 
 Enlace al deploy del landing page:
-https://dtaquito-new-landing-page.netlify.app/
-
+https://667f4b535561429bf769a2d4--dtaquito-new-landing-page.netlify.app/
 
 Enlace al deploy del web aplication:
-https://tf-open-source.netlify.app/
+https://dtaquito-page.netlify.app/
+
+Enlace al deploy del web service:
+https://dtaquito-backend.azurewebsites.net/swagger-ui/index.html#/
 
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project

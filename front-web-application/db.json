@@ -1,183 +1,19 @@
 {
-  "items": [
+  "posts": [
     {
-      "id": "c1b4",
-      "name": "Salón de Billar La Elite",
-      "image": "https://clubdelaunion.com.pe/wp-content/uploads/2021/10/billar.jpg",
-      "price": "32",
-      "rating": 4,
-      "ownerId": "52213211-f241-4840-aacd-c194c353f4a4"
-    },
-    {
-      "id": "9860",
-      "name": "Salón de Billar Brillante",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/04/5c/e1/98/parque-del-sol.jpg",
-      "price": "90",
-      "rating": 4,
-      "ownerId": "52213211-f241-4840-aacd-c194c353f4a4"
-    },
-    {
-      "id": "be4d",
-      "name": "Salón de Billar Vista Alegre",
-      "image": "https://decofilia.com/wp-content/uploads/2015/07/sala-billar-en-casa-01.jpg",
-      "price": "43",
-      "rating": 3,
-      "ownerId": "52213211-f241-4840-aacd-c194c353f4a4"
-    },
-    {
-      "id": "db4a",
-      "name": "Salón de Billar El Refugio",
-      "image": "https://poolmania.es/recursos/gestor/blog/10%20salas.jpg",
-      "price": "34",
-      "rating": 3,
-      "ownerId": "52213211-f241-4840-aacd-c194c353f4a4"
-    },
-    {
-      "id": "1c8b",
-      "name": "Salón de Billar El Subsuelo",
-      "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/fa/e5/f3/subsuelo-salon-de-billar.jpg",
-      "price": "42",
-      "rating": 4,
-      "ownerId": "d9a51f5e-d88d-49dd-a288-f8a9fbac1ebf"
-    },
-    {
-      "id": "6ced",
-      "name": "Cancha Deportiva Las Estrellas",
-      "image": "https://sportfield.com.mx/wp-content/uploads/2019/08/Brio-885x500.jpg",
-      "price": "43",
-      "rating": 4,
-      "ownerId": "5167cc71-e8e1-4edc-9106-0259b0d44fe5"
-    },
-    {
-      "id": "5c19",
-      "name": "Cancha de Fútbol Los Campeones",
-      "image": "https://sport-12.com/wp-content/uploads/2022/02/Cancha-Chapultepec_cuadrado.jpg",
-      "price": "43",
-      "rating": 3,
-      "ownerId": "08a9607d-5a1f-4b47-b7ed-6f75c2679ce7"
-    },
-    {
-      "id": "c68b",
-      "name": "Cancha Deportiva Militar",
-      "image": "https://www.circulomilitardelperu.com/img/Sedess/Chorrillos/Areas%20Deportivas/Futbol/2.jpg",
-      "price": "56",
-      "rating": 4,
-      "ownerId": "042ca49f-fd4a-4428-a252-f00ff0d088f3"
-    },
-    {
-      "id": "553f",
-      "name": "Cancha Los Pioneros",
-      "image": "https://elcomercio.pe/resizer/keZ1vAQDJ5H7lXBaw0A66AsG5z0=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/YLGMR2KY7JH3BNR6Y5QVTVGZEE.jpg",
-      "price": "31",
-      "rating": 4,
-      "description": "",
-      "ownerId": "6f03d8a6-bd8c-4983-936e-28bfdca28dbf"
-    },
-    {
-      "id": "bac7",
-      "name": "aaaaa",
-      "image": "https://i.pinimg.com/736x/1f/32/31/1f3231213a41a42089ffd90365ddcc59.jpg",
-      "price": "20",
-      "rating": 4,
-      "description": "sssss",
-      "ownerId": "aed6cb7b-d28f-442e-be8f-58e4a7ca17ed",
-      "schedule": [],
-      "date": null,
-      "timeRange": "",
-      "status": false
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
     }
   ],
-  "reservations": [
+  "comments": [
     {
-      "id": "0c99",
-      "product": {
-        "id": "be4d",
-        "name": "Salón de Billar Vista Alegre",
-        "image": "https://decofilia.com/wp-content/uploads/2015/07/sala-billar-en-casa-01.jpg",
-        "price": "43",
-        "rating": 3,
-        "ownerId": "52213211-f241-4840-aacd-c194c353f4a4"
-      },
-      "rentorId": "8a2d6960-db36-42a3-bc7f-7920c7de7f7b"
-    },
-    {
-      "id": "8808",
-      "product": {
-        "id": "5c19",
-        "name": "Cancha de Fútbol Los Campeones",
-        "image": "https://sport-12.com/wp-content/uploads/2022/02/Cancha-Chapultepec_cuadrado.jpg",
-        "price": "43",
-        "rating": 3,
-        "ownerId": "08a9607d-5a1f-4b47-b7ed-6f75c2679ce7"
-      },
-      "rentorId": "8a2d6960-db36-42a3-bc7f-7920c7de7f7b"
-    },
-    {
-      "id": "435c",
-      "product": {
-        "id": "1c8b",
-        "name": "Salón de Billar El Subsuelo",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/fa/e5/f3/subsuelo-salon-de-billar.jpg",
-        "price": "42",
-        "rating": 4,
-        "ownerId": "d9a51f5e-d88d-49dd-a288-f8a9fbac1ebf"
-      },
-      "rentorId": "f7ca1d13-ebbf-4bfe-87c0-3978ce38c839"
-    },
-    {
-      "id": "93d0",
-      "product": {
-        "id": "553f",
-        "name": "Cancha Los Pioneros",
-        "image": "https://elcomercio.pe/resizer/keZ1vAQDJ5H7lXBaw0A66AsG5z0=/1200x900/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/YLGMR2KY7JH3BNR6Y5QVTVGZEE.jpg",
-        "price": "31",
-        "rating": 4,
-        "description": "",
-        "ownerId": "6f03d8a6-bd8c-4983-936e-28bfdca28dbf"
-      },
-      "rentorId": "f7ca1d13-ebbf-4bfe-87c0-3978ce38c839"
-    },
-    {
-      "id": "110c",
-      "product": {
-        "id": "1c8b",
-        "name": "Salón de Billar El Subsuelo",
-        "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/fa/e5/f3/subsuelo-salon-de-billar.jpg",
-        "price": "42",
-        "rating": 4,
-        "ownerId": "d9a51f5e-d88d-49dd-a288-f8a9fbac1ebf"
-      },
-      "rentorId": "5d96474f-3b08-4bf2-aaf9-8e9475b7a328"
-    },
-    {
-      "id": "5955",
-      "product": {
-        "id": "bac7",
-        "name": "aaaaa",
-        "image": "https://i.pinimg.com/736x/1f/32/31/1f3231213a41a42089ffd90365ddcc59.jpg",
-        "price": "20",
-        "rating": 4,
-        "description": "sssss",
-        "ownerId": "aed6cb7b-d28f-442e-be8f-58e4a7ca17ed",
-        "schedule": [],
-        "date": null,
-        "timeRange": "",
-        "status": true
-      },
-      "rentorId": "2def5f6b-fe54-45d0-93d7-36891275e9c7"
-    },
-    {
-      "id": "0a61",
-      "product": {
-        "id": "c68b",
-        "name": "Cancha Deportiva Militar",
-        "image": "https://www.circulomilitardelperu.com/img/Sedess/Chorrillos/Areas%20Deportivas/Futbol/2.jpg",
-        "price": "56",
-        "rating": 4,
-        "ownerId": "042ca49f-fd4a-4428-a252-f00ff0d088f3",
-        "status": true
-      },
-      "rentorId": "5d96474f-3b08-4bf2-aaf9-8e9475b7a328"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
