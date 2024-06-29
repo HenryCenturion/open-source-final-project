@@ -114,7 +114,7 @@ export class EditPopupComponent implements OnChanges {
       this.productForm.patchValue(formValue);
 
       // Make a GET request to your db.json file
-      this.http.get('http://localhost:3000/items').subscribe((data: any) => {
+      this.http.get('https://my-json-server.typicode.com/HenryCenturion/demo/items').subscribe((data: any) => {
         // Replace this with your actual logic for retrieving the available dates and time ranges
         this.availableDates = data.availableDates;
         this.availableTimeRanges = data.availableTimeRanges;

@@ -119,7 +119,7 @@
       <br><br>
       TP: Sebastián Frisancho: Estuve viendo las partes del logeo y autorización el usuario.
       <br><br>
-      TB2: Sebastián Frisancho: Realicé pruebas de integración y rendimiento para evaluar y optimizar el funcionamiento del backend.
+      TB2: Sebastián Frisancho: Realicé pruebas de usuario para evaluar y mejorar la experiencia del usuario en la interfaz gráfica.
       <br><br>
       TF: Sebastián Frisancho: Realicé pruebas exhaustivas de integración y rendimiento, evaluando y optimizando el funcionamiento del backend para garantizar una experiencia de usuario óptima y eficiente.
     </td>
@@ -130,7 +130,7 @@
       <br><br>
       TP: Francis Mamani: Estuve viendo la parte grafica de los componentes y así luzca mejor la interfaz.
       <br><br>
-      TB2: Francis Mamani: Analicé los resultados de las entrevistas para refinar los requisitos y mejorar la arquitectura del sistema y la estructura de la base de datos.
+      TB2: Francis Mamani: Analicé los resultados de las entrevistas para refinar los requisitos y mejorar el diseño de la interfaz.
       <br><br>
       TF: Francis Mamani: Analicé detalladamente los resultados de las entrevistas para refinar los requisitos, mejorando tanto la arquitectura del sistema como la estructura de la base de datos, asegurando una base sólida para el backend.
     </td>
@@ -147,8 +147,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ### Registro de versiones <br>
 
@@ -1426,6 +1424,7 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-container-1.png" alt="UPC">
 
+
 </div>
 
 
@@ -1434,7 +1433,6 @@ Link del figma para ver todos los mocks-up en el anexo <br>
 <div style="text-align: justify;">
 
 <img src="https://raw.githubusercontent.com//HenryCenturion//open-source-final-project/develop//informe//images//new-components-1.png" alt="UPC">
-
 </div>
 
 ## 4.7. Software Object-Oriented Design
