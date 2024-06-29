@@ -2,6 +2,7 @@ package com.dtaquito_backend.dtaquito_backend.reservations.application.internal.
 
 import com.dtaquito_backend.dtaquito_backend.reservations.domain.model.aggregates.Reservation;
 import com.dtaquito_backend.dtaquito_backend.reservations.domain.model.commands.CreateReservationsCommand;
+import com.dtaquito_backend.dtaquito_backend.reservations.domain.model.events.ReservationCreatedEvent;
 import com.dtaquito_backend.dtaquito_backend.reservations.domain.services.ReservationsCommandService;
 import com.dtaquito_backend.dtaquito_backend.reservations.infrastructure.persistance.jpa.ReservationsRepository;
 import com.dtaquito_backend.dtaquito_backend.sportspaces.infrastructure.persistance.jpa.SportSpacesRepository;
@@ -37,5 +38,10 @@ public class ReservationsCommandServiceImpl implements ReservationsCommandServic
     @Override
     public void handleDelete(Long id) {
         reservationsRepository.deleteById(id);
+    }
+
+    @Override
+    public void handleReservationCreatedEvent(ReservationCreatedEvent event) {
+        System.out.println("ReservationCreatedEvent received for reservation ID: " + event.getReservationId());
     }
 }

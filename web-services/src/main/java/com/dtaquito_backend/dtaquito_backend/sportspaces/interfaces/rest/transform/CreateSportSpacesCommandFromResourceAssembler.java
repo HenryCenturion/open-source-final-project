@@ -6,6 +6,6 @@ import com.dtaquito_backend.dtaquito_backend.sportspaces.interfaces.rest.resourc
 public class CreateSportSpacesCommandFromResourceAssembler {
 
     public static CreateSportSpacesCommand toCommandFromResource(CreateSportSpacesResource resource) {
-        return new CreateSportSpacesCommand(resource.name(),resource.imageUrl(), resource.price(), resource.description(), resource.userId(), resource.startTime(), resource.endTime());
+        return new CreateSportSpacesCommand(resource.name(),resource.sportId(),resource.imageUrl(), resource.price(), resource.district(), resource.description(), resource.userId(), resource.startTime(), resource.endTime(), resource.rating());
     }
 }

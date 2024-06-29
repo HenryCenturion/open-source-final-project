@@ -8,10 +8,7 @@ import java.util.Optional;
 
 public interface SuscriptionsRepository extends JpaRepository<Suscriptions, Long> {
 
-    List<Suscriptions> findAllByPlan(String plan);
-
-    boolean existsByPlan(String plan);
-
+    List<Suscriptions> findAllByPlanId(Long planId);
     Optional<Suscriptions> findByUserId(Long userId);
 
 }

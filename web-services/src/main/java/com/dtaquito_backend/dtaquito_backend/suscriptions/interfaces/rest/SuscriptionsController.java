@@ -7,7 +7,12 @@ import java.util.Optional;
 import com.dtaquito_backend.dtaquito_backend.payments.domain.model.aggregates.Payments;
 import com.dtaquito_backend.dtaquito_backend.payments.domain.services.PaymentsCommandService;
 import com.dtaquito_backend.dtaquito_backend.payments.domain.services.PaymentsQueryService;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.commands.CreateSuscriptionsCommand;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.entities.Plan;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.valueObjects.PlanTypes;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.infrastructure.persistance.jpa.PlanRepository;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -28,19 +33,21 @@ import com.dtaquito_backend.dtaquito_backend.suscriptions.interfaces.rest.transf
 import com.dtaquito_backend.dtaquito_backend.suscriptions.interfaces.rest.transform.SuscriptionsResourceFromEntityAssembler;
 
 @RestController
-@RequestMapping("/api/v1/suscriptions")
+@RequestMapping(value = "/api/v1/suscriptions", produces = MediaType.APPLICATION_JSON_VALUE)
 public class SuscriptionsController {
 
     private final SuscriptionsQueryService suscriptionsQueryService;
     private final SuscriptionsCommandService suscriptionsCommandService;
     private final PaymentsCommandService paymentsCommandService;
     private final PaymentsQueryService paymentsQueryService;
+    private final PlanRepository planRepository; // Add this line
 
-    public SuscriptionsController(SuscriptionsQueryService suscriptionsQueryService, SuscriptionsCommandService suscriptionsCommandService, PaymentsCommandService paymentsCommandService, PaymentsQueryService paymentsQueryService) {
+    public SuscriptionsController(SuscriptionsQueryService suscriptionsQueryService, SuscriptionsCommandService suscriptionsCommandService, PaymentsCommandService paymentsCommandService, PaymentsQueryService paymentsQueryService, PlanRepository planRepository) { // Update this line
         this.suscriptionsQueryService = suscriptionsQueryService;
         this.suscriptionsCommandService = suscriptionsCommandService;
         this.paymentsCommandService = paymentsCommandService;
         this.paymentsQueryService = paymentsQueryService;
+        this.planRepository = planRepository; // Add this line
     }
 
     @GetMapping("{id}")
@@ -85,23 +92,28 @@ public class SuscriptionsController {
         }
 
         Suscriptions suscription = existingSuscription.get();
-        if (suscription.getPlan().equals("free") && "premium".equals(resource.plan())) {
+        Plan plan = planRepository.findById(resource.planId()).orElseThrow(() -> new IllegalArgumentException("Plan not found"));
+
+        if (PlanTypes.free.equals(suscription.getPlan().getPlanType()) && PlanTypes.premium.equals(plan.getPlanType())) {
             Long userId = suscription.getUser().getId();
             Optional<Payments> payments = paymentsQueryService.getPaymentByUserId(userId);
             if (!payments.isPresent()) {
-                SuscriptionsResource errorResource = new SuscriptionsResource(null, null, null);
+                SuscriptionsResource errorResource = new SuscriptionsResource(null, null, null, null);
                 return new ResponseEntity<>(errorResource, HttpStatus.BAD_REQUEST);
             }
             Payments payment = payments.get();
             if (payment.getBalance() < 70) {
-                SuscriptionsResource errorResource = new SuscriptionsResource(null, null, null);
+                SuscriptionsResource errorResource = new SuscriptionsResource(null, null, null, null);
                 return new ResponseEntity<>(errorResource, HttpStatus.BAD_REQUEST);
             }
             payment.setBalance(payment.getBalance() - 70);
             paymentsCommandService.updatePayments(payment);
         }
 
-        suscription.update(CreateSuscriptionsCommandFromResourceAssembler.toCommandFromResource(resource));
+        CreateSuscriptionsCommand command = CreateSuscriptionsCommandFromResourceAssembler.toCommandFromResource(resource);
+        Plan newPlan = planRepository.findById(command.planId()).orElseThrow(() -> new IllegalArgumentException("Plan not found"));
+        suscription.update(newPlan);
+
         Suscriptions updatedSuscription = suscriptionsCommandService.updateSuscription(suscription).orElseThrow(() -> new IllegalArgumentException("Error updating suscription"));
         return ResponseEntity.ok(SuscriptionsResourceFromEntityAssembler.toResourceFromEntity(updatedSuscription));
     }

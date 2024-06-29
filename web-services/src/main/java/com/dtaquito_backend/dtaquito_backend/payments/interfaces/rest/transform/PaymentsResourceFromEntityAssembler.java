@@ -6,6 +6,6 @@ import com.dtaquito_backend.dtaquito_backend.payments.interfaces.rest.resources.
 public class PaymentsResourceFromEntityAssembler {
 
     public static PaymentsResource toResourceFromEntity(Payments entity) {
-        return new PaymentsResource(entity.getId(), entity.getCardNumber(), entity.getExpirationDate(), entity.getCardHolder(), entity.getCardIssuer(), entity.getCvv(), entity.getUser(), entity.getBalance());
+        return new PaymentsResource(entity.getId(), entity.getCardNumber(), entity.getExpirationDate().expirationDate(), entity.getCardHolder(), entity.getCardIssuer(), entity.getCvv().cvv(), entity.getUser(), entity.getBalance());
     } 
 }

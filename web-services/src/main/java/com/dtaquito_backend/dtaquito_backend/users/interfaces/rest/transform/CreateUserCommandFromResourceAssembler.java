@@ -6,6 +6,6 @@ import com.dtaquito_backend.dtaquito_backend.users.interfaces.rest.resources.Cre
 public class CreateUserCommandFromResourceAssembler {
 
     public static CreateUserCommand toCommandFromResource(CreateUserResource resource) {
-        return new CreateUserCommand(resource.name(), resource.email(), resource.password(), resource.role());
+        return new CreateUserCommand(resource.name(), resource.email(), resource.password(), resource.roleId());
     }
 }

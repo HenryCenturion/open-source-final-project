@@ -10,6 +10,10 @@ import java.util.Optional;
 public interface ReservationsQueryService {
 
     Optional<Reservation> handle(GetReservationsByIdQuery query);
+
     List<Reservation> getAllReservations();
+
     List<Reservation> handle(GetReservationsByUserId query);
+
+    List<Reservation> getReservationsBySportSpacesId(Long sportSpacesId);
 }

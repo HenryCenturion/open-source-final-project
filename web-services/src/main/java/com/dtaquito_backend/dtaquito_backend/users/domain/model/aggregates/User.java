@@ -1,55 +1,54 @@
 package com.dtaquito_backend.dtaquito_backend.users.domain.model.aggregates;
 
 
-import org.springframework.data.domain.AbstractAggregateRoot;
-import org.springframework.data.jpa.domain.support.AuditingEntityListener;
+import com.dtaquito_backend.dtaquito_backend.iam.domain.model.commands.SignUpCommand;
+import com.dtaquito_backend.dtaquito_backend.shared.domain.model.aggregates.AuditableAbstractAggregateRoot;
+import com.dtaquito_backend.dtaquito_backend.users.domain.model.entities.Role;
+import jakarta.persistence.*;
+import jakarta.validation.constraints.NotBlank;
 
 import com.dtaquito_backend.dtaquito_backend.users.domain.model.commands.CreateUserCommand;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.EntityListeners;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
 import lombok.Getter;
 
 @Entity
-@EntityListeners(AuditingEntityListener.class)
-public class User extends AbstractAggregateRoot<User> {
+@Getter
+public class User extends AuditableAbstractAggregateRoot<User> {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Getter
-    private Long id;
-
+    @NotBlank
     @Column(nullable = false)
-    @Getter
     private String name;
 
+    @NotBlank
     @Column(nullable = false)
-    @Getter
     private String email;
 
+    @NotBlank
     @Column(nullable = false)
-    @Getter
     private String password;
 
-    @Column(nullable = false)
-    @Getter
-    private String role;
+    @ManyToOne(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
+    @JoinColumn(name = "role_id", nullable = false)
+    private Role role;
 
-    protected User() {
+    public User() {
     }
 
-    public User(CreateUserCommand command) {
+    public User(CreateUserCommand command, Role role) {
         this.name = command.name();
         this.email = command.email();
         this.password = command.password();
-        this.role = command.role();
+        this.role = role;
     }
 
-    public void update(CreateUserCommand command) {
+    public User(String name, String email, String password, Role role) {
+        this.name = name;
+        this.email = email;
+        this.password = password;
+        this.role = role;
+    }
+
+    public void update(SignUpCommand command) {
         this.name = command.name();
         this.email = command.email();
         this.password = command.password();

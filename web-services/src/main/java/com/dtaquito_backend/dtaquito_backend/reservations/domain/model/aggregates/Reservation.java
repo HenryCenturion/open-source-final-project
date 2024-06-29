@@ -1,6 +1,7 @@
 package com.dtaquito_backend.dtaquito_backend.reservations.domain.model.aggregates;
 
 import com.dtaquito_backend.dtaquito_backend.reservations.domain.model.commands.CreateReservationsCommand;
+import com.dtaquito_backend.dtaquito_backend.shared.domain.model.aggregates.AuditableAbstractAggregateRoot;
 import com.dtaquito_backend.dtaquito_backend.sportspaces.domain.model.aggregates.SportSpaces;
 import com.dtaquito_backend.dtaquito_backend.users.domain.model.aggregates.User;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -13,7 +14,7 @@ import java.util.Date;
 
 @Entity
 @EntityListeners(AuditingEntityListener.class)
-public class Reservation extends AbstractAggregateRoot<Reservation> {
+public class Reservation extends AuditableAbstractAggregateRoot<Reservation> {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

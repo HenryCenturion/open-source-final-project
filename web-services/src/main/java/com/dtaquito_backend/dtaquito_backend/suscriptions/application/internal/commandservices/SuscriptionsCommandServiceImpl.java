@@ -1,10 +1,15 @@
 package com.dtaquito_backend.dtaquito_backend.suscriptions.application.internal.commandservices;
 
 import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.aggregates.Suscriptions;
-import com.dtaquito_backend.dtaquito_backend.users.domain.model.commands.CreateSuscriptionsCommand;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.commands.CreateSuscriptionsCommand;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.entities.Plan;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.events.SuscriptionCreatedEvent;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.valueObjects.PlanTypes;
 import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.services.SuscriptionsCommandService;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.infrastructure.persistance.jpa.PlanRepository;
 import com.dtaquito_backend.dtaquito_backend.suscriptions.infrastructure.persistance.jpa.SuscriptionsRepository;
 import com.dtaquito_backend.dtaquito_backend.users.infrastructure.persistance.jpa.UserRepository;
+import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;
@@ -14,18 +19,34 @@ public class SuscriptionsCommandServiceImpl implements SuscriptionsCommandServic
 
     private final SuscriptionsRepository suscriptionsRepository;
     private final UserRepository userRepository;
+    private final PlanRepository planRepository;
+    private final ApplicationEventPublisher applicationEventPublisher;
 
-    public SuscriptionsCommandServiceImpl(SuscriptionsRepository suscriptionsRepository, UserRepository userRepository) {
+
+    public SuscriptionsCommandServiceImpl(SuscriptionsRepository suscriptionsRepository, UserRepository userRepository, PlanRepository planRepository, ApplicationEventPublisher applicationEventPublisher) {
         this.suscriptionsRepository = suscriptionsRepository;
         this.userRepository = userRepository;
+        this.planRepository = planRepository;
+        this.applicationEventPublisher = applicationEventPublisher;
+
     }
 
     @Override
     public Optional<Suscriptions> handle(CreateSuscriptionsCommand command) {
+        System.out.println("Token: " + command.token()); // Agrega esta línea
+
         var user = userRepository.findById(command.userId())
                 .orElseThrow(() -> new IllegalArgumentException("User not found"));
-        var suscriptions = new Suscriptions(command, user);
+
+        Plan plan = planRepository.findById(command.planId())
+                .orElseGet(() -> planRepository.findByPlanType(PlanTypes.free)
+                        .orElseThrow(() -> new IllegalArgumentException("Free plan not found")));
+
+        var suscriptions = new Suscriptions(plan, user);
         var createdSuscriptions = suscriptionsRepository.save(suscriptions);
+
+        SuscriptionCreatedEvent event = new SuscriptionCreatedEvent(this, createdSuscriptions.getId());
+        applicationEventPublisher.publishEvent(event);
         return Optional.of(createdSuscriptions);
     }
 
@@ -33,5 +54,10 @@ public class SuscriptionsCommandServiceImpl implements SuscriptionsCommandServic
     public Optional<Suscriptions> updateSuscription(Suscriptions suscription) {
         var updatedSuscription = suscriptionsRepository.save(suscription);
         return Optional.of(updatedSuscription);
+    }
+
+    @Override
+    public void handleSuscriptionCreatedEvent(SuscriptionCreatedEvent event) {
+        System.out.println("SuscriptionDeletedEvent received for suscription ID: " + event.getSuscriptionId());
     }
 }

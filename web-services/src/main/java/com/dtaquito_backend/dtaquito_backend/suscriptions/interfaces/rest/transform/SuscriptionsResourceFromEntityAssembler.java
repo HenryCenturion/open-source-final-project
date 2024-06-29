@@ -6,6 +6,6 @@ import com.dtaquito_backend.dtaquito_backend.suscriptions.interfaces.rest.resour
 public class SuscriptionsResourceFromEntityAssembler {
 
     public static SuscriptionsResource toResourceFromEntity(Suscriptions entity) {
-        return new SuscriptionsResource(entity.getId(), entity.getPlan(), entity.getUser());
+        return new SuscriptionsResource(entity.getId(), entity.getPlan().getId(), entity.getUser(), entity.getPlan().getPlanType().name().toLowerCase());
     }
 }

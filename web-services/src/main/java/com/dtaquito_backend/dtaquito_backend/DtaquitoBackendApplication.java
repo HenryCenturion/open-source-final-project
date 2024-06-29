@@ -13,7 +13,7 @@ public class DtaquitoBackendApplication {
 		SpringApplication.run(DtaquitoBackendApplication.class, args);
 
 		// Open Swagger UI in the default browser
-		String url = "http://localhost:8080/swagger-ui.html";
+		String url = "https://dtaquito-backend.azurewebsites.net/swagger-ui.html";
 		Runtime rt = Runtime.getRuntime();
 
 		try {
@@ -22,6 +22,4 @@ public class DtaquitoBackendApplication {
 			e.printStackTrace();
 		}
 	}
-
-
 }

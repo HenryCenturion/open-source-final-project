@@ -1,56 +1,82 @@
 package com.dtaquito_backend.dtaquito_backend.users.interfaces.rest;
 
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
-
+import java.util.*;
 import static org.springframework.http.HttpStatus.CREATED;
+
+import com.dtaquito_backend.dtaquito_backend.iam.application.internal.outboundservices.tokens.TokenService;
+import com.dtaquito_backend.dtaquito_backend.iam.interfaces.rest.resources.AuthenticatedUserResource;
+import com.dtaquito_backend.dtaquito_backend.iam.interfaces.rest.resources.SignUpResource;
+import com.dtaquito_backend.dtaquito_backend.iam.interfaces.rest.transform.SignUpCommandFromResourceAssembler;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.entities.Plan;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.valueObjects.PlanTypes;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.infrastructure.persistance.jpa.PlanRepository;
+import io.swagger.v3.oas.annotations.tags.Tag;
+import org.antlr.v4.runtime.Token;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.services.SuscriptionsCommandService;
 import com.dtaquito_backend.dtaquito_backend.users.domain.model.aggregates.User;
-import com.dtaquito_backend.dtaquito_backend.users.domain.model.commands.CreateSuscriptionsCommand;
+import com.dtaquito_backend.dtaquito_backend.suscriptions.domain.model.commands.CreateSuscriptionsCommand;
 import com.dtaquito_backend.dtaquito_backend.users.domain.model.queries.GetAllUserByNameQuery;
 import com.dtaquito_backend.dtaquito_backend.users.domain.model.queries.GetUserByIdQuery;
 import com.dtaquito_backend.dtaquito_backend.users.domain.services.UserCommandService;
 import com.dtaquito_backend.dtaquito_backend.users.domain.services.UserQueryService;
-import com.dtaquito_backend.dtaquito_backend.users.interfaces.rest.resources.CreateUserResource;
 import com.dtaquito_backend.dtaquito_backend.users.interfaces.rest.resources.UserResource;
-import com.dtaquito_backend.dtaquito_backend.users.interfaces.rest.transform.CreateUserCommandFromResourceAssembler;
 import com.dtaquito_backend.dtaquito_backend.users.interfaces.rest.transform.UserResourceFromEntityAssembler;
 
 @RestController
-@RequestMapping("/api/v1/users")
+@RequestMapping(value = "/api/v1/users", produces = MediaType.APPLICATION_JSON_VALUE)
+@Tag(name = "Users", description = "Users Controller")
 public class UserController {
 
     private final UserCommandService userCommandService;
     private final UserQueryService userQueryService;
     private final SuscriptionsCommandService suscriptionsCommandService;
+    private final PlanRepository planRepository;
+    private final TokenService tokenService;
 
-    public UserController(UserCommandService userCommandService, UserQueryService userQueryService, SuscriptionsCommandService suscriptionsCommandService) {
+    public UserController(UserCommandService userCommandService, UserQueryService userQueryService, SuscriptionsCommandService suscriptionsCommandService, PlanRepository planRepository, TokenService tokenService) { // Modify this line
         this.userCommandService = userCommandService;
         this.userQueryService = userQueryService;
         this.suscriptionsCommandService = suscriptionsCommandService;
+        this.planRepository = planRepository;
+        this.tokenService = tokenService;
     }
 
     @PostMapping
-    public ResponseEntity<UserResource> createUser(@RequestBody CreateUserResource resource){
-        Optional<User> user = userCommandService.handle(CreateUserCommandFromResourceAssembler.toCommandFromResource((resource)));
-        if (user.isPresent()) {
-            CreateSuscriptionsCommand command = new CreateSuscriptionsCommand("free", user.get().getId());
-            suscriptionsCommandService.handle(command);
-        }
-        return user.map(source -> new ResponseEntity<>(UserResourceFromEntityAssembler.toResourceFromEntity(source), CREATED)).orElseGet(() -> ResponseEntity.badRequest().build());
-    }
+    public ResponseEntity<AuthenticatedUserResource> createUser(@RequestBody SignUpResource resource){
+        try {
+            Optional<User> userPair = userCommandService.handle(SignUpCommandFromResourceAssembler.toCommandFromResource((resource)));
+            if (userPair.isPresent()) {
+                Plan freePlan = planRepository.findByPlanType(PlanTypes.free)
+                        .orElseThrow(() -> new IllegalArgumentException("Free plan not found"));
+                User user = userPair.get();
+                CreateSuscriptionsCommand command = new CreateSuscriptionsCommand(freePlan.getId(), user.getId(), null); // get the id of the User object
+                try {
+                    suscriptionsCommandService.handle(command);
+                } catch (Exception e) {
+                    System.out.println("Error al crear la suscripción: " + e.getMessage());
+                    e.printStackTrace();
+                }
 
+                // Generate a new authentication token for the user
+                String token = tokenService.generateToken(user.getEmail()); // Usa el método generateToken de TokenService
+
+                // Create an AuthenticatedUserResource with the user's information and the new token
+                AuthenticatedUserResource authenticatedUserResource = new AuthenticatedUserResource(user.getId(), token, user.getRole().getStringName());
+
+                return ResponseEntity.status(CREATED).body(authenticatedUserResource);
+            }
+            return ResponseEntity.badRequest().build();
+        } catch (Exception e) {
+            System.out.println("Error al crear el usuario: " + e.getMessage());
+            e.printStackTrace();
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
+        }
+    }
     @GetMapping("{id}")
     public ResponseEntity<UserResource> getUserById(@PathVariable Long id){
         Optional<User> user = userQueryService.handle(new GetUserByIdQuery(id));
@@ -82,8 +108,8 @@ public class UserController {
         }
     }
     @PutMapping("{id}")
-    public ResponseEntity<UserResource> updateUser(@PathVariable Long id, @RequestBody CreateUserResource resource) {
-        Optional<User> user = userCommandService.updateUser(id, CreateUserCommandFromResourceAssembler.toCommandFromResource((resource)));
+    public ResponseEntity<UserResource> updateUser(@PathVariable Long id, @RequestBody SignUpResource resource) {
+        Optional<User> user = userCommandService.updateUser(id, SignUpCommandFromResourceAssembler.toCommandFromResource((resource)));
         return user.map(source -> ResponseEntity.ok(UserResourceFromEntityAssembler.toResourceFromEntity(source))).orElseGet(() -> ResponseEntity.notFound().build());
     }
 

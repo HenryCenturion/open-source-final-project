@@ -15,6 +15,7 @@ import com.dtaquito_backend.dtaquito_backend.users.domain.services.UserQueryServ
 import com.dtaquito_backend.dtaquito_backend.users.interfaces.rest.resources.UserResource;
 import com.dtaquito_backend.dtaquito_backend.users.interfaces.rest.transform.UserResourceFromEntityAssembler;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -27,17 +28,15 @@ import java.util.Map;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/v1/payments")
+@RequestMapping(value = "/api/v1/payments", produces = MediaType.APPLICATION_JSON_VALUE)
 public class PaymentsController {
 
     private final PaymentsCommandService paymentsCommandService;
     private final PaymentsQueryService paymentsQueryService;
-    private final UserQueryService userQueryService;
 
-    public PaymentsController(PaymentsCommandService paymentsCommandService, PaymentsQueryService paymentsQueryService, UserQueryService userQueryService) {
+    public PaymentsController(PaymentsCommandService paymentsCommandService, PaymentsQueryService paymentsQueryService) {
         this.paymentsCommandService = paymentsCommandService;
         this.paymentsQueryService = paymentsQueryService;
-        this.userQueryService = userQueryService;
     }
 
     @PostMapping

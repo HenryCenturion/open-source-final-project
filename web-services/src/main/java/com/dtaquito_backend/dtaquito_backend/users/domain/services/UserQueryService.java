@@ -20,7 +20,6 @@ public interface UserQueryService {
 
     String getUserRoleByUserId(Long userId);
 
-    String getUserSubscriptionPlan(Long userId);
     Optional<User> getUserById(Long userId);
 
     Optional<User> getUserByEmailAndPassword (String email, String password);

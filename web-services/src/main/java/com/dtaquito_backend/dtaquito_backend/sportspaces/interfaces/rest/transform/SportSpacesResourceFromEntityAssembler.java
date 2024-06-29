@@ -6,6 +6,6 @@ import com.dtaquito_backend.dtaquito_backend.sportspaces.interfaces.rest.resourc
 public class SportSpacesResourceFromEntityAssembler {
 
     public static SportSpacesResource toResourceFromEntity(SportSpaces entity) {
-        return new SportSpacesResource(entity.getId(), entity.getName(), entity.getImageUrl(), entity.getPrice(), entity.getDescription(), entity.getUser(), entity.getStartTime(), entity.getEndTime());
+        return new SportSpacesResource(entity.getId(), entity.getName(), entity.getSport().getId(), entity.getSport().getSportType().name().toUpperCase(), entity.getImageUrl(), entity.getPrice(), entity.getDistrict() ,entity.getDescription(), entity.getUser(), entity.getStartTime(), entity.getEndTime(), entity.getRating());
     }
 }

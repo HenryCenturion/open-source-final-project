@@ -37,4 +37,9 @@ public class ReservationsQueryServiceImpl implements ReservationsQueryService {
     public List<Reservation> handle(GetReservationsByUserId query) {
         return reservationsRepository.findByUserId(query.userId());
     }
+
+    @Override
+    public List<Reservation> getReservationsBySportSpacesId(Long sportSpacesId) {
+        return reservationsRepository.findBySportSpacesId(sportSpacesId);
+    }
 }

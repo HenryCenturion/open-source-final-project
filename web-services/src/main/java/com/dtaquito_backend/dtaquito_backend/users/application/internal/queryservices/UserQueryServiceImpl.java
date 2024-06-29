@@ -14,8 +14,6 @@ import com.dtaquito_backend.dtaquito_backend.users.domain.model.queries.GetUserB
 import com.dtaquito_backend.dtaquito_backend.users.domain.services.UserQueryService;
 import com.dtaquito_backend.dtaquito_backend.users.infrastructure.persistance.jpa.UserRepository;
 
-import javax.swing.text.html.Option;
-
 @Service
 public class UserQueryServiceImpl implements UserQueryService {
 
@@ -39,7 +37,7 @@ public class UserQueryServiceImpl implements UserQueryService {
     @Override
     public String getUserRoleByUserId(Long userId) {
         Optional<User> user = userRepository.findById(userId);
-        return user.map(User::getRole).orElse(null);
+        return user.map(u -> u.getRole().getRoleType().name()).orElse(null);
     }
 
     @Override
@@ -53,16 +51,6 @@ public class UserQueryServiceImpl implements UserQueryService {
             throw new NoSuchElementException("User with ID " + userId + " not found");
         }
         return user;
-    }
-
-    @Override
-    public String getUserSubscriptionPlan(Long userId) {
-        Optional<Suscriptions> subscription = subscriptionRepository.findByUserId(userId);
-        if (subscription.isPresent()) {
-            return subscription.get().getPlan();
-        } else {
-            throw new IllegalArgumentException("Subscription for user with id " + userId + " does not exist");
-        }
     }
 
     @Override

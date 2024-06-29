@@ -1,6 +1,5 @@
 package com.dtaquito_backend.dtaquito_backend.reservations.domain.model.commands;
 
-import java.time.LocalDateTime;
 import java.util.Date;
 
 public record CreateReservationsCommand(Date time, Long hours, Long userId, Long sportSpacesId) {

@@ -1,5 +1,7 @@
 package com.dtaquito_backend.dtaquito_backend.sportspaces.domain.model.aggregates;
 
+import com.dtaquito_backend.dtaquito_backend.shared.domain.model.aggregates.AuditableAbstractAggregateRoot;
+import com.dtaquito_backend.dtaquito_backend.sportspaces.domain.model.entities.Sport;
 import com.dtaquito_backend.dtaquito_backend.users.domain.model.aggregates.User;
 import com.dtaquito_backend.dtaquito_backend.sportspaces.domain.model.commands.CreateSportSpacesCommand;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -9,8 +11,9 @@ import org.springframework.data.domain.AbstractAggregateRoot;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
 @Entity
+@Getter
 @EntityListeners(AuditingEntityListener.class)
-public class SportSpaces extends AbstractAggregateRoot<SportSpaces> {
+public class SportSpaces extends AuditableAbstractAggregateRoot<SportSpaces> {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -21,6 +24,10 @@ public class SportSpaces extends AbstractAggregateRoot<SportSpaces> {
     @Getter
     private String name;
 
+    @ManyToOne
+    @JoinColumn(name = "sport_id", nullable = false)
+    private Sport sport;
+
     @Column(nullable = false)
     @Getter
     private String imageUrl;
@@ -28,6 +35,10 @@ public class SportSpaces extends AbstractAggregateRoot<SportSpaces> {
     @Column(nullable = false)
     @Getter
     private Long price;
+
+    @Column(nullable = false)
+    @Getter
+    private String district;
 
     @Column(nullable = false)
     @Getter
@@ -47,24 +58,34 @@ public class SportSpaces extends AbstractAggregateRoot<SportSpaces> {
     @Getter
     private String endTime;
 
+    @Column(nullable = false)
+    @Getter
+    private Long rating;
+
+
     protected SportSpaces() {}
 
-    public SportSpaces(CreateSportSpacesCommand command, User user) {
+    public SportSpaces(CreateSportSpacesCommand command, User user, Sport sport) {
         this.name = command.name();
+        this.sport = sport;
         this.imageUrl = command.imageUrl();
         this.price = command.price();
+        this.district = command.district();
         this.description = command.description();
         this.user = user;
         this.startTime = command.startTime();
         this.endTime = command.endTime();
+        this.rating = 0L;
     }
 
     public void update(CreateSportSpacesCommand command) {
         this.name = command.name();
         this.imageUrl = command.imageUrl();
         this.price = command.price();
+        this.district = command.district();
         this.description = command.description();
         this.startTime = command.startTime();
         this.endTime = command.endTime();
+        this.rating= command.rating();
     }
 }

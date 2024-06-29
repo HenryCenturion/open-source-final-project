@@ -2,6 +2,7 @@ package com.dtaquito_backend.dtaquito_backend.payments.application.internal.comm
 
 import com.dtaquito_backend.dtaquito_backend.payments.domain.model.aggregates.Payments;
 import com.dtaquito_backend.dtaquito_backend.payments.domain.model.commands.CreatePaymentsCommand;
+import com.dtaquito_backend.dtaquito_backend.payments.domain.model.events.PaymentsCreatedEvent;
 import com.dtaquito_backend.dtaquito_backend.payments.domain.services.PaymentsCommandService;
 import com.dtaquito_backend.dtaquito_backend.payments.infrastructure.persistance.jpa.PaymentsRepository;
 import com.dtaquito_backend.dtaquito_backend.users.infrastructure.persistance.jpa.UserRepository;
@@ -38,5 +39,10 @@ public class PaymentsCommandServiceImpl implements PaymentsCommandService {
     @Override
     public void updatePayments(Payments payment) {
         paymentsRepository.save(payment);
+    }
+
+    @Override
+    public void handlePaymentsCreatedEvent(PaymentsCreatedEvent event) {
+        System.out.println("PaymentsCreatedEvent received for payment ID: " + event.getId());
     }
 }
