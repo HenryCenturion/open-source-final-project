@@ -1968,8 +1968,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
 
   | Repository                       | Branch    | Commit Id                                 | Commit Message       | Commit Message Body | Commited on (Date) |
   |-------------------------------|-----------------------------------|-------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | ebdbd1e                                 | Initial commit       | Empty | 09/06/2024 |
-  | github.com/HenryCenturion/open-source-final-project                       | feature/web-service    | 326f262                                 | feat: Upload services-web folder       | New techincal stories for the backend | 09/06/2024 |
+  | github.com/HenryCenturion/open-source-final-project                       | feature/web-services    | 5f14bed                                 | Update frontend and backend code      | Empty | 29/06/2024 |
   
   #### 5.2.4.4. Testing Suite Evidence for Sprint Review
   Para el caso, hemos presentado evidencia de nuestro codigo, referenciando asi algunas de las secciones en las cuales disponemos, ademas de la organizacion de las carpetas.
@@ -1993,7 +1992,7 @@ Para el caso, estamos evidenciando la ejecucion correcta de nuestra aplicacion w
   
   #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
-  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace: https://dtaquito-backend.azurewebsites.net/api/v1/{llamado_de_apis} (Ver anexos)
+  - Se realizo el deployment del backend de el servicio de D´taquito. Enlace: https://dtaquito-backend.azurewebsites.net/swagger-ui/index.html#/ (Ver anexos)
   
   #### 5.2.4.8. Team Collaboration Insights during Sprint
 
@@ -2165,13 +2164,13 @@ Enlace a figma:
 https://www.figma.com/file/9b5VMPb1CCHGYuWQkP2554/UX-Design?type=design&node-id=0%3A1&mode=design&t=K3kzNMJ1UGVbxDsc-1
 
 Enlace al deploy del landing page:
-https://dtaquito-landing-page.netlify.app/
+https://667f4b535561429bf769a2d4--dtaquito-new-landing-page.netlify.app/
 
 Enlace al deploy del web aplication:
-https://tf-open-source.netlify.app/
+https://dtaquito-page.netlify.app/
 
 Enlace al deploy del web service:
-https://dtaquito-backend.azurewebsites.net/swagger-ui/index.html
+https://dtaquito-backend.azurewebsites.net/swagger-ui/index.html#/
 
 Enlace al repositorio en Github:
 https://github.com/HenryCenturion/open-source-final-project
