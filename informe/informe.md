@@ -82,7 +82,11 @@
     <th valign="top">Conclusiones</th>
   </tr>
   <tr>
-    <td rowspan="5" valign="top">Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td>
+     <td rowspan="10" valign="top">
+      Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería
+      <br><br>
+      Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería
+    </td>
     <td valign="top">
       TB1: John Atencio: Realicé el proyecto en general junto con mis compañeros, aplicando comunicación. Desarrolle el modelo C4 junto con el diagrama de clases y base de datos
       <br><br>
