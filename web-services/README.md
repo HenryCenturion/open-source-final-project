@@ -1,2 +1,0 @@
-# dtaquito-back
-Prueba despliegue
